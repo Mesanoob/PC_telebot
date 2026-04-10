@@ -4,6 +4,7 @@ SG Condo MCST Telegram Bot
 
 import os
 import sys
+import asyncio
 import logging
 import threading
 import time
@@ -32,31 +33,12 @@ if not GEMINI_API_KEY:
 
 logger.info("ENV vars OK")
 
-# ── Imports with explicit error catching ──────────────────────────
-try:
-    logger.info("Importing telegram...")
-    from telegram import Update
-    from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ContextTypes
-    logger.info("telegram OK")
-except Exception as e:
-    logger.error(f"IMPORT ERROR (telegram): {e}", exc_info=True)
-    sys.exit(1)
+from telegram import Update
+from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ContextTypes
+from knowledge import get_relevant_knowledge
+from gemini import ask_gemini
 
-try:
-    logger.info("Importing knowledge...")
-    from knowledge import get_relevant_knowledge
-    logger.info("knowledge OK")
-except Exception as e:
-    logger.error(f"IMPORT ERROR (knowledge): {e}", exc_info=True)
-    sys.exit(1)
-
-try:
-    logger.info("Importing gemini...")
-    from gemini import ask_gemini
-    logger.info("gemini OK")
-except Exception as e:
-    logger.error(f"IMPORT ERROR (gemini): {e}", exc_info=True)
-    sys.exit(1)
+logger.info("All imports OK")
 
 RENDER_URL = os.environ.get("RENDER_EXTERNAL_URL", "")
 PORT = int(os.environ.get("PORT", 8080))
@@ -72,12 +54,9 @@ class PingHandler(BaseHTTPRequestHandler):
         pass
 
 def run_web_server():
-    try:
-        server = HTTPServer(("0.0.0.0", PORT), PingHandler)
-        logger.info(f"Web server on port {PORT}")
-        server.serve_forever()
-    except Exception as e:
-        logger.error(f"Web server error: {e}", exc_info=True)
+    server = HTTPServer(("0.0.0.0", PORT), PingHandler)
+    logger.info(f"Web server on port {PORT}")
+    server.serve_forever()
 
 def run_ping_loop():
     if not RENDER_URL:
@@ -141,18 +120,24 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 
 # ── Main ──────────────────────────────────────────────────────────
+async def run_bot():
+    app = ApplicationBuilder().token(TELEGRAM_TOKEN).build()
+    app.add_handler(CommandHandler("start", start))
+    app.add_handler(CommandHandler("help", help_cmd))
+    app.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, handle_message))
+    logger.info("Bot polling started.")
+    await app.run_polling(allowed_updates=Update.ALL_TYPES)
+
+
 if __name__ == "__main__":
+    # Start keep-alive web server in background thread
     threading.Thread(target=run_web_server, daemon=True).start()
     threading.Thread(target=run_ping_loop, daemon=True).start()
 
+    # Python 3.14 requires explicitly creating the event loop
+    logger.info("Starting event loop...")
     try:
-        logger.info("Building Telegram app...")
-        app = ApplicationBuilder().token(TELEGRAM_TOKEN).build()
-        app.add_handler(CommandHandler("start", start))
-        app.add_handler(CommandHandler("help", help_cmd))
-        app.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, handle_message))
-        logger.info("Polling started.")
-        app.run_polling(allowed_updates=Update.ALL_TYPES)
+        asyncio.run(run_bot())
     except Exception as e:
         logger.error(f"FATAL: {e}", exc_info=True)
         sys.exit(1)
