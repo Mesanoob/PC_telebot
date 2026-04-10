@@ -1,18 +1,17 @@
 """
 SG Condo MCST Telegram Bot
 Powered by Gemini Flash (free tier)
-Hosted on Render free web service with keep-alive ping
 """
 
 import os
 import logging
-import asyncio
 import threading
+import time
 from http.server import HTTPServer, BaseHTTPRequestHandler
 from urllib.request import urlopen
+from dotenv import load_dotenv
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ContextTypes
-from dotenv import load_dotenv
 from knowledge import get_relevant_knowledge
 from gemini import ask_gemini
 
@@ -26,7 +25,40 @@ logger = logging.getLogger(__name__)
 
 TELEGRAM_TOKEN = os.environ["TELEGRAM_TOKEN"]
 RENDER_URL = os.environ.get("RENDER_EXTERNAL_URL", "")
+PORT = int(os.environ.get("PORT", 8080))
 
+
+# ── Keep-alive web server ─────────────────────────────────────────
+class PingHandler(BaseHTTPRequestHandler):
+    def do_GET(self):
+        self.send_response(200)
+        self.end_headers()
+        self.wfile.write(b"Bot is running.")
+
+    def log_message(self, format, *args):
+        pass  # suppress HTTP logs
+
+
+def run_web_server():
+    server = HTTPServer(("0.0.0.0", PORT), PingHandler)
+    logger.info(f"Keep-alive web server on port {PORT}")
+    server.serve_forever()
+
+
+def run_ping_loop():
+    if not RENDER_URL:
+        return
+    time.sleep(30)  # wait for server to fully start
+    while True:
+        try:
+            urlopen(RENDER_URL)
+            logger.info("Keep-alive ping OK")
+        except Exception as e:
+            logger.warning(f"Ping failed: {e}")
+        time.sleep(600)  # ping every 10 min
+
+
+# ── Telegram handlers ─────────────────────────────────────────────
 WELCOME = (
     "👋 *SG Condo MCST Bot*\n\n"
     "Ask me anything about condo management in Singapore:\n"
@@ -53,45 +85,6 @@ HELP = (
 )
 
 
-# ── Keep-alive web server ─────────────────────────────────────────
-class PingHandler(BaseHTTPRequestHandler):
-    def do_GET(self):
-        self.send_response(200)
-        self.end_headers()
-        self.wfile.write(b"Bot is running.")
-
-    def log_message(self, format, *args):
-        pass  # suppress HTTP access logs
-
-
-def run_web_server():
-    port = int(os.environ.get("PORT", 8080))
-    server = HTTPServer(("0.0.0.0", port), PingHandler)
-    logger.info(f"Keep-alive web server on port {port}")
-    server.serve_forever()
-
-
-def start_keep_alive_ping():
-    """Ping ourselves every 10 minutes so Render doesn't sleep us."""
-    if not RENDER_URL:
-        return  # skip when running locally
-
-    def ping_loop():
-        while True:
-            try:
-                urlopen(RENDER_URL)
-                logger.info("Keep-alive ping sent")
-            except Exception as e:
-                logger.warning(f"Ping failed: {e}")
-            # sleep 10 minutes
-            import time
-            time.sleep(600)
-
-    t = threading.Thread(target=ping_loop, daemon=True)
-    t.start()
-
-
-# ── Telegram handlers ─────────────────────────────────────────────
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text(WELCOME, parse_mode="Markdown")
 
@@ -119,15 +112,14 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 
 # ── Main ──────────────────────────────────────────────────────────
-def main():
-    # Start keep-alive web server in background thread
-    web_thread = threading.Thread(target=run_web_server, daemon=True)
-    web_thread.start()
+if __name__ == "__main__":
+    # Start web server in background thread (keeps Render happy)
+    threading.Thread(target=run_web_server, daemon=True).start()
 
-    # Start self-ping loop
-    start_keep_alive_ping()
+    # Start ping loop in background thread
+    threading.Thread(target=run_ping_loop, daemon=True).start()
 
-    # Start Telegram bot
+    # Build and run the Telegram bot on the main thread
     app = ApplicationBuilder().token(TELEGRAM_TOKEN).build()
     app.add_handler(CommandHandler("start", start))
     app.add_handler(CommandHandler("help", help_cmd))
@@ -135,7 +127,3 @@ def main():
 
     logger.info("Bot started...")
     app.run_polling(allowed_updates=Update.ALL_TYPES)
-
-
-if __name__ == "__main__":
-    main()
