@@ -1,0 +1,565 @@
+STRATA 
+MANAGEMENT 
+GUIDE : 4
+Proceedings of a 
+General Meeting
+Building and Construction Authority
+2 | Proceedings of a General Meeting
+Disclaimer
+This guide has been prepared to provide practical information on the BMSMA and Regulations made under 
+the BMSMA (Regulations).
+This guide :
+• Does not provide a legal interpretation of provisions in the Act or Regulations; and
+• Is not a substitute for independent legal advice.
+Readers should seek professional legal advice if they need to determine specific legal rights and duties 
+applicable to them. The Commissioner of Buildings, BCA or any agency stated in this guide shall not be 
+liable for any reliance on or misinterpretation of any information contained in this guide by any person.
+Copyright
+The contents of this guide are protected by copyright and other forms of proprietary rights. All 
+rights, title and interest in the contents are owned by, licensed to or controlled by BCA and shall 
+not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any 
+way, without the prior written permission of BCA. Modification of any of the contents or use of 
+the contents for any other purpose will be a violation of BCA’s copyright and other intellectual 
+property rights.
+Important Notice: Readers must not rely on this guide for legal advice.
+Abbreviations
+First published in March 2019
+Annual General Meeting
+Building Maintenance and Strata Management Act
+Building Maintenance (Strata Management) Regulations 2005
+Managing Agent
+Management Corporation Strata Title
+Management Corporation
+Subsidiary Proprietor
+AGM
+BMSMA
+BM(SM) REGULATIONS
+MA
+MCST
+MC
+SP
+Preamble
+This series of Strata Management Guides published by the Building and Construction Authority (BCA) is 
+intended to help councils of the management corporations (MCs), subsidiary proprietors (SPs), council 
+members and managing agents (MAs) better manage their estates.
+The guide will include recommended procedures and good practices to address common issues (e.g. how 
+to conduct a general meeting and how to requisition a motion).
+The guide is aimed at providing a consistent approach and standard for the strata community to facilitate 
+better self-regulation. 
+Building and Construction Authority
+Proceedings of a General Meeting | 3
+Preamble
+(1) Introduction
+(2) Convening General Meetings
+(3) Eligibility to vote at at General Meeting
+(4) Proxy
+(5) Representative of Companies
+(6) Voting
+(7) Chairperson to Preside Over General Meeting
+(8) Minutes of General Meeting
+(9) Adjournment of General Meeting
+(10) Sequence of an Annual General Meeting
+Annex A
+Content
+4
+5
+7
+8
+12
+13
+15
+17
+19
+20
+22
+Icons in this guide
+Good Practice Example
+Building and Construction Authority
+4 | Proceedings of a General Meeting
+1.1 As mentioned in Strata Management Guide 3, the general meeting is a platform 
+for the subsidiary proprietors (SPs) of a management corporation (MC) to 
+decide on matters relating to the management, operation and administration of 
+their estate.
+1.2 To ensure that the proceedings of a general meeting are proper, the MC may wish 
+to refer to the First Schedule to the BMSMA1 to take note of the requirements 
+including quorum, counting of votes, and passing of resolution.
+1 Section 27(3) of the BMSMA: Generally, the First Schedule shall apply to and in respect of any meeting of a MCST, and voting at 
+that meeting.
+01
+Introduction
+Building and Construction Authority
+Proceedings of a General Meeting | 5
+2.1 A sufficient quorum, as provided for below, must be met before a general meeting 
+can be convened. A quorum is first deemed to be met if either Condition A(1) 
+or Condition A(2) is met. If Condition A(1) and Condition A(2) cannot be met, a 
+quorum can still be met if Condition B is met.
+(Paragraph 3 of the First Schedule to the BMSMA)
+In cases where the MC is unable to meet either Condition A(1) or Condition A(2) at the 
+appointed time of the meeting, this Condition B may kick in where 30 minutes after the 
+appointed time of the meeting, two or more SPs are present at the meeting in person 
+(not by proxy).
+[Exception: The “Half-Hour Rule” does not apply to an extraordinary general meeting 
+(EOGM) convened on requisition made by SPs.]
+(Paragraph 3 of the First Schedule to 
+the BMSMA)
+SPs who together own at least 30% of 
+the total share value of the lots in the 
+MC are present at the meeting either 
+in person or by proxy.
+CONDITION A(1)
+CONDITION B – “Half-Hour Rule”
+CONDITION A(2)
+(Paragraph 11 of the First Schedule to 
+the BMSMA)
+If at least 30% of the total share value 
+of the lots in the MC is owned by the 
+Chairperson of the MC who is present at 
+the meeting in person. This Condition 
+A(2) is considered to have been satisfied 
+even if the Chairperson is the only person 
+present at the meeting.
+CONDITION A
+Annual General Meeting and Extraordinary General Meeting Convened 
+by Council of Management Corporation
+02
+Convening 
+General Meetings
+Building and Construction Authority
+6 | Proceedings of a General Meeting
+(Paragraph 3 of the First Schedule to 
+the BMSMA)
+SPs who together own at least 30% of 
+the total share value of the lots in the 
+MC are present at the meeting either 
+in person or by proxy.
+(Paragraph 11 of the First Schedule to 
+the BMSMA)
+If at least 30% of the total share value
+of the lots in the MC is owned by the 
+Chairperson of the MC who is present at 
+the meeting in person, this Condition A(2) 
+is considered to have been satisfied even if 
+the Chairperson is the only person present 
+at the meeting.
+CONDITION A(1) CONDITION A(2)
+Extraordinary General Meeting Convened Due to Requisition by 
+Subsidiary Proprietors
+(Paragraph 3 of the First Schedule to the BMSMA)
+2.2 A quorum is deemed to be met if either Condition A(1) or Condition A(2) is met.
+CONDITION A
+Building and Construction Authority
+Proceedings of a General Meeting | 7
+(Paragraph 12 of First Schedule to the BMSMA)
+The SPs have received the annual general meeting (AGM) agenda notice that the 
+AGM will be held on a specific date. Some SPs would like to attend and cast their 
+votes in the AGM but are not sure if they are in arrears.
+3.1 If an SP is in arrears of contributions due to the MC 3 days before a general meeting, 
+he cannot cast a vote at that general meeting except for motions that are to be 
+passed by unanimous resolution or resolution by consensus. 
+3.2 If two or more persons representing the same lot attend a general meeting, the 
+vote of the senior will be accepted as the rightful vote and the seniority of the 
+person will be determined by the order in which the names are reflected in the 
+strata roll.
+SPs should check with the MC or MA whether there are any arrears in payment 
+of contributions or interest due to the MC.
+If there is any amount due to the MC, SPs should pay off the amount immediately 
+or, at the latest, by 72 hours before the AGM so that they will be able to vote in 
+the AGM.
+As good practice, the MC may include in the AGM notice a reminder for the 
+SPs to ensure that their payments to the management funds are up to date.
+03
+Eligibility to Vote at a 
+General Meeting
+Example: SPs who are in Arrears will not be allowed to vote at a 
+general meeting
+Building and Construction Authority
+8 | Proceedings of a General Meeting
+04
+Proxy 
+(Paragraph 19 of First Schedule to the BMSMA)
+4.1 A proxy is a person who has been given permission by an SP to represent him at a 
+general meeting. 
+ A proxy:
+ a) Does not have to be an SP;
+ b) Can participate in the discussion and vote in the general meeting on behalf of 
+the SP who appointed him as proxy;
+ c) Is still entitled to vote with respect to his own lot if he is an SP;
+ d) Can be appointed as proxy by more than one SP; and
+ e) Cannot vote on behalf of the SP who appointed him as proxy if that SP becomes 
+present at the general meeting and is exercising his right to vote.
+4.2 The number of SPs that a proxy can represent is capped at 2% of the total 
+number of lots in the development or two lots, whichever is higher. It will be 
+calculated based on the total number of lots and be rounded down to the nearest 
+whole number. 
+4.3 The proxy holder is responsible to ensure that he does not exceed the threshold. 
+The proxy holder should also inform the SPs attempting to appoint him as a proxy 
+that he has hit the cap set out under the BMSMA. He can seek the MA’s or MC’s 
+assistance in determining the number of SPs he can be proxy for.
+Building and Construction Authority
+Proceedings of a General Meeting | 9
+4.4 As good practice, the MC or MA can assist SPs by ensuring that all SPs are made 
+aware of the cap on the number of proxies that any individual SP can hold. Ideally, 
+this cap should be reflected in the explanatory note in every agenda notice that is 
+provided by the MC prior to the holding of a general meeting.
+Examples on the Proxy Cap
+Proxy Form
+(Paragraphs 17 and 18 of First Schedule to the BMSMA) 
+4.5 Every SP who appoints a proxy should use a proxy form to appoint a proxy. The 
+proxy form must be: 
+ a) Prepared every time there is a general meeting;
+ b) Signed by the SP and the proxy;
+ c)Deposited in the registered address of the MC or in any other address specified 
+in the notice of the meeting, not less than 48 hours before the appointed 
+time of the general meeting;
+ d)Issued under the company seal or signed by a duly authorised officer or attorney 
+if the SP appointing the proxy is a company; and
+ e) Each proxy form must list all the motions to be decided at the general meeting.
+ Proxy exercises his discretion when there is no indication of voting preference in 
+the proxy form.
+2% of the total 
+number of lots in 
+the development
+or 2 lots
+a) 80 lots *1.6 2 2
+b) 400 lots 8 2 8
+Total number of 
+lots in the MC
+Cap on the number of proxy 
+(whichever is higher)
+Number of SPs 
+that a proxy 
+can represent 
+(excluding the 
+vote he is holding 
+as a SP)
+* where the figure is not a whole number, it will be rounded down accordingly
+Building and Construction Authority
+10 | Proceedings of a General Meeting
+4.6 If the SP does not indicate his voting preference (i.e. for, against, or abstain) 
+for a particular motion in the proxy form, the proxy holder may vote or abstain 
+from voting at his discretion in relation to any matter which is put before the 
+meeting (including ancillary motions) based on what the proxy holder knows of 
+the intentions of the proxy giver.
+Vote in Accordance to Indicated Voting Preference
+4.7 However, if the SP has indicated his decision for a particular motion, the proxy 
+holder must vote in accordance with what the SP has indicated on the form. If
+there are changes to the motion or if there are ancillary motions raised in the
+general meeting that were not previously represented on the form, the proxy 
+holder should not vote on this motion. It is compulsory on the proxy holder to 
+ensure that he votes in accordance to what is provided in the proxy form but MAs 
+who wish to be prudent may also decide to complete the voting slips on their 
+own accord based on what is indicated in the proxy forms.
+Building and Construction Authority
+Proceedings of a General Meeting | 11
+*I/We, ......................................... of being *a member/members of the abovenamed 
+management corporation, hereby appoint ............................................., of ....................
+..................................., as *my/our proxy to attend the (annual or extraordinary, as the 
+case may be) general meeting of the management corporation or subsidiary management 
+corporation, to be held on the ........... day of ....... 20 ........, and at any adjournment of the 
+meeting and to vote for *me/us on *my/our behalf in the following manner.
+Notes:
+1. A subsidiary proprietor may direct his or her proxy to vote on the resolution by ticking 
+the desired box (in favour of/against the resolution or abstain from voting) in the above 
+table. An abstain vote will not be counted in the calculation of votes.
+2. If the subsidiary proprietor does not indicate his or her voting preference in the above 
+table, the proxy may vote or abstain from voting at the proxy’s discretion, in relation 
+to any matter which is put before the meeting (including any resolution to adjourn the 
+meeting or to amend any resolution proposed at the meeting).
+3. This instrument appointing a proxy is void if I/we am/are present at the meeting.
+Signed this ......... day of ......... 20 .......
+...............................................................
+Signature(s) of the subsidiary proprietor(s)
+...............................................................
+Signature(s) of proxy
+* delete whichever is inapplicable
+<Prescribed Proxy Form>
+Resolution For Against Abstain
+Building and Construction Authority
+12 | Proceedings of a General Meeting
+05
+Representative of 
+Companies (Paragraph 16 of First Schedule to the BMSMA)
+5.1 Any company that is an SP can appoint an individual as its representative to attend 
+a particular meeting or all meetings of the MC. 
+5.2 Whilst it is possible for several companies (who are also SPs) in a MC to appoint the 
+same person as their authorised representative, it is not prudent to do so. Instead, 
+it is advisable for a company to ensure that the representative is from the company 
+itself. This will ensure that the Company’s interests are adequately represented at 
+the general meeting. In addition, the authorised representative should be a person 
+with sufficient authority so that he will be able to represent the Company’s interests 
+adequately during the general meeting. The appointment letter (known as the letter 
+of authorisation) must be in writing and issued under the company seal or signed by 
+the company’s director or the company’s duly authorised lawyer.
+Building and Construction Authority
+Proceedings of a General Meeting | 13
+Voting
+(Paragraph 9 of the First Schedule to the BMSMA)
+06
+6.1 The BMSMA and its Regulations specify the types of resolution required for the 
+passing of different motions.
+6.2 A motion must be decided according to the number of votes cast for and 
+against the motion. However, a motion may also be decided by polling in the 
+following cases:
+ a) If the Act specifies that a resolution is to be passed only after a poll is taken; or
+ b) In the case of an ordinary resolution, if a person demands a poll2.
+ When a poll is called, the voting will be based on share value of the lot as opposed 
+to each lot carrying one vote.
+2 A poll may be demanded by any person entitled to vote at a general meeting and the demand must be made by that person 
+personally at the meeting.
+MCST PLAN NO. 9999
+9th ANNUAL GENERAL MEETING
+FOR AGAINST ABSTAINED
+RESOLUTION NO.
+UNIT NO.
+SHARE VALUE 99
+#09-99
+6.3 All voting (whether or not a poll will be taken) are to be conducted using voting 
+slips prepared by the MC. The voting slips should subsequently be collected by 
+the MC and retained for record purposes. The MC may wish to appoint persons to 
+scrutinise the counting of votes for transparency.
+Sample Voting Slip
+Building and Construction Authority
+14 | Proceedings of a General Meeting
+Casting of Votes
+ > Based on one vote 
+per lot
+Polling of Votes
+ > Based on share value of 
+the lot relating to which 
+the vote is cast
+Supporting of Writing
+ > 12 weeks after a 
+general meeting
+Types of
+Resolutions
+14 Days
+of notice
+required
+Ordinary
+Section 2(2) of the 
+BMSMA
+A simple majority 
+(>50%) of SPs are 
+present at the meeting [Upon demand by a person]
+Conducted at the 
+general meeting
+Conducted at the 
+general meeting
+Special
+Section 2(3) of the 
+BMSMA
+At least 75% of the 
+share value of all the 
+valid votes cast at the 
+meeting are in favour 
+of the motion
+90%
+Section 2(5) of the 
+BMSMA
+At least 90% of the 
+share value of all the 
+valid votes cast at the 
+meeting are in favour 
+of the motion
+Unanimous
+Section 2(4) of the 
+BMSMA
+All SPs vote in favour 
+of the motion at the 
+meeting
+Comprehensive
+Section 2(6) of the 
+BMSMA
+At least 90% of total 
+share value in the 
+development are in 
+favour of the motion
+By Consensus
+Section 2(3) of the 
+BMSMA
+All SPs are in favour 
+of the motion and 
+support the motion 
+in writing
+21 Days
+of notice
+required
+Conducted at the 
+general meeting
+Conducted at the 
+general meeting
+Conducted at the 
+general meeting
+Calculated 12 
+weeks after a 
+general meeting
+Calculated 12 
+weeks after a 
+general meeting
+Method and process of passing the resolution
+Building and Construction Authority
+Proceedings of a General Meeting | 15
+07
+Chairperson to Preside 
+Over General Meeting
+7.1 The owner developer must be the Chairperson of the general meeting. In the event 
+the developer does not hold the first AGM as required3
+, any SP or mortgagee of 
+any lot in the development may apply to the Commissioner to appoint a person to 
+convene the first AGM of the MC for that development. 
+7.2 The developer must appoint a suitable employee (or responsible officer, as defined 
+in the BMSMA) from its organisation to attend and chair the first AGM. In addition, 
+the developer can also appoint a MA to help in the proceedings of the meeting but 
+the MA is not treated as the developer’s representative. 
+3 See Guide 3 on ‘Preparation of a General Meeting’, Section 2 on ‘Calling for the General Meeting’.
+At the First Annual General Meeting
+(Sections 26(2) and 26(6) of the BMSMA)
+Definition of ‘responsible officer’ in the BMSMA
+(a) For an owner developer that is a corporation or limited liability partnership, means
+ i. Any director, partner, chief executive officer or employee of the corporation; or
+ ii. For a corporation whose affairs are managed by its members, it means any 
+of those members as if the member were a director of the corporation, or any 
+employee of the corporation;
+(b) For an owner developer that is a partnership, it means any partner in the partnership, 
+or any employee of the partnership; or
+Building and Construction Authority
+16 | Proceedings of a General Meeting
+Subsequent Annual General Meeting
+(Paragraph 6 of the First Schedule to the BMSMA)
+7.3 The Chairperson of the MC must be the Chairperson of the general meeting. If he 
+is not present at the general meeting, the persons entitled to vote at that general 
+meeting must nominate a Chairperson from amongst themselves.
+(c) For an owner developer that is an unincorporated association (other than a 
+partnership), it means:
+ i. The president, the secretary, or any member of the committee of the 
+unincorporated association;
+ ii. Any person holding a position analogous to that of president, secretary or 
+member of a committee of the unincorporated association; or
+ iii. Any employee of the unincorporated association.
+Building and Construction Authority
+Proceedings of a General Meeting | 17
+08
+Minutes of 
+General Meeting 
+(Paragraph 3 of Second Schedule to the BMSMA) 
+8.1 The MC must display a copy of the minutes of the general meeting on the common 
+notice board, within 45 days after the meeting and for a period of at least 14 days. 
+A copy of the minutes may also be distributed to every SP by post or through 
+electronic means.
+8.2 The information recorded in the minutes of a general meeting must contain
+a) Date, time and place of the meeting;
+b) Names of SPs present;
+c) Names of SPs who have appointed proxies;
+d) Names of proxies present;
+e) Results of the votes on every motion submitted at the meeting; and
+f) Text of every resolution of the MC made at the general meeting.
+8.3 The minutes of the general meeting should be adopted and confirmed at the next 
+general meeting.
+Building and Construction Authority
+18 | Proceedings of a General Meeting
+a) Ensure the minutes of AGM records the number of votes cast for and against the 
+motion, as well as the chairman’s declaration of the voting result. The minutes should 
+also record the actions agreed to be taken pursuant to the motion, assuming it 
+is passed.
+b) Include a brief explanation of the rationale for the decision. If there is extensive 
+deliberation before passing the motion, the secretary should summarise and 
+record the key points discussed.
+c) The secretary should also circulate the draft minutes of meeting to all the council 
+members who were present at the AGM for comments before the minutes are 
+put up for approval in the next general meeting.
+While the BMSMA does not stipulate the format and details on how the minutes 
+of meeting should be recorded, the MC can adopt the following good practice:
+What can MCs do
+The last AGM had authorised the MC to raise a special levy to carry out re-roofing 
+of the development. Some SPs who were not present in the AGM were unsure 
+what the special levy was all about. 
+Good Practice: Minutes of meeting to capture important 
+decisions made at the meeting
+Building and Construction Authority
+Proceedings of a General Meeting | 19
+09
+Adjournment of 
+General Meeting 
+9.1 A general meeting may be adjourned for any reason if a motion to adjourn the 
+meeting is passed at the meeting.
+9.2 If any meeting is to be adjourned, the person presiding at the general meeting 
+must fix the time and place of the next meeting. Where there is no place fixed, he 
+may indicate a tentative venue for the next meeting.
+9.3 The notice to be served for the adjourned meeting should comply with the 
+requirements for notices as prescribed in the BMSMA4
+. For example, the notice 
+should include the venue and time.
+4 Please see Guide 3 on ‘Preparation for a General Meeting’, Section 5 on ‘Notice Period’.
+Building and Construction Authority
+20 | Proceedings of a General Meeting
+10
+Sequence of an 
+Annual General Meeting
+Suggested Sequence of Agenda for an Annual General Meeting
+10.1 It is recommended that the sequence of an AGM follows the agenda as listed in 
+the agenda notice. The following is a suggested sequence that is typically adopted 
+by MCs when setting out an agenda:
+5 See Annex A on workflow on Election of council member of MC.
+1. Adoption of Audited Accounts
+10. Annual Budget of the MCST
+2. Minutes of last General Meeting
+9. Requested Motions proposed by 
+Council Members or SPs
+3. Decide the number of Council Members
+8. Appointment of Auditor
+4. Election of Council Members 
+of MCST5
+7. Report and review of 
+Insurance Coverage
+5. Management Fund and Sinking Fund
+6. Review and appointment of MA
+Building and Construction Authority
+Proceedings of a General Meeting | 21
+10.2 The agenda of an AGM must include the following motions to:
+Adopt of the statement of accounts (commonly known as ‘audit report’);
+Confirm the minutes of the last AGM;
+Decide the number of members to be elected into the council;
+Elect members of the council;
+Determine the amount to be raised for the management fund and the 
+sinking fund;
+Approve the proposed annual budget of the MC for the new financial year;
+Decide if any matter or type of matter is to be determined only by the MC in 
+general meeting;
+Appoint an auditor;
+Report on the insurance coverage and review the adequacy of the insurance of the 
+MC; and
+Decide on the termination of any MA or continuation of the MA for the next 
+ensuing financial year.
+References:
+BMSMA – Sections 2, 26, 27
+First Schedule to the BMSMA
+Second Schedule to the BMSMA
+Building and Construction Authority
+22 | Proceedings of a General Meeting
+Election of Council Members of MC.
+The Chairperson should first check the number of nominees against the number of 
+determined council seats (i.e. reserved seats for all the user groups, as well as open seats).
+Scenario 2: If number of nominees is more than number of determined 
+council seats:
+Step 1 - Allocation of the reserved seat for each user group should be carried out first.
+(a) If there is only one nominee from that user group, that nominee will take up the one 
+reserved seat for that user group automatically.
+(b) If there is more than one nominee for that user group, then the nominee from that 
+user group who garnered the highest number of votes will take up the one reserved 
+seat for that user group automatically. 
+(c) If there is a tie in the number of votes between two nominees for that user group, 
+the Chairperson of the meeting may decide by drawing lots in such manner as 
+he determines.
+Step 2 - Allocation of open seats for the remaining nominees (any user group)
+(a)The remaining nominees that were not allocated a reserved seat will fill the remaining 
+open seats. The seats will be filled in the following order of priority – where the 
+candidate with the highest votes would be placed first and the other candidates will 
+be placed in order according to votes received by them.
+(b) If there is a tie in the number of votes between any two candidates, the Chairperson 
+of the meeting may decide by drawing lots in such manner as he determines.
+Scenario 1: If number of nominees equals to or is less than number of 
+determined council seats: 
+No balloting is required, and all nominees will be elected as council members automatically.
+Annex A
+52 Jurong Gateway Road #11-01, 
+Singapore 608550 

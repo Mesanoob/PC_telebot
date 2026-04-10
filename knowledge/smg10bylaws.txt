@@ -1,0 +1,395 @@
+Maintaining MC’s Records | 1
+STRATA 
+MANAGEMENT 
+GUIDE: 10
+By-Laws
+1 | By-laws
+Building and Construction Authority Building and Construction Authority
+This series of Strata Management Guides published by the Building and Construction 
+Authority (“BCA”) is intended to help subsidiary proprietors (“SPs”), council members and 
+managing agents (“MAs”) better manage their estates.
+The guide sets out recommended procedures and good practices to address common 
+issues (e.g. how to conduct a general meeting and how to requisition a motion).
+The guide is aimed at providing a consistent approach and standard for the strata 
+community to facilitate better self-regulation.
+Preamble
+Disclaimer
+This guide has been prepared to provide practical information on the Building 
+Maintenance and Strata Management Act (“BMSMA”) and the Building Maintenance 
+(Strata Management) Regulations (“BM (SM) Regulations”).
+This guide:
+• Does not provide a legal interpretation of provisions in the BMSMA or BM (SM) 
+ Regulations; and
+• Is not a substitute for independent legal advice.
+Readers should seek professional legal advice if they need to determine specific legal rights 
+and duties applicable to them. The Commissioner of Buildings, BCA or any agency stated 
+in this guide shall not be liable for any reliance on any information contained in this guide 
+by any person.
+Copyright
+The contents of this guide are protected by copyright and other forms of proprietary 
+rights, and are the property of the BCA, or the party credited as the provider of the 
+contents. You shall not copy, reproduce, upload, distribute, publish, post, modify, create 
+derivative works, transmit or in any way exploit the contents of this guide. If you wish to use 
+the contents for any purpose other than for your own reference, please seek BCA’s prior 
+written consent.
+Important notice: Readers must not rely on this guide for legal advice.
+First published in November 2022
+By-laws | 2
+Building and Construction Authority
+Preamble
+Introduction
+Types of By-laws
+Creation, amendment and repeal of By-laws 
+Exclusive Use By-laws
+Lodgement of By-laws
+House Rules 
+Enforcement of By-laws
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+3
+4
+5
+9
+10
+11
+13
+Content
+Abbreviations
+AGM
+BMSMA
+BM(SM) REGULATIONS
+MA
+MCST
+MC
+SP
+Annual General Meeting
+Building Maintenance and Strata Management Act
+Building Maintenance(Strata Management) 
+Regulations 2005
+Managing Agent
+Management Corporation Strata Title
+Management Corporation
+Subsidiary Proprietor
+Icon in this guide
+Good Practice Example
+3 | By-laws
+Building and Construction Authority
+By-laws are essentially the means to regulate communal living within a strata-titled 
+development and aid in resolving issues that may arise. By-laws are necessary for the 
+smooth functioning of day-to-day activities within the development to ensure that 
+everyone can live together peacefully.
+1.1
+Introduction
+01
+By-laws | 4
+Building and Construction Authority
+Under the BMSMA, there are two types of by-laws that regulate every parcel 
+comprised in a strata title plan: 
+(a) Prescribed by-laws as set out in the Second Schedule to the BM (SM) 
+Regulations; and 
+(b) Additional by-laws that may be made by a management corporation (“MC”). 
+Additional by-laws may be made by MCs for the purpose of controlling 
+and managing the use or enjoyment of the parcel comprised in the strata 
+title plan, or in respect of the exclusive use of the whole or any part of the 
+common property, including all or any of the following purposes:
+(i) Safety & security measures;
+(ii) Details of any common property of which the use is restricted;
+(iii) The keeping of pets;
+(iv) Parking of vehicles;
+(v) Floor coverings;
+(vi) Garbage disposal; 
+(vii) Behaviour; 
+(viii) Architectural & landscape guidelines to be observed by all SPs; and
+(ix) Such other matters as are appropriate to the type of strata scheme 
+concerned.
+The prescribed by-laws apply to every MC, and take precedence over any 
+additional by-laws made by the MC. Additional by-laws must not conflict with the 
+prescribed by-laws.
+Before a by-law is made, MCs should understand why the proposed by-law is 
+necessary. Imposing a by-law without understanding the problem may result in a 
+lack of improvement or a worsening of the situation.
+2.1
+2.2
+2.3
+Types of By-laws
+02
+5 | By-laws
+Building and Construction Authority
+MCs may adopt additional by-laws and amend the additional by-laws as they 
+deem fit. When making additional by-laws, MCs should be mindful of certain 
+legislative restrictions.
+Additional by-laws made by MCs should not:
+(a) Be inconsistent with the prescribed by-laws;
+(b) Prohibit or restrict the devolution of a strata lot or a transfer, lease, mortgage 
+or other dealing of a strata lot;
+(c) Destroy or modify any easement expressly or impliedly created by or under 
+the BMSMA or the Land Titles (Strata) Act 1967; and
+(d) Pertain to matters that are outside the MC’s powers.
+MCs may also repeal, add to and/or amend the existing additional by-laws. Most 
+additional by-laws can be repealed, amended or created by a special resolution 
+passed at a general meeting. 
+A special resolution requires, at minimum, 21 days written notice of the motion to 
+be passed and support from SPs representing 75% of the share value of all the valid 
+votes cast at the general meeting. 
+MCs should ensure that any additional by-law passed does not conflict with the 
+BMSMA, the prescribed by-laws or any other laws and make sure the by-law is 
+expressed clearly and is valid. For example, MCs do not have powers to impose 
+penalties or fines for non-compliance with by-laws and should not make by-laws 
+providing for imposition of penalties or fines.
+A good tip for MCs is to create by-laws with the long term in mind. By-laws should 
+include the most fundamental rules only. The MC can make amendments to the bylaws as needed and a resolution should be clear if the amended by-law intends to 
+replace a previous by-law. Matters that are prone to changes are better written as 
+policies. For example, an MC should not state how often they will have meetings as 
+a by-law.
+3.1
+3.2
+3.3
+3.4
+3.5
+3.6
+Creation, amendment
+and repeal of By-laws
+(Section 32 of the BMSMA)
+03
+By-laws | 6
+Building and Construction Authority
+Another important issue that the MC should consider is to make sure that the bylaws reflect the operational needs of the MC.
+MCs should review their by-laws periodically with legal advice at least once every 
+two years to ensure that the information they are disseminating is accurate.
+Should an MC require advice regarding the drafting of by-laws, the MC should 
+consider seeking legal advice to ensure that it is acting within the scope of powers 
+provided under the BMSMA. An MC can take into consideration the guidelines 
+below, when preparing additional by-laws: 
+3.7
+3.8
+3.9
+Dos Don’ts
+Start with very basic by-laws 
+that cover major issues 
+surrounding meetings and use 
+of common facilities, and then 
+slowly amend those by-laws 
+over time.
+Note carefully when and how 
+by-laws can be amended.
+Have a lawyer verify that the 
+by-laws are in compliance with 
+statutory laws.
+Review the by-laws periodically 
+and ensure timely amendments 
+when necessary.
+•
+•
+•
+•
+Don’t include a full standard 
+operating procedure in the 
+by-laws. Instead, refer to a 
+standalone standard operating 
+procedure housed in a separate 
+document that can be quickly 
+amended by the MC.
+•
+Use simple language and 
+presentation. Instead of “Shall”, 
+“Must” should be used to 
+highlight obligations.
+Each provision should be concise. 
+•
+•
+Avoid gendered terms, use terms 
+such as “the person” in place of 
+“he / she” whenever applicable.
+•
+7 | By-laws
+Building and Construction Authority
+Some examples of common additional by-laws are set 
+out below: 
+By-laws for Car-Parking 
+Example: All SPs, residents and visitors are not allowed to park or leave 
+any vehicle at designated car park lots, except with the MC’s approval. 
+On approval, the MC will designate a car park lot for the relevant vehicle. 
+By-laws for Wheel-Clamping
+Example: A wheel-clamping device will be used to immobilise any vehicle 
+that is:
+a) Unauthorised to be on the premises;
+b) Unauthorised to be parked in a particular parking lot; or
+c) Found to be parking indiscriminately.
+The MC may do all things reasonably necessary for the enforcement of 
+this by-law. The MC shall be entitled to apply to the court for an order 
+to compel the performance of or restrain the breach of this by-law or to 
+recover damages for any loss or injury to person or property arising out 
+of the breach of this by-law.
+Disposing refuse and other items on the common property
+Example: Without the permission of the MC, you should not dispose of 
+refuse or other items (such as discarded sofas) on the common property 
+that are likely to interfere with the peaceful enjoyment of others in the 
+estate. Should any SP or visitor be found to have disposed of refuse 
+or other items on the common property, the MC could impose an 
+administrative fee of up to $200 to recover the costs for cleaning of the 
+common property and removal of the items. 
+Keeping of animals
+Example: If you keep pets, make sure that the pets do not cause 
+disturbance to other residents in the estate, and make sure you clean up 
+after your pet. Should any SP, resident or visitor fail to remove their pet’s 
+defecation, the MC could impose an administrative fee of up to $200 to 
+recover the costs for cleaning and sanitising of the affected areas. 
+Behaviour causing nuisance or hazard 
+Example: All SP, residents and visitors are required not to make 
+excessive noise or behave in a way that disrupts the quiet enjoyment of 
+the estate. The MC can enforce by-laws through the Strata Titles Boards 
+or the court.
+By-laws | 8
+Building and Construction Authority
+You can approach your neighbour and let them know your concerns 
+regarding the matter. Normally, they are not even aware that their conduct 
+has become a nuisance to their neighbours.
+If the conduct continues, you can write to the secretary of the MC or the 
+managing agent, to request their help to look into the matter. The MC 
+can serve a notice on the relevant resident if there are relevant by-laws 
+in place.
+You can also write to the secretary of the MC to table the matter for 
+discussion at any upcoming general meeting and decide how this issue 
+should be best managed. For example, the MC can consider passing a 
+by-law to require a resident to ensure that second-hand tobacco smoke 
+within their lot does not cause a nuisance, danger or hazard to other 
+residents within individual lots and the common property.
+The MC sometimes deals with complaints about nuisance such as excessive noise 
+or second-hand tobacco smoke emanating from individual lots. These issues are 
+often regulated under by-laws. The MC may enforce by-laws through the Strata 
+Titles Boards or the court to ensure the nuisance is managed. 
+Good Practice: Ways to Avoid Causing Nuisance or Hazard 
+to People in the Estate
+What The MC and Residents Can Do:
+9 | By-laws
+Building and Construction Authority
+Apart from by-laws governing the behaviour of residents and guests, the MC can 
+make by-laws that give SPs, for a certain period of time, exclusive use and enjoyment 
+or special privileges in respect of the whole or any part of the common property.
+The requirements for making exclusive use by-laws are stricter than those for making 
+additional by-laws. An exclusive use by-law may be attached to a lot only if the 
+following resolutions are passed:
+4.1
+4.2
+Exclusive use
+By-laws
+(Section 33 of the BMSMA)
+04
+Period of granting a SP exclusive use 
+of common property
+Less than a year Ordinary resolution
+Resolution required to be passed at 
+a general meeting
+Between one year and three years Special resolution
+More than three years 90 percent resolution
+By-laws | 10
+Building and Construction Authority
+5.1
+5.2
+5.3
+5.4
+MCs shall lodge the by-laws created, and any amendment of or addition to or repeal 
+of the additional by-laws with the Commissioner of Buildings within forty-five (45) 
+days upon passing the special resolution approving the making of such by-law, 
+amendment, addition to or repeal of any existing additional by-law.
+The additional by-law(s) and any amendment of or addition to or repeal of the 
+additional by-laws will only take effect after a copy has been certified as a true 
+copy under the MC’s seal, and lodged with the Commissioner of Buildings within 45 
+days from passing the resolution approving the making of such by-law, amendment, 
+addition to or repeal of any existing additional by-law.
+To lodge the additional by-laws with the Commissioner of Buildings, the following 
+documents are required:
+(a) By-laws lodgement form*; 
+(b) MC covering letter stating the intention of lodging the by-laws;
+(c)	 A certified true copy of the additional by-laws sealed with the seal of
+the MC and signed by either:
+(i) 2 members of the council as the MC determines; or
+(ii) The secretary and any other member of the council if there is no 
+such determination, and
+(d) Extract of the minutes of the general meeting at which the additional 
+by-laws are passed. 
+The Commissioner of Buildings will give an acknowledgement to the MC if the 
+lodgement is in order.
+The fee for obtaining a copy of the by-laws is prescribed in the BM (SM) Regulations. 
+MCs shall make available the by-laws at the management office for viewing by SPs at 
+no cost if a copy of the full set of by-laws is not displayed on the MC’s notice board.
+Lodgement
+of By-laws 
+(Section 32 of the BMSMA)
+05
+* The by-law lodgement form is available for download on BCA’s website.
+11 | By-laws
+Building and Construction Authority
+House Rules are generally enacted by the developer for the management and 
+operation of common property before the MC is constituted. Developers should 
+be mindful that the House Rules drafted do not discourage social cohesion and are 
+not draconian or unfair. House Rules should not be inconsistent with the BMSMA. 
+Although there are no legislative requirements governing the making of House Rules 
+and they are not enforceable, House Rules set the basic rules in place until the MC 
+is formed. 
+Developers are encouraged to convert House Rules into additional by-laws at 
+the first AGM for continuity purposes. For the additional by-laws to take effect, 
+the additional by-laws have to be lodged with the Commissioner of Buildings as 
+described in section 4 above. 
+An MC may make House Rules relating to the use and enjoyment of only the common 
+property. Where the collection of fees is involved, it is suggested to put such rules 
+in the by-laws. If the House Rules are essential, it is recommended to convert the 
+House Rules into by-laws at a general meeting with the requisite resolution. 
+6.1
+6.2
+6.3
+House Rules
+06
+By-laws | 12
+Building and Construction Authority
+Examples of House Rules
+House Rules for Visitors driving in
+Example: All visitors driving into the premises must register at the 
+guardhouse with their particulars and the unit they are visiting. They are 
+to park their vehicle at the white lots of basement 1 carpark only.
+House Rules for Pets
+Example: No pets are allowed in the swimming pool area, jacuzzi, 
+gymnasium, tennis courts, squash courts and function/multipurpose rooms.
+House Rules are made through the MC’s power “to do all things reasonably 
+necessary for the performance of duties and for the enforcement of the bylaws” according to Section 29 of the BMSMA. Some examples of House Rules 
+are set out below: 
+6.4
+13 | By-laws
+Building and Construction Authority
+References:
+BMSMA - Sections 32, 33
+BM (SM) Regulations 
+The MC, SP, mortgagee in possession, lessee or occupier of a strata development 
+lot may apply to the Strata Titles Boards or the court for an order to compel a 
+person to comply with the by-laws, restrain the breach of any by-laws or to recover 
+damages due to the breach of by-laws.
+Please note the following matters regarding the MC’s powers in respect of breaches 
+of any by-law:
+(a) MCs cannot impose fines / forfeit deposits paid;
+(b) MCs may recover administrative fees to compensate for costs incurred as a 
+result of the breach of any by-law;
+(c) MCs must be impartial when enforcing by-laws; and
+(d) MCs do not have the power to ban SPs from using the facilities in the 
+development, unless the MC applies for and obtains a court order to do so.
+MCs may consider taking the following steps in the event of a breach of any by-law:
+(a) Resolve the problem by communicating with the relevant SP or occupier. 
+(b) MC can issue the SP or occupier a formal written notice, requiring the SP or 
+occupier to comply with the by-law.
+(c) If the issue persists, MC can apply to the Strata Titles Boards / court for an 
+order to enforce the by-law.
+7.1
+7.2
+7.3
+07
+Enforcement
+of By-laws 
+(Section 32 of the BMSMA)
+By-laws | 14
+Building and Construction Authority
+52 Jurong Gateway Road #11-01, 
+Singapore 608550

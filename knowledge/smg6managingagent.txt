@@ -1,0 +1,381 @@
+Maintaining MC’s Records | 1
+STRATA 
+MANAGEMENT 
+GUIDE: 6
+Managing Agent
+1 | Managing Agent
+Building and Construction Authority
+This series of Strata Management Guides published by the Building and Construction 
+Authority (“BCA”) is intended to help councils of the management corporations (“MCs”), 
+subsidiary proprietors (“SPs”), council members and managing agents (“MAs”) better 
+manage their estates.
+The guide will include recommended procedures and good practices to address common 
+issues (e.g. how to conduct a general meeting and how to requisition a motion).
+The guide is aimed at providing a consistent approach and standard for the strata 
+community to facilitate better self-regulation.
+Preamble
+Building and Construction Authority
+Disclaimer
+This guide has been prepared to provide practical information on the Building Maintenance 
+and Strata Management Act (“BMSMA”) and regulations made under the BMSMA 
+(“BM(SM) Regulations”).
+This guide:
+• Does not provide a legal interpretation of provisions in the BMSMA or BM
+ (SM) Regulations; and
+• Is not a substitute for independent legal advice.
+Readers should seek professional legal advice if they need to determine specific legal rights 
+and duties applicable to them. The Commissioner of Buildings, BCA or any agency stated 
+in this guide shall not be liable for any reliance on any information contained in this guide 
+by any person.
+Copyright
+The contents of this guide are protected by copyright and other forms of proprietary 
+rights, and are the property of the BCA, or the party credited as the provider of the 
+contents. You shall not copy, reproduce, upload, distribute, publish, post, modify, create 
+derivative works, transmit or in any way exploit the contents of this guide. If you wish to 
+use the contents for any purpose other than for your own reference, please seek BCA’s 
+prior written consent.
+Important Notice: Readers must not rely on this guide for legal advice.
+First published in April 2022
+Managing Agent | 2
+Building and Construction Authority
+Abbreviations
+AGM
+BMSMA
+BM(SM) REGULATIONS
+MA
+MCST
+MC
+SP
+Annual General Meeting
+Building Maintenance and Strata Management Act
+Building Maintenance(Strata Management) 
+Regulations 2005
+Managing Agent
+Management Corporation Strata Title
+Management Corporation
+Subsidiary Proprietor
+Preamble
+Introduction
+Appointment of Managing Agent
+MA’s Fees and Payment Terms
+Duty and Liability of MA
+Prohibited Activities for MA
+Accreditation Scheme for MA
+Criteria for Selecting an MA
+Agreement for the Provision of MA Services
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+3
+4
+6
+7
+8
+9
+10
+11
+Content
+Icon in this guide
+Good Practice Example
+3 | Managing Agent
+Building and Construction Authority
+An MC may employ the services of an MA to perform certain duties in respect of the 
+management and maintenance of their strata-titled development. The MC should 
+be aware of the MA’s obligations under the BMSMA and BM(SM) Regulations and 
+contractually requires the MA to deliver professional services that will enable the MC 
+to comply with the BMSMA and the BM(SM) Regulations. 
+There are accreditation schemes1 administered by industry associations, which BCA 
+recognises. MCs may consider engaging an accredited MA, which has gone through 
+more structured training on management of strata-titled developments.
+1.1
+1.2
+Introduction
+01
+1 These accrediting bodies include Singapore Institute of Surveyors and Valuers (SISV), Association of 
+Property and Facility Managers (APFM) and Association of Strata Managers (ASM).
+Managing Agent | 4
+Building and Construction Authority
+An MA can be appointed by the MC by an ordinary resolution during a general 
+meeting or by the Council of the MC without a general meeting if authorisation to 
+do so is given by the SPs at the last preceding general meeting of the MC. 
+An MA can be appointed for a term of up to three years. However, the MA’s 
+performance must be reviewed at every annual general meeting. SPs who have given 
+feedback on the appointment of an MA are encouraged to express their concerns 
+during the general meeting, or otherwise direct their concerns to the members of 
+the MC to be raised during the general meeting.
+The MA shall hold its appointment in the office until one of the following events 
+occur, whichever is earlier:
+(1) The conclusion of the 3rd AGM of the MC after the MA’s appointment;
+(2) The expiry of the term of the MA’s appointment; or
+(3) The termination at any time in accordance with the terms of the MA’s 
+appointment 
+a. If authorised by an ordinary resolution at a general meeting; or 
+b. by the Council without a general meeting if the Council is authorised by 
+the SPs to do so at the last preceding general meeting.
+2.1
+2.2
+2.3
+02
+Appointment of 
+Managing Agent
+(Section 66 of the BMSMA)
+5 | Managing Agent
+Building and Construction Authority
+The outgoing Council should consider extending the appointment of 
+the existing MA not past the next AGM. This facilitates the process of 
+preparing any new agreement with regard to re-appointing the existing 
+MA or appointing a new MA.
+Alternatively, when negotiating the agreement, the MC could include an 
+option for the MA to have their appointment automatically extend for a 
+further 3 months. 
+If the Council decides not to re-appoint the existing MA, they should give 
+the MA at least 1 month’s notice of that decision before the appointment 
+of the MA is terminated.
+After the conclusion of the AGM, the SPs have authorised the Council of the MC 
+to appoint an MA. The newly formed Council needs time to decide on the MA 
+appointment. 
+Case Example: MCST appointing 
+MA for longer period
+The MCST can consider appointing a MA for a term of up to 3 years under a private 
+service agreement signed between the MC and MA. As required under section 6 
+of the BMSMA the MC must include in the agenda of subsequent AGMs a motion 
+for the termination or for the continuation of the MA for the next ensuing year. The 
+MC should table the motion with a view to allowing the general body to discuss 
+and provide feedback on the performance of the MA. The MA should also use this 
+session to explain and garner support from the SPs at the AGM to be reappointed 
+for the next term of service as set out in the service agreement.
+Good Practice: Extending the term of appointment of an 
+MA who retires from office
+What can MC do:
+2-year term of appointment
+Up to 3 
+months 
+extension
+15 May 2018 15 May 2020 15 August 2020
+1st AGM and the date 
+of MA’s appointment
+2nd AGM after 
+MA’s appointment 
+and date of expiry 
+of agreement
+Latest date of 
+extension of MA’s 
+appointment
+Managing Agent | 6
+Building and Construction Authority
+The fees and expenses of the MA, if (a) appointed by the MC by ordinary resolution, 
+shall be fixed in a general meeting, or (b) appointed by the Council, shall be fixed 
+by the Council if authorised by the SPs at the last preceding general meeting. The 
+matters to be decided include the fees to be paid to the MA, the due date of the 
+payments and the wages of staff members stationed on site, which should be stated 
+clearly in the agreement between the MC and the MA. This is to ensure that the MC 
+and MA are financially accountable to each other in accordance to the terms of the 
+agreement.
+03
+MA’s Fees and 
+Payment Terms
+(Section 66 of the BMSMA)
+3.1
+7 | Managing Agent
+Building and Construction Authority
+04
+Duty and 
+Liability of MA
+(Section 67 of the BMSMA)
+The MC may in writing delegate its power, duties and functions to the appointed 
+MA, to any extent that the MC deems necessary. However, this does not include 
+the delegation of power to the MA to make critical decisions or pass resolutions, on 
+behalf of the MC, that only the MC is allowed to exercise2.
+Any acts and omissions of the MA are done and suffered on behalf of the MC, if the 
+MA is acting under the delegation by the MC. Thus, any legal ramification that arises 
+from acts and omissions done under such delegation will be applicable to both the 
+MA and the MC.
+Prior to the appointment, the MA must declare any direct or indirect relationships 
+that they may have with any SP in the estate3.
+4.1
+4.2
+4.3
+2
+3
+The MC, however, cannot allow the MA to sub-delegate the MA’s powers, duties and functions to others; 
+decide on any matter that can only be made by the MC pursuant to a unanimous resolution, a special 
+resolution, a 90% resolution or a resolution by consensus at a general meeting; or decide on a restricted 
+matter in the BMSMA section 59 that can be determined only by the MC at a general meeting.
+Please refer to the BMSMA section 66(4).
+Managing Agent | 8
+Building and Construction Authority
+05
+Prohibited 
+Activities for MA
+(Section 68 of the BMSMA)
+The MA shall not, whether on its own or through its employee or agent, canvass for 
+votes by proxy or conduct any other activity for the purposes of election of Council 
+members.
+MAs are sometimes approached by an SP asking for the contact details of other SPs 
+in the development to canvass for votes by proxy or for some reason which benefits 
+the SP. MAs are not permitted to provide contact details such as contact numbers or 
+email addresses for such purposes.
+5.1
+5.2
+9 | Managing Agent
+Building and Construction Authority
+06
+Accreditation 
+Scheme for MA
+MA can apply for accreditation under the accreditation schemes administered by 
+either the Association of Property and Facility Managers (“APFM”) or the Association 
+of Strata Managers (“ASM”). These accreditation schemes are recognised by BCA 
+to support the industry’s efforts to raise the standards of MA in Singapore.
+The accreditation scheme requires all individual MAs to undergo a structured training 
+program and pass an examination conducted by either APFM or ASM, and the BCA 
+Academy, among other requirements set by the respective associations. The training 
+program provides the individual with knowledge on key legislative provisions, basic 
+principles of facilities maintenance and services, as well as communications and 
+administrative skills. These skill sets will equip MAs with the capabilities to carry out 
+duties professionally and provide sound advice to MCs. MA firms can be accredited 
+if they have sufficient number of staff accredited at the individual level and fulfil 
+other accreditation criteria. The accreditation requirements includes MA firms to 
+have professional indemnity insurance, and key management personnel who have 
+relevant academic qualifications and working experience. 
+6.1
+6.2
+Managing Agent | 10
+Building and Construction Authority
+07
+Criteria for 
+Selecting an MA
+7.1
+7.2
+When selecting an MA, the MC may wish to consider the following non-exhaustive 
+list of matters:
+a. tender price submitted with respect to the MC’s budget;
+b. track record of managing similar developments;
+c. accreditation with any industry association, if any;
+d. head office support rendered to the site staff;
+e. financial strength of the MA; and
+f. MA’s insurance coverage such as professional indemnity insurance.
+MCs should interview the key management personnel of the MA, and if possible, also 
+the persons who would be deployed to the development, to assess their capability, 
+competency and suitability to provide satisfactory MA services.
+11 | Managing Agent
+Building and Construction Authority
+08
+Agreement for the 
+Provision of MA Services
+The agreement is an instrument in writing, signed between the MC 
+and the MA, which sets out the MC’s powers, duties and functions 
+that both the MC and the MA agree should be performed by the MA. 
+These may pertain to areas on management of the development, 
+administration and secretarial matters, accounting and finance 
+matters, and operation and maintenance matters etc.
+The standard or level of service and performance expected of the MA 
+during its term of appointment should also be stated in the agreement. 
+Both MC and MA should discuss their expectations, which should 
+preferably be measurable and specific. These parameters should be 
+set out in the agreement, and may include key performance indicators 
+and the timelines for completion of certain tasks such as preparing 
+minutes of meeting, churning out of financial reports and responding 
+to residents’ feedback.
+Please see Annex B for a brief description of the matters that MC 
+should consider addressing in an agreement with the MA. MC and 
+MA should also refer to and adapt the contract agreement templates 
+developed by the industry associations for MCST developments. 
+8.1
+8.2
+8.3
+Managing Agent | 12
+Building and Construction Authority
+References:
+BMSMA - Sections 2, 66, 67, 68 
+BM (SM) Regulations
+The MC should discuss beforehand with the MA and stipulate in the 
+agreement the follow-up action or recourse which either party should 
+take in such a situation.
+The recourse may include serving a warning letter, imposing liquidated 
+damages or terminating the agreement at a specified time.
+When the situation arises, the MC can invoke the recourse stated in the 
+agreement.
+The MA does not meet the MC’s expected service level or performance standard 
+as set out in the agreement.
+Good Practice: Recourse to MC if MA does not meet 
+expected service level or performance standard
+What can MC do:
+13 | Managing Agent
+Building and Construction Authority
+Breakdown of Fees, Expenses and Entitlements
+The fees and entitlements of the MA’s employees, such as leave, basic salaries, annual wage 
+supplements, employer’s CPF contribution, medical benefits and performance bonuses 
+should be set out in the agreement between the MC and the MA. Further, if the MA is to 
+be paid on a reimbursement basis under the agreement with the MC, a list of reimbursable 
+costs borne by the MC should also be provided in the agreement to facilitate any 
+reimbursements to or claims by the MA. This will help to maintain transparency with 
+regard to all fees, expenses and entitlements and reduce any possible disputes.
+Additional Staff and Services
+The rates for the provision of optional or additional staff and services, at the request of 
+the MC, should be stated clearly in the agreement to prevent any misunderstanding on 
+the fees and payments. The agreement should also address the procedure by which the 
+MC may request for optional or additional staff and services, including whether the MA 
+may reject the MC’s request. For example, the MC should require in the agreement that 
+the MA receives proper consent and written approval from the MC.
+The accrediting bodies include:
+Association of Strata Managers (ASM)
+1 Scotts Road
+#24-05 Shaw Centre
+Singapore 228208
+Tel: 6679 7799
+Fax: 6679 7801
+Website: www.asm.org.sg
+Association of Property and Facility 
+Managers (APFM)
+110 Middle Road 
+#09-00 Chiat Hong Building 
+Singapore 188968 
+Tel: 6372 1056
+Fax: 6225 2453
+Website: www.apfm.org.sg
+Annex A
+Annex B
+General Matters to be Addressed in Agreement with MA
+Managing Agent | 14
+Building and Construction Authority
+Emergency Funds
+The MC should also consider whether to agree with the MA to set aside an emergency 
+fund to cater for emergency maintenance and/or repair works, such as the bursting of 
+underground pipes or fallen trees, and the agreement should address how the emergency 
+fund can be used by the MA if such use occurs during hours when the MC is not available 
+to provide written consent for the costs to be incurred.
+The agreement should incorporate pre-defined limits, based on the severity of the 
+emergency, in respect of the funds allowed to be incurred in rectifying the issue.
+The process for using this emergency fund could include the following:
+• Promptly inform the MC upon becoming aware of the emergency;
+• Assess and determine the severity of the situation;
+• Identify the corresponding limits for costs to be incurred;
+• Identify rectification works needed and costs of the works.
+The procedure for the MA’s handling emergencies and utilisation of funds to address 
+emergences is extremely critical, to ensure the MA can act promptly to address 
+emergencies that may affect the safety and health of residents and/or damage to 
+properties within the development.
+Compliance with Relevant Laws
+The agreement should ensure that both MC and MA comply with relevant laws and 
+regulations, such as the Personal Data Protection Act 2012. Since the agreement will 
+govern actions occurring in Singapore, both parties are subject to, and need to abide 
+by all the relevant laws in Singapore.
+Non-Waiver of Rights 
+Any delay or non-exercise of rights should not constitute a waiver of those rights. This is 
+to protect the rights of both MC and MA, and ensure that their rights to take particular 
+actions, will not be revoked unreasonably and unfavourably.
+Amendments to the Agreement 
+Variations or amendments to the agreement should be set out in writing and agreed to 
+and signed by both the MA and MC. 
+Invalidation of the Terms of the Agreement 
+The invalidation of any portions of the agreement should not affect other portions of the 
+agreement.
+15 | Managing Agent
+Building and Construction Authority
+52 Jurong Gateway Road #11-01, 
+Singapore 608550

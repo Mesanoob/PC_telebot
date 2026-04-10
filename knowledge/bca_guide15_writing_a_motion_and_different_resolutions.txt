@@ -1,0 +1,534 @@
+Writing a Motion and Different 
+Types of Resolutions
+15STRATA
+MANAGEMENT
+GUIDE
+Strata Management Guide
+2 Writing a Motion and Different Types of Resolutions
+Preamble
+This series of Strata Management Guides, published by the Building and Construction 
+Authority (“BCA”), is intended to help councils of the management corporations (“MCs”), 
+subsidiary proprietors (“SPs”), council members and Managing Agents (“MAs”) better 
+manage their estates. 
+The guide sets out recommended procedures and good practices to address common 
+issues (e.g. how to conduct a general meeting, how to make requisitions for motions, etc).
+The guide is aimed at providing a consistent approach and standard for the strata titled 
+community to facilitate better self-regulation.
+Disclaimer
+This guide has been prepared to provide practical information on the Building 
+Maintenance and Strata Management Act (“BMSMA”) and regulations made under 
+the BMSMA (“BM(SM) Regulations”).
+This guide:
+• Does not provide a legal interpretation of provisions in the BMSMA or BM(SM) 
+Regulations; and
+• Is not a substitute for independent legal advice.
+Readers should seek professional legal advice if they need to determine specific 
+legal rights and duties applicable to them. The Commissioner of Buildings, BCA or 
+any agency stated in this guide shall not be liable for any reliance on any information 
+contained in this guide by any person.
+Copyright
+The contents of this guide are protected by copyright and other forms of proprietary 
+rights, and are the property of the BCA, or the party credited as the provider of the 
+contents. You shall not copy, reproduce, upload, distribute, publish, post, modify, 
+create derivative works, transmit or in any way exploit the contents of this guide. 
+If you wish to use the contents for any purpose other than for your own reference, 
+please seek BCA’s prior written consent.
+Important Notice: Readers must not rely on this guide for legal advice.
+First published in December 2023
+Strata Management Guide
+3 Writing a Motion and Different Types of Resolutions
+Content
+Preamble
+1. Introduction 4
+2. List of Motions to be Included in the Agenda of the First AGM 5
+3. List of Motions to be Included in the Agendas of 
+Subsequent AGMs (not exhaustive) 6
+4. Who Can Make the Requisition and To Whom? 8
+5. When to Put Up the Requisition for Motion? 9
+6. How to Write a Motion? 10
+7. Amending a Motion 12
+8. Motions Out of Order 13
+9. Resolutions 14
+10. Examples of the Types of Resolutions Required for
+Specific Applications Stated in the Act 16
+Good Practice Example
+Icons in this guide
+Abbreviations
+AGM Annual General Meeting
+BMSMA Building Maintenance and Strata Management Act 2004
+BM(SM) Building Maintenance (Strata Management)
+Regulations Regulations 2005
+MA Managing Agent
+MCST Management Corporation Strata Title
+MC Management Corporation
+SP Subsidiary Proprietor
+Strata Management Guide
+4 Writing a Motion and Different Types of Resolutions
+01 Introduction
+1.1 Other than the MC putting up motions, any SP can make a written requisition to the Secretary 
+to include a motion in the agenda of a general meeting. A motion is a proposal for a decision 
+on a certain matter to be made. If the requisite resolution is passed in respect of a motion, 
+the decision becomes binding on all residents in the development.
+1.2 Sometimes a resolution may not be required or necessary. Certain matters can be decided 
+by the council without the need for a general meeting. Typically, these are matters involving 
+the day-to-day running of the estate which the council can decide on. In general, the decision 
+of a council on any matter, other than a restricted matter, shall be the decision of the MC 
+[section 58(1) of the BMSMA]. 
+1.3 As a good practice, the council may consider exercising caution when using the management 
+funds and include a motion on such usage in the agenda of a general meeting, for improved 
+accountability and estate governance. 
+Strata Management Guide
+5 Writing a Motion and Different Types of Resolutions
+List of motions to be included for the first AGM:
+• To elect a council in accordance with section 531
+ where there are more than 3 SPs;
+• To determine the amount to be raised for the management fund and the sinking fund;
+• To decide whether insurances effected by the owner developer of the development 
+should be varied or extended;
+• To decide the matters that shall be determined only by the MC at a general meeting;
+• To appoint a MA, if the MC so desires, and to determine the powers, duties or 
+functions of the MC to be delegated to the MA; and
+• To receive and, if considered fit, to adopt the audited annual accounts of the MC 
+for the period starting from the date the MC is constituted and ending on a date 
+not earlier than 4 months before the first AMG.
+List of Motions to be 
+Included in the Agenda 
+of the First AGM 02
+(Section 26(3) of the BMSMA)
+1 Section 53 provides that the election of councils of the MC is to be determined in a general meeting, including the 
+number of council members not exceeding 14, where a chairperson, a secretary, a treasurer, and a member of council 
+is to be appointed. See Annex A of Guide 4 on “Proceedings of a General Meeting” for workflow on Election of council 
+member of MC.
+2.1 The agenda for the first AGM of an MC constituted in respect of a strata title plan comprising 
+any development shall consist of the following motions.
+Strata Management Guide
+6 Writing a Motion and Different Types of Resolutions
+List of Motions to be 
+Included in the Agendas
+of Subsequent AGMs 
+(not exhaustive)
+(Paragraphs 1(3)(b), (ba) and (c) of First Schedule to the BMSMA)
+03
+ Examples of motions raised by the MC
+To be included in the notice and agenda of the general meeting:
+ To adopt the audited accounts of the MC for the previous financial year
+ To confirm the minutes of the previous general meeting
+ To decide on the number of members of the council to be elected
+ To elect members of the council
+ To determine the amount to be raised for the management fund and the 
+sinking fund / To revise the contribution rates towards the management fund 
+and sinking fund
+ To approve the proposed annual budget of the MC for the new financial year
+ To decide if any matter or type of matter is to be determined only by the MC 
+in a general meeting
+ To appoint an auditor
+ To report on the insurance coverage and review the adequacy of the insurance 
+of the MC / To decide whether insurance effected by the owner/developer of 
+the development is to be varied or extended
+ To appoint a MA, if the MC so desires, and to determine the powers, duties or 
+functions of the MC that are to be delegated to the MA
+3.1 The following are some of the common motions raised by the MC at a general meeting, 
+including contribution to management funds and changing of by-laws.
+Strata Management Guide
+7 Writing a Motion and Different Types of Resolutions
+ Examples of motions raised by the MC
+Optional (depending on the situation):
+ To pass, add, amend or repeal by-laws
+ To install or provide additional facilities or make improvements to the common 
+property for the benefit of the SPs constituting the MC, or change the use of 
+the facilities
+ Other matters (e.g. car parking, improvement works or to determine that interest 
+shall not be imposed on unpaid contributions)
+ Examples of motions raised by SPs
+ To discuss matters pertaining to the interest of individual units, e.g. feedback 
+between MC / neighbours
+ To discuss matters pertaining to common property 
+ Any other restricted matters imposed on MC
+3.2 The following are some of the motions that SPs can raise at any general meeting.
+Strata Management Guide
+8 Writing a Motion and Different Types of Resolutions
+Who Can Make
+the Requisition
+and to Whom? 
+(Paragraph 12 of First Schedule to the BMSMA)
+04
+ Good Practice: Tenants who are non-SPs will not be allowed to requisition 
+a motion.
+Some tenants would like to ask that an issue be tabled at the next general meeting, 
+but they are unable to do so as they are not SPs.
+What can SPs do?
+ Tenants who wish to make a requisition of any motion should request the 
+landlord to do so on their behalf. 
+Subsidiary Proprietor (SP)
+4.1 Any SP who wishes to address their concerns can make a requisition for a motion to be 
+included in a general meeting. Written notice must be given to the Secretary who must 
+then put the motion on the agenda for the next general meeting. Only motions provided in 
+the agenda can be voted on. As a good practice, the written notice must set out the 
+motion, name of the SP who made the requisition and an explanatory note.
+4.2 If agenda notices of a general meeting have already been sent out, the Secretary shall 
+include the motion in the following general meeting.
+Strata Management Guide
+9 Writing a Motion and Different Types of Resolutions
+When to Put Up the 
+Requisition for Motion? 
+(Paragraph 12 of First Schedule to the BMSMA)
+Any SP may require a motion to be included in the agenda 
+of the next general meeting, by giving written notice to the 
+Secretary. The SP may do so before the notice for the next 
+AGM is sent out.
+Notice and agenda to be sent 
+out 14 or 21 days before the 
+AGM, depending on the type 
+of resolution. 
+AGM
+28 November 2023
+Next AGM
+28 November 2024
+05
+AGM
+Any SP may require a motion to be included in the agenda 
+of the next general meeting, by giving written notice to the 
+Secretary. The SP may do so before the notice for the next 
+EOGM is sent out.
+Notice and agenda to be sent 
+out 14 or 21 days before the 
+EOGM, depending on the type 
+of resolution. 
+AGM
+28 November 2023
+Date of EOGM
+20 June 2024
+EOGM
+2 In addition to an AGM (which is typically held annually, or within 15 calendar months from the last general meeting), 
+an MC may hold general meetings during the course of a year. These meetings are known as Extraordinary General 
+Meetings (EOGMs). An EOGM can be convened at any time to consider any matters of concern to the council of the 
+MC or SPs. Please see Guide 3 on “Preparation for a General Meeting” for more information.
+3 Please see Guide 3 on “Preparation for a General Meeting” on the notice periods for general meetings.
+5.1 The SP may requisition for a motion before the agenda notice of an AGM or Extraordinary 
+General Meeting (EOGM) is sent out.2
+ It is good practice for the MC to send a circular 
+to all SPs notifying them of the tentative date of the next general meeting, so that 
+the SPs can make the requisition before the agenda notice is sent out.3
+ However, it is not 
+a requirement in the BMSMA for the MC to provide advance notice to SPs to requisition 
+for motions.
+Strata Management Guide
+10 Writing a Motion and Different Types of Resolutions
+How to Write 06a Motion? 
+Type of motion
+Confirm the minutes of the last general meeting
+Adopt the Audited Accounts
+Management Fund and Sinking Fund
+ To consider and if approved, confirm the Minutes of the 5th AGM held 
+on 20 December 2022.
+ To consider and if approved, adopt the Audited Accounts for the period 
+from 1 September 2022 to 31 August 2023.
+ To consider and if approved, resolve that the Management Fund 
+contribution with effect from 1 January 2023 shall be maintained at / 
+increased to $XX.XX per share value per month or any other amount 
+as determined at the Meeting, and that the contribution is to be paid 
+quarterly in advance on the 1st days of January, April, July and October.
+ To consider and if approved, resolve that the Sinking Fund contribution 
+with effect from 1 January 2023 shall be maintained at / increased to 
+$XX.XX per share value per month or any other amount as determined 
+at the Meeting, and that the contribution is to be paid quarterly in 
+advance on the 1st days of January, April, July and October.
+6.1 A motion should be written clearly and concisely. It must state its intention and should be 
+phrased in such a way that allows SPs to vote for or against the motion.
+6.2 Persons writing a motion may approach the MAs or lawyers for legal advice on drafting a 
+motion, if they are unsure how to go about doing it.
+6.3 The phrasing of a motion may differ, depending on the type of motion that is to be tabled. 
+Recommendations on how some standard motions may be drafted
+Strata Management Guide
+11 Writing a Motion and Different Types of Resolutions
+Appointment of Auditor
+Appointment of Managing Agent
+Election of Council of the Management Corporation
+Determine the interest for late contributions
+Resolution to determine that interest shall not be imposed on
+unpaid contributions
+ To consider and if approved, resolve that the incoming Council be 
+empowered to appoint or terminate an auditor for the MC for the period 
+until the conclusion of the next AGM of the MC and to authorise the 
+Council to determine the fees and expenses of the Auditor.
+ To consider and, if approved, resolve that the incoming Council be 
+empowered to appoint or terminate a MA for the MC for the period until 
+the conclusion of the next AGM of the MC and to authorise the Council 
+to determine the fees and expenses of the MA.
+ To consider and, if approved, resolve that the Council be empowered 
+to determine which powers, duties and functions of the MC may be 
+delegated to the MA.
+ To determine the number of members for the 6th Management Council.
+ To elect members of the 6th Management Council.
+ To empower the incoming Management Council to appoint office bearers 
+and bank signatories of the MC.
+ To decide what matters or class of matters, if any, shall be determined 
+only by the MC in a General Meeting.
+ To consider and if approved, resolve that interest at the rate of XX% 
+per annum or any rate as determined at the Meeting, calculated on a 
+daily basis, be levied if payment for contributions and charges due to 
+the MC is received thirty (30) days after the due date.
+ To consider and if approved, resolve that interest shall not be 
+imposed on unpaid contributions due from the following strata unit(s):
+Block/Tower #XX-XX: Interest: $______ 
+Strata Management Guide
+12 Writing a Motion and Different Types of Resolutions
+Amending a Motion 07(Paragraph 1(4) of the First Schedule to the BMSMA)
+ Good Practice: Amending a motion
+The MC intends to pass a special resolution to approve the budget for a 
+playground at $X and has given the requisite notice. During the meeting, the 
+SP wants to change the proposed budget to $Y.
+What should the MC do?
+ At the meeting, the MC should pass an ordinary resolution in respect of a motion to 
+amend the initial motion to state the budget revision from $X to $Y. The amended 
+motion can then be discussed and decided on at the meeting.
+7.1 Paragraph 1(4) of the First Schedule to the BMSMA allows a motion to be submitted at 
+a general meeting and for an initial motion already included in the agenda notice of the 
+general meeting to be amended, provided the amendment does not change the subject 
+matter of the initial motion. This is an option for the SPs present, in person or by proxy, 
+at the general meeting to collectively decide whether to exercise or use (and not a must 
+to exercise or use). The motion to amend an initial motion should be subject to voting by 
+SPs at the general meeting. If the requisite resolution is passed for the motion to amend 
+the initial motion, the initial motion is amended, and the amended initial motion can then 
+be put up for voting. If the requisite resolution is not passed for the motion to amend the 
+initial motion, the initial motion is not amended, and the unamended initial motion can then 
+be put up for voting. 
+Strata Management Guide
+13 Writing a Motion and Different Types of Resolutions
+Motions Out of Order 08(Paragraph 4 of the First Schedule to the BMSMA)
+8.1 The Chairperson may rule that a motion submitted at the meeting is out of order if they 
+consider that the motion conflicts with the BMSMA, the by-laws or would otherwise be 
+unlawful or unenforceable. In this regard, it may also be prudent for the Chairperson to 
+consult the MA and / or a lawyer.
+Strata Management Guide
+14 Writing a Motion and Different Types of Resolutions
+09Resolutions
+Type of resolution
+Resolution by Consensus
+After a general meeting has been held to consider the motion, a period of 12 
+weeks has to be given for SPs to cast their votes. At the end of the 12 weeks, 
+all SPs in the MC must agree in writing in order for the motion to be passed. 
+The motion cannot be supported if even one SP abstains from voting or does 
+not agree.
+Comprehensive Resolution
+Unlike resolution by consensus, this resolution does not require the consent of 
+all SPs. The resolution can be passed if the SPs in favour of the motion make up 
+at least 90% of the estate’s total share values. However, a period of 12 weeks 
+has to be given for SPs to cast their votes as well.
+ A resolution by consensus is required in making a decision not to 
+insure the buildings in an estate against fire damage. Although the 
+buildings should be insured, the MC can decide otherwise with the 
+written agreement of all the SPs.
+ A proposal to change from an existing single-tier MC system to a twotier MC system can be passed through a comprehensive resolution.
+9.1 Resolutions are decisions made by the MC. Owners can decide for themselves how their 
+estate should be managed through the passing of resolutions. There are different types 
+of resolutions that should be obtained, depending on the importance of the matters to be 
+decided. For example, the agreement of all owners is required in a decision not to insure 
+the buildings in an estate against damage by fire. On the other hand, the appointment of a 
+MA only requires a simple majority. Depending on the motion to be passed, notices must 
+be given to each SP listed on the strata roll in accordance with the BMSMA. A motion to 
+be decided by an ordinary resolution requires at least 14 days notice before the meeting. 
+All other motions require notices of at least 21 days before the meeting. 
+9.2 There are six types of resolutions: Ordinary Resolution, Special Resolution, Unanimous 
+Resolution, 90% Resolution, Comprehensive Resolution and Resolution by Consensus.
+Strata Management Guide
+15 Writing a Motion and Different Types of Resolutions
+Unanimous Resolution
+This type of resolution is decided on the day of the general meeting by SPs who 
+are present at the meeting. They can be physically present at the meeting to cast 
+their votes or they can vote through proxy. A motion can be passed if all the valid 
+votes cast at the meeting are in favour of it. However, the motion cannot be carried 
+even if there is one SP who is present at the meeting and who disagrees with it.
+90% Resolution
+The 90% resolution is also decided on the day of the general meeting by SPs 
+who are present at the meeting. In this case, a motion can be passed when 
+the SPs present at the general meeting who vote for the resolution constitute 
+at least 90% of the share value of all the valid votes cast at the meeting.
+ A unanimous resolution is needed to allow the water pipes of another 
+estate to pass through the estate.
+ A 90% resolution is required to allow an SP to carry out improvement 
+works to his unit that increases the floor area of the development. Such 
+improvements may include roofing a private enclosed space.
+Special Resolution
+This resolution is also decided by the SPs who are present at the meeting. The 
+resolution is passed when the SPs present at the meeting and who vote for the 
+resolution constitute at least 75% of the share value of all the valid votes cast 
+at the meeting.
+ The decision to make by-laws under section 32 of the BMSMA requires 
+a special resolution.
+Ordinary Resolution
+This resolution is decided by the SPs who are present at the meeting. The resolution 
+is passed when SPs are present at the meeting and who vote for the resolution:
+• If no poll is taken – the number of valid votes counted for the motion are 
+more than the valid votes counted against the motion; or 
+• On a poll – the total of the share value of the lots for which valid votes 
+are counted for the motion is more than the total of the share value of 
+the lots for which valid votes are counted against the motion.
+ The decision to appoint a MA can be made through this resolution.
+9.3 There are always queries as to which is the correct resolution to be used as the BMSMA 
+may not necessarily cover the explicit scenario Even though there are some examples 
+of resolutions stated in the BMSMA, the aim of the following section is to provide greater 
+clarity on the type of resolution to be used in different scenarios/applications which all 
+stakeholders should take note of.
+Strata Management Guide
+16 Writing a Motion and Different Types of Resolutions
+Examples of the 
+Types of Resolutions 
+Required for Specific 
+Applications Stated 
+in the Act
+10
+S/N Type of Resolution Examples of Application BMSMA 
+Section
+1 Resolution by 
+Consensus
+(Section 2(7) of the 
+BMSMA)
+Use other methods instead of share
+value to levy contributions to the 
+management fund and sinking fund
+41(8)
+2 Not to insure buildings against fire damage 70(1)
+3 Terminate the MC 84(1)
+4
+Comprehensive 
+Resolution
+(Section 2(6) of the 
+BMSMA)
+Use other methods instead of share
+value to levy additional contributions 
+where any common property is altered
+or any structure is erected on the 
+common property
+41(6)
+5 Change from existing single tier MC to 
+two-tier MC 78(1)
+6
+Alter the boundaries of common property 
+and limited common property between a 
+MC and sub-MC or between sub-MCs
+78(6) & (7)
+7 Dissolve sub-MC 84(2)
+8
+Unanimous Resolution
+(Section 2(4) of the 
+BMSMA)
+Create a restrictive legal agreement
+(i.e. covenant) or right of way over 
+another’s property (i.e. easement)
+35(1)
+9
+90% Resolution
+(Section 2(5) of the 
+BMSMA)
+Make by-law to confer on the SP the 
+exclusive use of common property for a 
+period that exceeds three years
+33(1)(c)
+10
+Transfer or lease part of the common 
+property for a period that exceeds
+three years
+34(1)
+11
+Authorise improvements to the SP’s lot
+which increase the gross floor area of
+the strata development
+37(2)
+Strata Management Guide
+17 Writing a Motion and Different Types of Resolutions
+S/N Type of Resolution Examples of Application BMSMA 
+Section
+12
+Special Resolution
+(Section 2(3) of the 
+BMSMA)
+Provide additional facilities or make 
+improvements to common property 29(1)(d)
+13 Make by-laws 32(3)
+14
+Make by-laws to confer on the SP the 
+exclusive use of common property for a 
+period between one and three years
+33(1)(b)
+15 Lease part of the common property for
+a period between one and three years 34(2)(a)
+16 Create additional common property by,
+for example, leasing land 34(3)
+17 Amalgamate the common property of
+two or more MCs 34(5)
+18 Grant rebate in maintenance 
+contributions 41(9)
+19 Recover contributions in arrears from an 
+SP through enforced sale of their strata lot 43(3)
+20 Erect structure on common property 
+during initial period 50
+21 Installation of Electric Vehicle (EV) 
+charger owned and operated by the MC 29(1A)
+22
+Ordinary Resolution
+(Section 2(2) of the 
+BMSMA)
+Effect insurance in respect of any joint 
+liability of SPs 71(1)(c)
+23
+Make by-law to confer on SP the 
+exclusive use of common property for a 
+period not exceeding one year
+33(1)(a)
+24
+Removal of council member due to 
+misconduct, neglect of duty, incapacity or 
+failure to carry out duties satisfactorily
+54(2)(b)
+25 Appointment of MA 66(1)
+26 Delegate powers, duties and
+functions to MA 67(3)
+27
+Lease or rent of common property for 
+installation of EV charger for a period of 
+less than 10 years
+34A(1)(a)
+Strata Management Guide
+18 Writing a Motion and Different Types of Resolutions
+ Good Practice: Including the Type of Resolution in the Motion
+When drafting a motion, one could consider including the types of resolutions that 
+need to be passed in respect of the motion. Some examples are as follows: 
+ To resolve by way of a special resolution and, if approved, that the refundable 
+deposit for renovation and bulky delivery within the development be increased 
+from S$500 to S$1000.
+ To resolve by way of a special resolution and, if approved, the installation of 
+new CCTV cameras (non-cabling) at the gourmet pavilion at a budget not 
+exceeding S$5000. 
+ To resolve by way of an ordinary resolution and, if approved, adopt the statement 
+of accounts of the MC prepared for the period from 1 June 2022 to 31 May 
+2023 in accordance with section 38(10) of the BMSMA 2004 and the auditor’s 
+report on the statement of accounts of the MC.
+ Good Practice: Installation of EV Chargers 
+MCs may consider installing EV chargers for their development. When doing so, 
+MCs could also consider enacting by-laws relating to the use of parking lots for 
+electric vehicles. 
+For more information on the use of EV chargers, please refer to LTA’s guide on EV.
+Strata Management Guide
+19 Writing a Motion and Different Types of Resolutions
+References:
+BMSMA 2004 – Sections 2, 26(3), 58(1) 
+First Schedule to the BMSMA 2004
+ Good Practice: Improvement to Common Facilities / Common Areas
+(A) Installation of CCTV cameras for deterrence of high-rise littering / safety 
+of residents etc.
+Section 29(1)(d) of the BMSMA provides that the MC, may, when directed by a special 
+resolution, carry out improvement or enhancement works on the common property.
+The MC may refer to section 29(1)(d) of the BMSMA for guidance, to determine if 
+a resolution is to be passed at a general meeting for the proposed work (in respect 
+of the installation of CCTVs).
+It would also be prudent to refer to relevant legislations like the Personal Data 
+Protection Act (PDPA) for guidance. 
+When in doubt on the applicability of provisions, the MC should obtain legal advice.
+(B) Provision of vending machines, e.g. POPStation
+If the MC leases a part of the common property to an external vendor / operator 
+to place their vending machine, the MC would need to pass a resolution, and the 
+requisite resolution depends on the duration of the lease (ordinary resolution — for 
+a lease of up to 1 year; special resolution — for a lease of up to 3 years)
+52 Jurong Gateway Road #11-01,
+Singapore 608550

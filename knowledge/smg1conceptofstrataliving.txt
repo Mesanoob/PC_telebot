@@ -1,0 +1,269 @@
+STRATA 
+MANAGEMENT 
+GUIDE : 1
+Concept of 
+Strata Living
+Building and Construction Authority
+2 | Concept of Strata Living
+Disclaimer
+This guide has been prepared to provide practical information on the BMSMA and Regulations made under 
+the BMSMA (Regulations).
+This guide :
+• Does not provide a legal interpretation of provisions in the Act or Regulations; and
+• Is not a substitute for independent legal advice.
+Readers should seek professional legal advice if they need to determine specific legal rights and duties 
+applicable to them. The Commissioner of Buildings, BCA or any agency stated in this guide shall not be 
+liable for any reliance on or misinterpretation of any information contained in this guide by any person.
+Copyright
+The contents of this guide are protected by copyright and other forms of proprietary rights. All 
+rights, title and interest in the contents are owned by, licensed to or controlled by BCA and shall 
+not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any 
+way, without the prior written permission of BCA. Modification of any of the contents or use of 
+the contents for any other purpose will be a violation of BCA’s copyright and other intellectual 
+property rights.
+Important Notice: Readers must not rely on this guide for legal advice.
+Abbreviations
+First published in March 2019
+Annual General Meeting
+Building Maintenance and Strata Management Act
+Building Maintenance (Strata Management) Regulations 2005
+Managing Agent
+Management Corporation Strata Title
+Management Corporation
+Subsidiary Proprietor
+AGM
+BMSMA
+BM(SM) REGULATIONS
+MA
+MCST
+MC
+SP
+Preamble
+This series of Strata Management Guides published by the Building and Construction Authority (BCA) is 
+intended to help councils of the management corporations (MCs), subsidiary proprietors (SPs), council 
+members and managing agents (MAs) better manage their estates.
+The guide will include recommended procedures and good practices to address common issues (e.g. how 
+to conduct a general meeting and how to requisition a motion).
+The guide is aimed at providing a consistent approach and standard for the strata community to facilitate 
+better self-regulation. 
+Building and Construction Authority
+Concept of Strata Living | 3
+Preamble 
+(1) Introduction
+(2) Share Value 
+(3) Common Property
+(4) Management and Sinking Funds 
+(5) What are By-Laws
+Annex A
+4
+6
+7
+8
+11
+12
+Content
+Icon in this guide
+Good Practice
+Building and Construction Authority
+4 | Concept of Strata Living
+01
+Introduction
+1.1 A Management Corporation Strata Title (MCST) for a strata development is 
+constituted when the strata title plan for the development is lodged with the Chief 
+Surveyor and a strata title application is made to the Registrar of Titles, Singapore 
+Land Authority (SLA). Each management corporation (MC) is assigned a unique 
+strata title plan number. The MC, in respect of a strata title plan, is composed of the 
+subsidiary proprietors (SPs) within the specific strata title plan. A SP is a purchaser 
+to whom ownership of a unit has been transferred, as shown on the subsidiary strata 
+certificate of title.
+1.2 The Building Maintenance and Strata Management Act (BMSMA) is designed to 
+help strata development in the MC scheme to run effectively. A MC can comprise 
+a building or a collection of buildings, where each lot is owned by individuals or 
+companies, who collectively own the common property (such as lift lobby, lifts and 
+escalators, car park and driveways). 
+Building and Construction Authority
+Concept of Strata Living | 5
+Self-Regulating Framework
+1.3 The self-regulating framework of the BMSMA allows SPs in the MCs to decide 
+how best to manage the property they share. All SPs (lot owners) in an estate are 
+automatically part of the MC and have a right to take part in the decision-making 
+process at general meetings. For example, each SP has the right to vote on decisions 
+affecting the strata development and enforce their own rules - called by-laws to 
+regulate the management of their estate. Equally, SPs have responsibilities, like 
+sharing the costs for the upkeep of the common property. The specific obligations of 
+the MC are usually performed by the council of the MC or managing agents (MA)
+which it appoints1. As required under the BMSMA, the MC will also perform its own 
+obligations which are imposed by the Act and Regulations.
+BMSMA
+Managing 
+Agent
+Subsidiary 
+Proprietor
+Owner 
+Developer Council
+Management Corporation
+1.4 The strata title plan for the development, which is registered with the SLA, shows the 
+lot owned by an SP. Generally, everything inside a lot belongs to the SP and is under 
+the SP’s responsibility2
+. Areas outside the unit or lot are usually common property 
+which the MC is responsible to maintain and manage.
+1.5 The MC manages the common property on behalf of the SPs.
+1 See Guide 2 on “Role and Responsibility of Stakeholders” for more information.
+2 Unless the items within the lot are expressly defined under Section 2(c) of the BMSMA as common property.
+See Annex A.
+Building and Construction Authority
+6 | Concept of Strata Living
+2.1 Each lot is assigned a share value, which represents the proportionate share 
+entitlement assigned to each unit in the same development and it determines:
+Amount of contribution 
+that an SP has to pay to 
+the MC for maintaining 
+the common properties 
+in the development
+A) Voting rights3 of 
+an SP
+B) SP’s share of 
+the common 
+property
+C)
+3 See Guide 4 on ‘Proceedings of a General Meeting’ for more information on SPs’ voting rights in relation to different types 
+of resolutions.
+02
+Share Value
+ (Section 62 of the BMSMA)
+Building and Construction Authority
+Concept of Strata Living | 7
+3.1 It is important for the SP to be aware of what constitutes common property. The SP 
+cannot, without permission of the MC, alter or make changes to common property 
+(e.g. install additional awning in a common property wall) without obtaining the 
+MC’s approval.
+3.2 The strata title plan demarcates areas that fall within and outside of a lot and SPs 
+can identify common property by referring to the strata title plan. Areas that are 
+not within the plan and that are used by two or more SPs are considered common 
+property. Aside from that, there are also certain structures and systems within the lot 
+that are also considered common property4
+.
+3.3 A copy of the strata title plan can be obtained from the SLA at a cost.
+4 See Annex A.
+03
+Common Property
+Building and Construction Authority
+8 | Concept of Strata Living
+(Section 38, 39, 40 and 43 of the BMSMA)
+4.2 The contribution is paid into two funds administered by the MC, namely the
+management and sinking funds to ensure the smooth running of the estate.
+04
+Management 
+and Sinking Funds
+4.1 The SP is required to pay all levies, contributions and fees in proportion to the 
+share value of his lot. The SP’s payment of his contribution (e.g. monthly or 
+quarterly) to the MC goes towards the maintenance of the common property and 
+ancillary expenses. 
+Building and Construction Authority
+Concept of Strata Living | 9
+The sinking fund is to cater for long-term 
+future expenditure, such as repainting 
+of the estate, upgrading or change of 
+major equipment, cyclical maintenance.
+4.4 The amount of contribution towards these two funds is decided or reviewed at a 
+general meeting of the MC. SPs should make timely payments to the MC to avoid 
+incurring interest due to late payments. The MC has the right to recover any unpaid 
+contribution from the SP as a debt or recover the contributions by a forced sale of 
+the lot.
+4.5 MC can vote to introduce a special contribution or levy where there are insufficient 
+funds to cover expenses involving major expenditure or unforeseen work. During the 
+general meeting, the MC can decide how often levies are collected, for example, 
+yearly, half-yearly, quarterly or monthly. For many MCs, paying smaller amounts on 
+a more frequent basis may be more affordable than paying larger amounts on an 
+annual basis.
+The management fund is used to 
+manage the day-to-day operational 
+expenses, such as water and electricity 
+charges for common areas, building 
+and public liability insurance, repairs 
+and maintenance of common areas.
+Management Fund Sinking Fund
+Building and Construction Authority
+10 | Concept of Strata Living
+Good Practice: To prepare a comprehensive budget in advance 
+to cater for anticipated major expenditure
+For example, MC XXXX is planning to carry out major addition and alteration (A&A) 
+works in the next few years to replace existing lifts, swimming pool pumps and carry 
+out repainting and water proofing works to the estate.
+What can the MC do?
+MCs are encouraged to plan ahead and set aside sinking funds for anticipated 
+major expenditure in advance. Common examples are large-scale paint jobs, 
+replacing the roof or carrying out major A&A works on the common property. 
+It is therefore advisable for the MC to set a prudent budget and build up their 
+sinking funds gradually for such potential major expenses in addition to the 
+cyclical maintenance and replacement works that may become necessary as 
+the estate’s infrastructure ages. 
+The MC should review this budget regularly to include proposed replacement 
+works or expenditures that the MC is made aware of, over time.
+The MC may also refer to service plans, previous quotations and receipts of 
+items as a guide to the approximate costs of future repairs.
+Building and Construction Authority
+Concept of Strata Living | 11
+5.1 There is a set of by-laws in the Act that every MC is required to comply with the
+(Prescribed By-laws). In addition to the Prescribed By-laws, a MC can make 
+by-laws that are not in conflict with the Prescribed By-laws or any laws in Singapore.
+5.2 For a newly constituted MC, the MC may consider converting house rules to by-laws 
+at the first annual general meeting (AGM). By-laws are generally made in relation 
+to safety and security measures, details of any common property of which the use 
+is restricted, the keeping of pets, parking, garbage disposal, behaviour such as not 
+swimming after a certain hour and not making of loud noises after a certain hour. 
+By-laws should be appropriate and suitable for the strata scheme concerned.
+5.3 The MC, any SP or any occupier is entitled to apply to the court or to the Strata Titles 
+Board to enforce a by-law or restrain the breach of a by-law.
+References:
+BMSMA - Sections 2, 32, 33, 38, 39, 40, 43 
+BM(SM) Regulations
+(Section 32 and 33 of the BMSMA & 
+BM(SM) Regulations)
+05
+What are By-Laws?
+Building and Construction Authority
+12 | Concept of Strata Living
+Extract of Section 2 of the BMSMA
+“common property”, subject to subsection (9), means —
+(a) in relation to any land and building comprised or to be comprised in a strata 
+title plan, such part of the land and building —
+(i) not comprised in any lot or proposed lot in thatstrata title plan; and
+(ii) used or capable of being used or enjoyed byoccupiers of 2 or more 
+lots or proposed lots;
+(b) in relation to any other land and building, such part of the land and 
+building — 
+(i) not comprised in any non-strata lot; and
+(i) used or capable of being used or enjoyed byoccupiers of 2 or more 
+non-strata lots within that land or building; or
+(c) in relation to any land and building mentioned in paragraph (a) or (b), 
+any of the following whether or not comprised in a lot, proposed lot or 
+non-strata lot:
+(i) the pipes, wires, cables or ducts which are used,or capable of being 
+used or enjoyed, by occupiers of 2 or more lots, proposed lots or 
+non-strata lots (as the case may be) within that land or building, or are 
+used or capable of being used for the servicing or enjoyment of the 
+common property;
+(ii) the cubic space enclosed by a structure enclosing pipes, wires, cables 
+or ducts mentioned in sub-paragraph (i);
+(iii) any structural element of the building;
+(iv) the waterproof membrane attached to an external wall or a roof;
+Annex A
+Building and Construction Authority
+Concept of Strata Living | 13
+Examples
+(a) A foundation, load-bearing wall, column or beam, a shear core, strut, ground anchor, 
+slab (not including any layer that is the underlayment or the flooring finishing), truss 
+and common staircase.
+(b) An external wall, or a roof or façade of a building which is used or enjoyed, or 
+capable of being used or enjoyed, by occupiers of 2 or more lots, proposed lots or 
+non-strata lots.
+(c) A garden, sporting or recreational facility, car park or parking area for other vehicles, 
+none of which are comprised in a lot, proposed lot or non-strata lot.
+(d) A central air-conditioning system and its appurtenances, and a fire sprinkler 
+protection system and its appurtenances.
+(e) Any chute, pipe, wire, cable, duct or facility for the passage or provision of water, 
+sewage, drainage, gas, oil, electricity, telephone, radio, television, garbage, heating 
+or cooling systems, or any other similar services.
+52 Jurong Gateway Road #11-01, 
+Singapore 608550 

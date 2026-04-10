@@ -1,0 +1,326 @@
+Maintaining MC’s Records | 1
+STRATA 
+MANAGEMENT 
+GUIDE: 8
+Maintaining
+MC’s Records
+1 | Maintaining MC’s Records
+Building and Construction Authority Building and Construction Authority
+This series of Strata Management Guides published by the Building and Construction 
+Authority (“BCA”) is intended to help councils of the management corporations (“MCs”), 
+subsidiary proprietors (“SPs”), council members and managing agents (“MAs”) better 
+manage their estates.
+The guide sets out recommended procedures and good practices to address common 
+issues (e.g. how to conduct a general meeting, how to requisite a motion, etc.). 
+The guide is aimed at providing a consistent approach and standard for the strata 
+community to facilitate better self-regulation. 
+Preamble
+Disclaimer
+This guide has been prepared to provide practical information on the Building Maintenance 
+and Strata Management Act (Chapter 30C) (“BMSMA”) and Regulations made under the 
+BMSMA (“BM(SM) Regulations”).
+This guide:
+• Does not provide a legal interpretation of provisions in the BMSMA or BM
+ (SM) Regulations; and
+• Is not a substitute for independent legal advice.
+Readers should seek professional legal advice if they need to determine specific legal rights 
+and duties applicable to them. The Commissioner of Buildings, BCA or any agency stated 
+in this guide shall not be liable for any reliance on any information contained in this guide 
+by any person.
+Copyright
+The contents of this guide are protected by copyright and other forms of proprietary rights, 
+and are the property of the BCA, or the party credited as the provider of the contents. You 
+shall not copy, reproduce, upload, distribute, publish, post, modify, create derivative works, 
+transmit or in any way exploit the contents of this guide. If you wish to use the contents for 
+any purpose other than for your own reference, please seek BCA’s prior written consent. 
+Important Notice: Readers must not rely on this guide for legal advice.
+First published in April 2022
+Maintaining MC’s Records | 2
+Building and Construction Authority
+Preamble
+Introduction
+MC’s Records
+Strata Roll
+Financial records
+By-laws record
+Supply of information by the MC
+Annex
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+3
+4
+5
+6
+8
+9
+12
+Content
+Abbreviations
+AGM
+BMSMA
+BM(SM) REGULATIONS
+MA
+MCST
+MC
+SP
+Annual General Meeting
+Building Maintenance and Strata Management Act
+Building Maintenance(Strata Management) 
+Regulations 2005
+Managing Agent
+Management Corporation Strata Title
+Management Corporation
+Subsidiary Proprietor
+Icon in this guide
+Good Practice Example
+3 | Maintaining MC’s Records
+Building and Construction Authority
+The council of management corporation (“MC”) is responsible for keeping all the 
+information and records related to the MC. These information and records are 
+required to be kept for a certain period of time under the BMSMA. The council may 
+delegate record keeping to an MA. 
+Proper keeping of MC’s records will help to overcome challenges associated with 
+incomplete records, such as inconsistent application of by-laws or disagreement 
+among the SPs.
+1.1
+1.2
+Introduction
+01
+Maintaining MC’s Records | 4
+Building and Construction Authority
+MC’s records refer to any documents and records related to the MC. A person who 
+has possession or control of MC’s records shall be responsible to ensure that the 
+records are updated.
+The MC is required to retain all its records, books of account and such documents 
+related to the MC for a period of not less than five (5) years from the end of 
+the financial year in which the transactions or operations to which those documents 
+relate are completed. Any MC who, without reasonable excuse, fails to comply with 
+the requirement to retain MC’s records shall be guilty of an offence.
+2.1
+2.2
+MC’s Records
+(Section 48 of the BMSMA)
+02
+5 | Maintaining MC’s Records
+Building and Construction Authority
+The MC must prepare and maintain a strata roll in accordance with section 46 of the 
+BMSMA, in the form determined by the MC. 
+Amongst other information, the following information must be recorded in the MC’s 
+strata roll relating to the lot to which the information relates:
+a) the share value of the lot, as shown on the schedule of strata units accepted 
+by the Commissioner of Buildings;
+b) the name and address of the SP;
+c) the name and address of any mortgagee, if notification is given;
+d) the date of entry into possession of the lot by a mortgagee; and
+e) the address (including email address if provided) within Singapore for the 
+service of notices on any person as shown in a notice given to the MC. 
+Please refer to section 46(3) of the BMSMA for more details.
+The MC shall, upon written application by an SP, make available for inspection the 
+strata roll in its entirety to the SP, in accordance with section 47(1)(b)(i) of the BMSMA.
+3.1
+3.2
+3.3
+Strata Roll
+(Section 46 of the BMSMA)
+03
+Maintaining MC’s Records | 6
+Building and Construction Authority
+The MC must maintain all accounting records and financial statements of the MC. 
+These include:
+a) documents in respect of transactions entered into by the MC;
+b) financial records including a profit and loss statement, income statements, 
+balance sheet and tax returns;
+c) official receipts, cheque books and cash from payments or deposits which 
+must be securely locked and verified;
+d) fixed deposits record (if any);
+e) monthly bank account statements;
+f) records of income generated by the MC, e.g. through common facilities, 
+access cards, car parking, deposits, rental of space, maintenance and sinking 
+fund collection etc; and
+g) any other documents related to the financial status of the MC.
+The audit of the books and accounts of an MC shall be carried out only by a person 
+who is a public accountant within the meaning of the Companies Act (Cap. 50).
+The auditor shall be appointed by: 
+a) the MC at its annual general meeting; or
+b) the council of the MCST within 90 days after the annual general meeting 
+(“AGM”) is concluded if no auditor is appointed during that AGM,
+and the auditor shall hold office until the conclusion of the next AGM of the MC 
+(Section 45(3) of the BMSMA).
+4.1
+4.2
+4.3
+Financial Records
+(Sections 45 and 57 of the BMSMA)
+04
+7 | Maintaining MC’s Records
+Building and Construction Authority
+Official receipts issued for all incomes received by the MC. All receipts 
+must be consecutively numbered for accounting purposes. Any void or 
+cancelled receipt must be recorded, and the reasons for the voiding or 
+cancellation of the receipt must also be recorded. 
+Examples of Records of income and 
+expenditures of an MC:
+All bank-in slips in respect of cash deposits must be properly filed for 
+accounting purpose.
+All expenditures of the MC must be supported by work orders signed 
+off by the appointed treasurer and with supporting documents. 
+E.g. Quotations received from contractors and an evaluation of the 
+quotations, meeting minutes and any written records stating approval 
+of award etc. Work order numbers must be in running sequence, and 
+any void or cancelled work orders must be recorded and the reasons for 
+the voiding or cancellation of the work orders must also be recorded.
+Expenditures paid for using petty cash shall be approved by the 
+authorised person-in-charge prior to procurement and properly 
+recorded. The maximum amount of petty cash kept at the site office 
+must be determined and approved by the council. MA must maintain 
+and submit a tabulation of expenditures under petty cash when seeking 
+approval for top up.
+Maintaining MC’s Records | 8
+Building and Construction Authority
+By-laws are regulations made by the MC for the purpose of controlling and managing 
+the use or enjoyment of the parcel comprised in the strata title plan.
+The MC must keep a record of the prescribed by-laws and any by-laws made by the 
+MC which are in force from time to time.
+The MCST must make available for viewing, free of charge, at the MC’s office, the 
+prescribed by-laws and any by-laws of the MC which are in force. The SP or a person 
+authorised by the SP may apply in writing for a copy of the by-laws, which are in 
+force, and the MC shall supply to the SP a copy of the by-laws on payment of a fee 
+that is not more than the amount prescribed under Regulation 21A of the BM (SM) 
+Regulations. 
+By-laws Records
+(Section 32(8) of the BMSMA)
+05
+5.1
+5.2
+5.3
+9 | Maintaining MC’s Records
+Building and Construction Authority
+An SP or a person authorised by the SP can make a written application 
+to the MC to ask to inspect the MC’s records. The MC should advise 
+the SP on the procedure and payment of the respective fees involved 
+in the inspection and/or copying of the requested records. The 
+applicant must pay the prescribed inspection fee as provided for 
+under regulation 11 of the BM (SM) Regulations. An SP or a person 
+authorised by the SP can request to make a copy of the MC’s records 
+upon payment of the prescribed fee as provided for under regulation 
+11 of the BM (SM) Regulations. If no inspection is required by the SP 
+for the copying of the MC’s records, no fees for inspection is payable 
+by the SP.
+Under the BMSMA, the MC is required to provide the MC’s records to 
+an SP, mortgagee, prospective purchaser or mortgagee of a lot or by a 
+person authorised in writing by such an SP or mortgagee, on payment 
+of the prescribed fee, at such time and place as may be agreed upon by 
+the requesting party and the MC. If the MC and the requesting party 
+are unable to agree on the time and place of provision of the requisite 
+records within 7 days after the MC’s receipt of the request, the MC 
+shall immediately send by post to the requesting party a notice fixing 
+a time, specified in the notice, between 9am and 6pm on a date so 
+specified in the notice occurring within 21 days from the MC’s receipt 
+of the request. The records which can be disclosed with respect to the 
+MC are listed under section 47(1)(b) of BMSMA. 
+The MC is also required to respond to written requests for records 
+pertaining to a lot within the development from prospective purchasers. 
+The provision of records will need to comply with the process and 
+timelines provided in section 47 of the BMSMA, as briefly described 
+in para 6.2 above. 
+Supply of Information 
+by the MC
+(Sections 47 and 48 of the BMSMA)
+06
+6.1
+6.2
+6.3
+Maintaining MC’s Records | 10
+Building and Construction Authority
+Sequence of application for MCST information
+Arrangement of a time for the 
+inspection as agreed upon by the 
+applicant or his agent and the MCST. 
+The inspection date cannot be later 
+than 14 days from the date of the 
+MCST receiving the initial request. 
+Documents can be inspected in 
+person, through electronic access to 
+the documents or by other means 
+agreed upon. The person inspecting 
+the documents can make copies but 
+must not remove any documents from 
+the premises without permission. 
+If the parties fail to reach an 
+agreement on or before the 7th 
+day after receipt of the application 
+by the MCST, the MCST shall 
+immediately send by post to the 
+applicant a notice fixing a time 
+between 9am and 6pm on a date not 
+later than the 21st day after receipt 
+of the application by MCST.
+1 The authorised person includes Subsidiary management corporation, Subsidiary Proprietor, 
+Mortgagee of that lot, prospective purchaser and a person authorised in writing by the Subsidiary 
+proprietor or mortgagee.
+Application in writing to MCST by authorised person1
+Payment of a fee (if prescribed)
+11 | Maintaining MC’s Records
+Building and Construction Authority
+If the person fails to return the MCST any of the records or property of 
+the MCST, the person shall be guilty of an offence and shall be liable on 
+conviction to a fine not exceeding $5,000. (Section 48(1)(1A))
+The managing agent must deliver the records not later than the 7th day 
+after the notice of resolution has been served on the relevant person by 
+the council.
+The contract of the incumbent managing agent was not renewed, and the 
+management council has served a notice of a resolution to the managing agent to 
+deliver MCST records, books of account, keys, strata roll and other MCST property.
+Good Practice: Handover of MCST documents
+References:
+BMSMA – Sections, 32, 45, 46, 47, 48, 57
+BM (SM) Regulations
+Handover of MCST records
+Maintaining MC’s Records | 12
+Building and Construction Authority
+Annex A
+Suggested Checklist for handover of MCST documents and properties
+List of items for handover
+D Financial records (Financial statement of accounts, financial audit reports,
+Bank statements, fixed deposit certificate etc.)
+D Petty cash
+D The strata roll
+D Procurement record under MCST (E.g. Purchase order)
+D All keys and access cards 
+D Common Property inventories
+D Common seal of MCST
+D Court order (if any)
+D Minutes of council meeting
+D Documents of AGM 
+D Strata unit files
+D As-built drawings
+D A copy of the Strata Title Plans
+D Insurance policies
+D Standard Operating Procedures (SOP) (E.g. SOP for handing emergency 
+situations etc)
+D Tools and equipment purchased by MCST
+D System Operating manuals
+D All contracts entered into by and on behalf of MCST
+D Resident movement record (Moving in and out)
+D Tenant record
+D Access cards record
+D Renovation works record
+D Registered vehicles record
+D Telephony record
+D List of outstanding feedback and things to follow up
+D List of contractors, sub-contractors and persons engaged under MCST
+D All warranties, manuals schematic drawings, operating instructions, service 
+guides, manufacturers’ documentation and other information in respect of the 
+construction, installation, operation maintenance, repair and servicing of any 
+common property, including any warranty information provided to the owner 
+developer by any person.
+D Prescribed by-laws and any by-laws made by the MCST
+D Any other records required to be prepared or retained by MCST
+Maintaining MC’s Records | 13
+Building and Construction Authority
+52 Jurong Gateway Road #11-01, 
+Singapore 608550

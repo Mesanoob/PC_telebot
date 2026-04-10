@@ -1,0 +1,236 @@
+Management and Maintenance 
+of Common Property
+11 STRATA
+MANAGEMENT
+GUIDE
+Strata Management Guide
+2 Management and Maintenance of Common Property
+Preamble
+This series of Strata Management Guides, published by the Building and Construction 
+Authority (“BCA”), is intended to help councils of the management corporations (“MCs”), 
+subsidiary proprietors (“SPs”), council members and managing agents (“MAs”) better 
+manage their estates.
+The guide sets out recommended procedures and good practices to address common 
+issues (e.g. how to conduct a general meeting, how to make requisitions for motions).
+The guide is aimed at providing a consistent approach and standard for the strata community 
+to facilitate better self-regulation.
+Disclaimer
+This guide has been prepared to provide practical information on the Building 
+Maintenance and Strata Management Act (“BMSMA”) and regulations made under 
+the BMSMA (“BM(SM) Regulations”).
+This guide:
+• Does not provide a legal interpretation of provisions in the BMSMA or BM(SM) 
+Regulations; and
+• Is not a substitute for independent legal advice.
+Readers should seek professional legal advice if they need to determine specific 
+legal rights and duties applicable to them. The Commissioner of Buildings, BCA or 
+any agency stated in this guide shall not be liable for any reliance on any information 
+contained in this guide by any person.
+Copyright
+The contents of this guide are protected by copyright and other forms of proprietary 
+rights, and are the property of the BCA, or the party credited as the provider of the 
+contents. You shall not copy, reproduce, upload, distribute, publish, post, modify, 
+create derivative works, transmit or in any way exploit the contents of this guide. 
+If you wish to use the contents for any purpose other than for your own reference, 
+please seek BCA’s prior written consent.
+Important Notice: Readers must not rely on this guide for legal advice.
+First published in November 2023
+Strata Management Guide
+3 Management and Maintenance of Common Property
+Content
+Good Practice Example
+Icons in this guide
+Preamble
+1. Introduction 4
+2. Understanding the Strata Title Plan (STP) 6
+3. Examples of Common Property 7
+• Lightning Protection System (LPS)
+• Structural Elements, e.g. Foundation / Load-bearing Walls
+• Fire Sprinkler Protection System (FSPS)
+• Central Air-Conditioning System (CACS)
+4. Factors to Consider for the Maintenance of Common Property 9
+5. Usage of Common Property 10
+6. Insurance 11
+Abbreviations
+AGM Annual General Meeting
+BC Act Building Control Act 1989
+BMSMA Building Maintenance and Strata Management Act 2004
+BM(SM) Building Maintenance (Strata Management)
+Regulations Regulations 2005
+MA Managing Agent
+MCST Management Corporation Strata Title
+MC Management Corporation
+SP Subsidiary Proprietor
+Strata Management Guide
+4 Management and Maintenance of Common Property
+01 Introduction
+1.1 Common property is:
+1.1.1 any part of a land or building within the strata title plan (“STP”) that is not comprised 
+within an individual lot and is capable of being used or enjoyed by occupiers across 
+two or more lots;
+1.1.2 in relation to the land or building mentioned in paragraph 1.1.1, any of the following, 
+whether or not comprised within a lot, proposed lot or non-proposed lot:
+1.1.2.1 the pipes, wires, cables or ducts which are used or capable of being used or 
+enjoyed by occupiers across two or more lots, or are used for the servicing 
+or enjoyment of the common property; 
+1.1.2.2 the space enclosed by a structure enclosing pipes, wires, cables or ducts 
+mentioned in paragraph 1.1.2.1 above;
+1.1.2.3 any structural element of the building;
+1.1.2.4 the waterproof membrane attached to an external wall or a roof.
+Strata Management Guide
+5 Management and Maintenance of Common Property
+1 See Annex A of Guide 1 “Concept of Strata Living” on what constitutes ‘common property’.
+1.2 It is important for the SP to be aware of what constitutes common property. The SP cannot, 
+without permission from the MC, alter or make changes to common property (e.g. install 
+additional awning on a common property wall) without obtaining the MC’s approval. 
+1.3 Any SP or the MC should be familiar with what is typically considered common property. 
+Some common examples include swimming pools, gyms, lift lobbies, corridors, carparks, 
+lifts in common areas, playgrounds, gardens, drop-off points, exterior building walls, etc. 
+Common properties also include the Lightning Protection System (“LPS”) and structural 
+elements like foundation or load-bearing walls, which will be elaborated on in this guide. 
+For a more detailed list of examples, you may refer to Section 2 of the BMSMA.1
+1.4 This guide will also touch on the resolutions to note when dealing with common property.
+Strata Management Guide
+6 Management and Maintenance of Common Property
+ Good Practice
+Before an SP carries out renovation works for his / her lot, the SP should know 
+where the boundary demarcating his / her lot from the common property is, 
+and ensure that no works are carried out into the common property.
+To know exactly what is considered common property and what is within an individual 
+SP’s lot, one will need to look at the STP. In simple terms, the STP is a survey plan 
+(not architectural plan) prepared by a licensed surveyor and registered with the 
+Singapore Land Authority (“SLA”). The boundaries are usually demarcated by thick 
+black lines. For a copy of the STP, any SP can approach the MC or SLA.
+Sample of a Strata Title Plan
+Source: Singapore Land Authority
+02Understanding the STP
+2.1 Oftentimes, queries may arise as to what constitutes the boundaries between the SP’s 
+own lot and common property, or who is responsible for maintaining what (i.e. whether it 
+should be the MC’s or individual SP’s responsibility to maintain the relevant property).
+2.2 The basic rule is that generally, everything inside a lot is considered the SP’s property unless 
+defined as “common property”. This includes the non-structural internal walls, fixtures that 
+are not pipes, wires, cables or ducts, carpet and paint on the internal walls. For everything 
+else, it would be prudent to refer to the STP.
+Strata Management Guide
+7 Management and Maintenance of Common Property
+Examples of 03Common Property
+LPS
+• Maintenance and inspection of the LPS should be carried out in accordance with 
+the latest Singapore Standard (SS) 555 Code of Practice for Protection Against 
+Lightning. Enhancement works, if necessary, should be carried out as part of the 
+regular upgrading works for the development. This could include improvements 
+to the LPS at open, habitable areas where people are regularly present and at 
+non-habitable flat roofs for better protection against spalling concrete caused by 
+lightning strikes. 
+• The owner of any building, or part of a building such as common property, that 
+is not kept in a good and serviceable condition may be issued a notice in writing 
+by the authorities to perform requisite repair works.
+• For example, if the owner was issued a notice to maintain under the BMSMA and 
+fails to comply with the notice, without reasonable excuse, that person shall be 
+liable on conviction to a fine not exceeding $5,000. In the case of a continuing 
+offence, a fine not exceeding $25 for every day or part thereof may be imposed 
+for the period that the offence continues after conviction.
+3.1 This section elaborates on some common property examples.
+Strata Management Guide
+8 Management and Maintenance of Common Property
+Structural Elements, e.g. Foundation / Load-bearing Walls
+• If you intend to perform building works within your unit, you may need to obtain 
+authorities’ approvals and permit, including ensuring compliance with requirements 
+under the BC Act. 
+• Further, there are restrictions on hacking works carried out on structural elements 
+in your unit. Other than compliance with the BC Act, structural elements such as 
+slabs, beams, columns and walls are common property, which shall not be altered 
+without proper assessment by a Professional Engineer (“PE”) and approval by 
+the MC. 
+• For localised chasing and drilling works on structural elements for wiring works, 
+competent renovation contractors shall be appointed and advice from a PE shall 
+be sought to ensure that no strengthening of the structures are required, and the 
+structural integrity of the building will not be affected. Clearance from the MC 
+must also be obtained before any works on structural elements are carried out. 
+• It is best to check with the developer or the MC and the Sale and Purchase 
+Agreement (“S&PA”) regarding any restrictions on renovation works, prior to 
+carrying out the works.
+3.2 For clarity, the Fire Sprinkler Protection System (FSPS) and the Central Air-Conditioning 
+System (CACS) are defined as common property under the BMSMA. For more details, 
+please refer to the circulars issued by BCA on 7 February 2019. 
+Strata Management Guide
+9 Management and Maintenance of Common Property
+Factors to Consider 
+for the Maintenance 04of Common Property 
+2 The National Environment Agency (NEA) regulates the quality of water in all licensable aquatic facilities with water recirculation 
+systems in Singapore. This includes swimming pools, water playgrounds (including water fountains) and multi-use spa 
+pools located at all non-residential premises.
+• Budget / costs. Maintenance cost is a key factor in the annual budget of MCs. 
+Hence, careful budget planning is required of MCs to ensure that maintenance 
+services / materials are procured in a cost-effective and cost-efficient manner.
+• Service-level expectations of vendors. MCs should communicate their service 
+expectations / requirements clearly to the engaged vendors performing maintenance 
+works (e.g. for cleaning services, security services), and where necessary, set 
+it out in contractual agreements to avoid disputes.
+• Relevant legislations / regulatory requirements / codes of practice. Certain 
+laws and legislations make it mandatory for MCs to engage specialist staff to 
+perform maintenance works. MCs are to check with the relevant regulatory 
+agencies if in doubt. Some maintenance works include:
+a) Maintenance of lift(s) and escalator(s) which require specific technical 
+expertise, i.e. Specialist Professional Engineer (SPE).
+b) Maintenance of electrical facilities such as high tension electrical switchgears 
+or transformers that require a Licensed Electrical Worker (LEW) to operate 
+and maintain these devices. 
+c) Maintenance of swimming pool(s) and / or aquatic facilities (AF)2
+ where an 
+NEA license is mandatory for its operation. The MC must also renew the 
+license annually. For more information, please refer to NEA’s website at: 
+NEA | Aquatic Facilities (AF).
+4.1 Generally, MCs will include the maintenance cost of common property in their annual 
+budget. These would include essential services like cleaning services, security services, 
+swimming pool maintenance, and lift and sanitary systems. 
+4.2 Depending on the extent or coverage of these common properties, MCs could procure 
+such professional services via a private service contract or agreement. When considering 
+the scope of service contract or agreement, MCs should also refer to industry standards 
+or codes of practice from the relevant agencies. Some areas MCs need to consider are:
+Strata Management Guide
+10 Management and Maintenance of Common Property
+Usage of Common 05Property
+ Good Practice: Lease of walkway in front of shop — Is it considered 
+exclusive use? 
+The previous MC had granted a temporary occupation license (TOL) to two SPs 
+to place their items along the common area in front of the shops, without passing 
+a resolution. 
+The MC should have passed a resolution at a general meeting, to confer upon 
+the SPs exclusive use and enjoyment of the common area, under section 33 of 
+the BMSMA. 
+What provisions under the BMSMA are relevant?
+ If the use involves the ‘exclusive use and enjoyment of or special privileges’ to 
+an SP in respect of the whole or part of the common property, the MC should 
+refer to section 33 of the BMSMA on the type of resolution to be passed. The 
+type of resolution to be passed depends on the length of such ‘exclusive use 
+and enjoyment or special privileges’ (i.e. ordinary resolution — not exceeding 
+one year; special resolution — exceeds one year but does not exceed 3 years; 
+90% resolution — exceeds 3 years).
+ Under section 34 of the BMSMA, if the MC wishes to rent any part of the 
+common property to an external vendor or party, the MC must pass a resolution 
+at a general meeting. The type of resolution to be passed depends on the 
+length of the rental (i.e. ordinary resolution — not exceeding one year; special 
+resolution — exceeds one year but does not exceed 3 years; 90% resolution 
+— exceeds 3 years). 
+Strata Management Guide
+11 Management and Maintenance of Common Property
+References:
+BMSMA 2004 – Sections 2, 33, 34
+Second Schedule to the BMSM Regs 2005
+06Insurance 
+ Good Practice: Insurance by Individual Owners
+I am an individual owner and I wish to take out additional insurance for my 
+own property. Can I do so?
+Individual owners are free to take out other insurance in respect of their units, for 
+example, to insure against damage to furnishings within their units. 
+6.1 Every building in the estate must be insured under a damage policy against fire, lightning, 
+explosion or any other occurrence specified in the policy. The MC can decide not to insure 
+against any or all damages if all subsidiary proprietors agree [Section 70 of the BMSMA].
+6.2 Apart from the insurance policy for damage, the MC must also take out any other insurance 
+required by law, for example, insurance required under the Workmen’s Compensation Act. 
+The MC must also take out public liability insurance for damage to property, or death or 
+injury to any person that may occur on the common property [Section 71 of the BMSMA].
+6.3 The MC may also buy Error and Omission (“E&O”) insurance for council members. 
+52 Jurong Gateway Road #11-01,
+Singapore 608550

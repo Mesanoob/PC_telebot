@@ -1,0 +1,182 @@
+Water Seepage – What You Should Know
+13STRATA
+MANAGEMENT
+GUIDE
+Strata Management Guide
+2 Water Seepage – What You Should Know
+Preamble
+This series of Strata Management Guides, published by the Building and Construction 
+Authority (“BCA”), is intended to help councils of the management corporations (“MCs”), 
+subsidiary proprietors (“SPs”), council members and managing agents (“MAs”) better 
+manage their estates. 
+The guide sets out recommended procedures and good practices to address common 
+issues (e.g. how to conduct a general meeting, how to make requisitions for motions). 
+The guide is aimed at providing a consistent approach and standard for the strata 
+community to facilitate better self-regulation.
+Disclaimer
+This guide has been prepared to provide practical information on the Building 
+Maintenance and Strata Management Act (“BMSMA”) and regulations made under 
+the BMSMA (“BM(SM) Regulations”).
+This guide:
+• Does not provide a legal interpretation of provisions in the BMSMA or BM(SM) 
+Regulations; and
+• Is not a substitute for independent legal advice.
+Readers should seek professional legal advice if they need to determine specific 
+legal rights and duties applicable to them. The Commissioner of Buildings, BCA 
+or any agency stated in this guide shall not be liable for any reliance on any information 
+contained in this guide by any person.
+Copyright
+The contents of this guide are protected by copyright and other forms of proprietary 
+rights, and are the property of the BCA, or the party credited as the provider of the 
+contents. You shall not copy, reproduce, upload, distribute, publish, post, modify, 
+create derivative works, transmit or in any way exploit the contents of this guide. 
+If you wish to use the contents for any purpose other than for your own reference, 
+please seek BCA’s prior written consent.
+Important Notice: Readers must not rely on this guide for legal advice.
+First published in November 2023
+Strata Management Guide
+3 Water Seepage – What You Should Know
+Content
+Preamble
+Introduction
+Who Should Be Responsible for Maintenance and Repair?
+Common Water Seepage Problems 
+Steps to Take in the Event of Water Seepage Situations
+1.
+2.
+3.
+4.
+4
+5
+6
+9
+Abbreviations
+AGM Annual General Meeting
+BMSMA Building Maintenance and Strata Management Act 2004
+BM(SM) Building Maintenance (Strata Management)
+Regulations Regulations 2005
+MA Managing Agent
+MCST Management Corporation Strata Title
+MC Management Corporation
+SP Subsidiary Proprietor
+Strata Management Guide
+4 Water Seepage – What You Should Know
+1.1 Water seepage can either occur within a lot or at a common property. Whether it is a 
+burst pipe or a leaking roof which causes the water seepage, the parties affected may 
+experience inconvenience and stress, or even tensions with their neighbours. 
+Sometimes, it is also challenging to determine the person(s) who is / are responsible for 
+the water seepage.
+1.2 As the MC is responsible for overseeing and maintaining the common property, the MC is 
+in charge of rectifying any defect that occurs in areas that are common property.1
+ On the 
+other hand, the SP (i.e. the owner of a strata lot / unit) is responsible for keeping their lot 
+in good condition, which includes rectifying any defects inside the boundaries of their lot.
+(Sections 29(1) and 63 of the BMSMA) 01 Introduction
+1 Please refer to Guide 1 on “Concept of Strata Living” and Guide 11 on “Management and Maintenance of Common 
+Property” for the definition of ‘common property’.
+Strata Management Guide
+5 Water Seepage – What You Should Know
+Who Should Be 
+Responsible for 
+Maintenance and Repair?
+02
+2.1 Water seepage typically may result from multiple issues occurring within or outside a lot. 
+As the issues might not be apparent at the outset, we suggest that the affected parties and 
+the MC / MA conduct a joint inspection to determine the cause(s) of the water seepage 
+and proceed with any repairs required to rectify the water seepage. 
+2.2 If necessary, the affected parties can consider engaging an independent consultant or 
+licensed plumber to determine the cause(s) of the water seepage, and work together to 
+rectify the issue amicably.
+2.3 Any damages and monetary compensation arising from water seepage suffered by the SP 
+should be settled amicably between the SP and the relevant parties concerned. These are 
+private issues not addressed under the BMSMA. Any dispute arising due to water seepage 
+may be brought to the Strata Titles Boards (STB) for resolution.
+Strata Management Guide
+6 Water Seepage – What You Should Know
+Common Water 
+Seepage Problems 
+(Section 108 of the BMSMA)
+Inter-Floor Seepage
+Floor Slab
+Damp Proof
+Membrane
+Floor Tile Cement Screed
+03
+Description:
+Water seeps from the floor slab of the upper unit to the ceiling of the lower unit
+What can be done?
+• SPs of both the upper and lower floor units should jointly carry out an investigation to 
+establish the cause of the water seepage.
+• The affected SP can proceed with the repair works.
+• SPs of the upper and lower floor units should decide on their respective share of the 
+repair costs.
+3.1 Inter-floor water seepage is one of the most common issues in strata-titled developments.
+It is usually evidenced by dampness, moisture or water penetration on the interior ceiling 
+of a unit. If there is such evidence, it is presumed, unless evidence is produced to show 
+otherwise, that the defect is situated within the unit immediately above the unit where 
+the evidence of dampness has occurred on the interior ceiling. Therefore, the upper-floor 
+SP should jointly investigate the cause with their lower-floor neighbour and proceed with 
+any repairs required.
+3.2 The following are some of the common water seepage issues that occur in strata-titled 
+developments.
+Strata Management Guide
+7 Water Seepage – What You Should Know
+Pipe Leak
+Roof Seepage
+Uppermost Unit
+Parapet
+Rooftop
+W.C.
+Description:
+Water seeps through the roof slab to the ceiling of the uppermost unit in a building
+What can be done?
+• SP of the unit directly below the roof should check if the roof is part of the common 
+property, especially for cluster housing and shophouses.
+• These SPs may refer to the strata boundary lines of their units in the strata title plan.
+• If the roof is part of the common property, the MC shall be responsible for managing 
+and maintaining the roof.
+Description:
+Water leaks from crack along the length of a pipe or from the joints between two or more 
+adjoining pipes
+What can be done?
+• If the leak occurs in a pipe serving two or more units, where the pipe constitutes part of 
+the common property, the MC shall be responsible for repairing the leak.
+• If the leak occurs in the pipe serving solely a unit, the SP of that unit shall be responsible 
+for repairing the leak.
+Strata Management Guide
+8 Water Seepage – What You Should Know
+External Wall Seepage
+Windows
+Description:
+Water seeps from the face of a wall which is exposed to external open space or natural 
+elements, to another face of the same wall which forms part of a unit
+What can be done?
+• If the seepage occurs in a wall in which the wall is part of the common property, the 
+MC shall be responsible for repairing the leak.
+Description:
+Water seeps from a window 
+What can be done?
+• If the water seepage occurs in respect of louvres, casement windows, sliding windows 
+or windows with any movable part, the SP is responsible for its maintenance.
+• If the window frame forms part of the common property, the MC should maintain the frame. 
+External Face
+Internal Face
+Strata Management Guide
+9 Water Seepage – What You Should Know
+References:
+BMSMA 2004 – Sections 2, 9, 29, 63, 101, 108
+Steps to Take in 
+the Event Of Water 
+Seepage Situations 04
+2 You may refer to Guide 9 on “Dispute Resolution: Common Disputes and Course of Actions” for the details.
+4.1 If the source of the water seepage is within the lot, it is the SP’s responsibility to carry 
+out the repair works. In the event of an inter-floor water seepage situation, the upper and 
+lower floor unit SPs should come together to investigate the cause of the water seepage 
+and take appropriate action.2
+4.2 As a good practice, where there is evidence of dampness or water penetration from the 
+common area affecting the lot, the MC should first investigate the cause of the water 
+seepage. Should the source of water seepage originate from the common property, it 
+shall be the duty of the MC to properly maintain and keep the common property in a state 
+of good and serviceable repair.
+52 Jurong Gateway Road #11-01,
+Singapore 608550
