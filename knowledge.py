@@ -5,7 +5,6 @@ Loads only what's needed to keep Gemini tokens lean.
 """
 
 import os
-import re
 
 BASE = os.path.join(os.path.dirname(__file__), "knowledge")
 

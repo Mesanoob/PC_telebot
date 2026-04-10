@@ -23,13 +23,13 @@ logger = logging.getLogger(__name__)
 
 # ── Validate env vars ─────────────────────────────────────────────
 TELEGRAM_TOKEN = os.environ.get("TELEGRAM_TOKEN")
-GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
+GROQ_API_KEY = os.environ.get("GROQ_API_KEY")
 
 if not TELEGRAM_TOKEN:
     logger.error("MISSING: TELEGRAM_TOKEN")
     sys.exit(1)
-if not GEMINI_API_KEY:
-    logger.error("MISSING: GEMINI_API_KEY")
+if not GROQ_API_KEY:
+    logger.error("MISSING: GROQ_API_KEY")
     sys.exit(1)
 
 logger.info("ENV vars OK")

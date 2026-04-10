@@ -1,11 +1,10 @@
 """
-gemini.py — Calls Gemini 1.5 Flash via REST API directly.
-No SDK — avoids all dependency conflicts.
-Uses v1beta endpoint which supports system_instruction correctly.
+gemini.py — Groq API integration (free tier, no SDK needed)
+Model: llama-3.1-8b-instant — fast, free, capable
+Note: file kept as gemini.py for import compatibility with bot.py
 """
 
 import os
-import asyncio
 import logging
 import httpx
 from dotenv import load_dotenv
@@ -14,11 +13,8 @@ load_dotenv()
 
 logger = logging.getLogger(__name__)
 
-GEMINI_API_KEY = os.environ["GEMINI_API_KEY"]
-MODEL = "gemini-1.5-flash"
-
-# v1beta supports system_instruction; key passed as header not URL param
-URL = f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent"
+URL = "https://api.groq.com/openai/v1/chat/completions"
+MODEL = "llama-3.1-8b-instant"
 
 SYSTEM_PROMPT = """You are an MCST (condo management) assistant for Singapore.
 Answer questions about condo by-laws, AGMs, disputes, renovations, managing agents, and common property.
@@ -33,7 +29,8 @@ Rules:
 
 
 async def ask_gemini(question: str, knowledge: str) -> str:
-    prompt = f"""KNOWLEDGE BASE:
+    """Keep function name for compatibility with bot.py"""
+    user_content = f"""KNOWLEDGE BASE:
 {knowledge}
 
 USER QUESTION: {question}
@@ -41,42 +38,37 @@ USER QUESTION: {question}
 Answer using the knowledge above. Be concise."""
 
     payload = {
-        "system_instruction": {
-            "parts": [{"text": SYSTEM_PROMPT}]
-        },
-        "contents": [
-            {
-                "role": "user",
-                "parts": [{"text": prompt}]
-            }
+        "model": MODEL,
+        "messages": [
+            {"role": "system", "content": SYSTEM_PROMPT},
+            {"role": "user", "content": user_content}
         ],
-        "generationConfig": {
-            "temperature": 0.2,
-            "maxOutputTokens": 512
-        }
+        "temperature": 0.2,
+        "max_tokens": 512
     }
 
     headers = {
         "Content-Type": "application/json",
-        "x-goog-api-key": GEMINI_API_KEY  # key in header, not URL — never logged
+        "Authorization": f"Bearer {GROQ_API_KEY}"
     }
 
-    logger.info(f"Sending to Gemini: {question[:60]}")
+    GROQ_API_KEY = os.environ["GROQ_API_KEY"]
+    logger.info(f"Sending to Groq: {question[:60]}")
 
     async with httpx.AsyncClient(timeout=30) as client:
         response = await client.post(URL, json=payload, headers=headers)
         if response.status_code != 200:
-            logger.error(f"Gemini API {response.status_code}: {response.text}")
+            logger.error(f"Groq API {response.status_code}: {response.text}")
             response.raise_for_status()
         data = response.json()
 
     try:
-        text = data["candidates"][0]["content"]["parts"][0]["text"].strip()
-        logger.info("Gemini response OK")
+        text = data["choices"][0]["message"]["content"].strip()
+        logger.info("Groq response OK")
         return _safe_markdown(text)
     except (KeyError, IndexError) as e:
-        logger.error(f"Unexpected Gemini response: {data}")
-        raise RuntimeError("Failed to parse Gemini response") from e
+        logger.error(f"Unexpected Groq response: {data}")
+        raise RuntimeError("Failed to parse Groq response") from e
 
 
 def _safe_markdown(text: str) -> str:
