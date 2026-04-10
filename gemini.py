@@ -1,18 +1,20 @@
 """
 gemini.py — Gemini Flash integration for MCST bot.
-Optimised for Gemini 1.5 Flash free tier: lean prompts, direct answers.
 """
 
 import os
 import asyncio
+import logging
 import google.generativeai as genai
 from dotenv import load_dotenv
 
-load_dotenv()  # loads .env file when running locally; ignored on Render
+load_dotenv()
+
+logger = logging.getLogger(__name__)
 
 genai.configure(api_key=os.environ["GEMINI_API_KEY"])
 
-MODEL = "gemini-1.5-flash"
+MODEL = "gemini-1.5-flash-latest"
 
 SYSTEM_PROMPT = """You are an MCST (condo management) assistant for Singapore.
 Answer questions about condo by-laws, AGMs, disputes, renovations, managing agents, and common property.
@@ -36,7 +38,6 @@ _model = genai.GenerativeModel(
 
 
 async def ask_gemini(question: str, knowledge: str) -> str:
-    """Send question + relevant knowledge to Gemini and return answer."""
     prompt = f"""KNOWLEDGE BASE:
 {knowledge}
 
@@ -44,21 +45,22 @@ USER QUESTION: {question}
 
 Answer using the knowledge above. Be concise."""
 
+    logger.info(f"Sending to Gemini: {question[:60]}")
+
     loop = asyncio.get_event_loop()
-    response = await loop.run_in_executor(
-        None,
-        lambda: _model.generate_content(prompt)
-    )
-
-    text = response.text.strip()
-
-    # Telegram Markdown safety: escape unmatched underscores
-    # (Gemini sometimes outputs markdown that breaks Telegram)
-    return _safe_markdown(text)
+    try:
+        response = await loop.run_in_executor(
+            None,
+            lambda: _model.generate_content(prompt)
+        )
+        text = response.text.strip()
+        logger.info("Gemini response OK")
+        return _safe_markdown(text)
+    except Exception as e:
+        logger.error(f"Gemini API error: {e}", exc_info=True)
+        raise
 
 
 def _safe_markdown(text: str) -> str:
-    """Light cleanup to keep Telegram MarkdownV1 happy."""
-    # Replace ** bold with * bold (Telegram v1)
     text = text.replace("**", "*")
     return text
