@@ -14,7 +14,7 @@ logger = logging.getLogger(__name__)
 
 genai.configure(api_key=os.environ["GEMINI_API_KEY"])
 
-MODEL = "gemini-1.5-flash-latest"
+MODEL = "gemini-2.0-flash"
 
 SYSTEM_PROMPT = """You are an MCST (condo management) assistant for Singapore.
 Answer questions about condo by-laws, AGMs, disputes, renovations, managing agents, and common property.

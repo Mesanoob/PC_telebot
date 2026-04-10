@@ -17,6 +17,8 @@ logging.basicConfig(
     format="%(asctime)s - %(name)s - %(levelname)s - %(message)s",
     level=logging.INFO
 )
+# Suppress httpx logs — they expose the Telegram token in the URL
+logging.getLogger("httpx").setLevel(logging.WARNING)
 logger = logging.getLogger(__name__)
 
 # ── Validate env vars ─────────────────────────────────────────────
@@ -118,6 +120,16 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
         )
 
 
+# ── Error handler ────────────────────────────────────────────────
+async def error_handler(update, context):
+    error = context.error
+    # Suppress Conflict errors — happen briefly during redeploys
+    if "Conflict" in str(error):
+        logger.warning("Conflict error (old instance still shutting down) — ignoring")
+        return
+    logger.error(f"Telegram error: {error}", exc_info=context.error)
+
+
 # ── Main ──────────────────────────────────────────────────────────
 if __name__ == "__main__":
     threading.Thread(target=run_web_server, daemon=True).start()
@@ -128,5 +140,6 @@ if __name__ == "__main__":
     app.add_handler(CommandHandler("start", start))
     app.add_handler(CommandHandler("help", help_cmd))
     app.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, handle_message))
+    app.add_error_handler(error_handler)
     logger.info("Polling started.")
     app.run_polling(allowed_updates=Update.ALL_TYPES)
