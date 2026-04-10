@@ -1,6 +1,5 @@
 """
 SG Condo MCST Telegram Bot
-Powered by Gemini Flash (free tier)
 """
 
 import os
@@ -10,8 +9,8 @@ import threading
 import time
 from http.server import HTTPServer, BaseHTTPRequestHandler
 from urllib.request import urlopen
-from dotenv import load_dotenv
 
+from dotenv import load_dotenv
 load_dotenv()
 
 logging.basicConfig(
@@ -20,26 +19,44 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-# Validate env vars immediately so we fail fast with a clear message
+# ── Validate env vars ─────────────────────────────────────────────
 TELEGRAM_TOKEN = os.environ.get("TELEGRAM_TOKEN")
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 
 if not TELEGRAM_TOKEN:
-    logger.error("TELEGRAM_TOKEN is not set. Exiting.")
+    logger.error("MISSING: TELEGRAM_TOKEN")
     sys.exit(1)
-
 if not GEMINI_API_KEY:
-    logger.error("GEMINI_API_KEY is not set. Exiting.")
+    logger.error("MISSING: GEMINI_API_KEY")
     sys.exit(1)
 
-logger.info("Environment variables OK")
+logger.info("ENV vars OK")
 
-from telegram import Update
-from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ContextTypes
-from knowledge import get_relevant_knowledge
-from gemini import ask_gemini
+# ── Imports with explicit error catching ──────────────────────────
+try:
+    logger.info("Importing telegram...")
+    from telegram import Update
+    from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ContextTypes
+    logger.info("telegram OK")
+except Exception as e:
+    logger.error(f"IMPORT ERROR (telegram): {e}", exc_info=True)
+    sys.exit(1)
 
-logger.info("Imports OK")
+try:
+    logger.info("Importing knowledge...")
+    from knowledge import get_relevant_knowledge
+    logger.info("knowledge OK")
+except Exception as e:
+    logger.error(f"IMPORT ERROR (knowledge): {e}", exc_info=True)
+    sys.exit(1)
+
+try:
+    logger.info("Importing gemini...")
+    from gemini import ask_gemini
+    logger.info("gemini OK")
+except Exception as e:
+    logger.error(f"IMPORT ERROR (gemini): {e}", exc_info=True)
+    sys.exit(1)
 
 RENDER_URL = os.environ.get("RENDER_EXTERNAL_URL", "")
 PORT = int(os.environ.get("PORT", 8080))
@@ -51,29 +68,25 @@ class PingHandler(BaseHTTPRequestHandler):
         self.send_response(200)
         self.end_headers()
         self.wfile.write(b"Bot is running.")
-
     def log_message(self, format, *args):
         pass
-
 
 def run_web_server():
     try:
         server = HTTPServer(("0.0.0.0", PORT), PingHandler)
-        logger.info(f"Keep-alive web server on port {PORT}")
+        logger.info(f"Web server on port {PORT}")
         server.serve_forever()
     except Exception as e:
-        logger.error(f"Web server error: {e}")
-
+        logger.error(f"Web server error: {e}", exc_info=True)
 
 def run_ping_loop():
     if not RENDER_URL:
-        logger.info("No RENDER_EXTERNAL_URL set, skipping ping loop")
         return
     time.sleep(60)
     while True:
         try:
             urlopen(RENDER_URL, timeout=10)
-            logger.info("Keep-alive ping OK")
+            logger.info("Ping OK")
         except Exception as e:
             logger.warning(f"Ping failed: {e}")
         time.sleep(600)
@@ -105,22 +118,17 @@ HELP = (
     "Just type your question!"
 )
 
-
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text(WELCOME, parse_mode="Markdown")
 
-
 async def help_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text(HELP, parse_mode="Markdown")
-
 
 async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
     user_msg = update.message.text.strip()
     if not user_msg:
         return
-
     await update.message.chat.send_action("typing")
-
     try:
         knowledge = get_relevant_knowledge(user_msg)
         answer = await ask_gemini(user_msg, knowledge)
@@ -134,19 +142,17 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 # ── Main ──────────────────────────────────────────────────────────
 if __name__ == "__main__":
-    logger.info("Starting threads...")
-
     threading.Thread(target=run_web_server, daemon=True).start()
     threading.Thread(target=run_ping_loop, daemon=True).start()
 
-    logger.info("Building Telegram app...")
     try:
+        logger.info("Building Telegram app...")
         app = ApplicationBuilder().token(TELEGRAM_TOKEN).build()
         app.add_handler(CommandHandler("start", start))
         app.add_handler(CommandHandler("help", help_cmd))
         app.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, handle_message))
-        logger.info("Bot started. Polling...")
+        logger.info("Polling started.")
         app.run_polling(allowed_updates=Update.ALL_TYPES)
     except Exception as e:
-        logger.error(f"Fatal error starting bot: {e}", exc_info=True)
+        logger.error(f"FATAL: {e}", exc_info=True)
         sys.exit(1)
