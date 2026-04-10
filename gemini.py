@@ -1,21 +1,21 @@
 """
-gemini.py — Gemini Flash integration using new google-genai SDK
+gemini.py — Calls Gemini 1.5 Flash via REST API directly.
+No SDK — avoids all dependency conflicts.
 """
 
 import os
 import asyncio
 import logging
-from google import genai
-from google.genai import types
+import httpx
 from dotenv import load_dotenv
 
 load_dotenv()
 
 logger = logging.getLogger(__name__)
 
-client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
-
+GEMINI_API_KEY = os.environ["GEMINI_API_KEY"]
 MODEL = "gemini-1.5-flash"
+URL = f"https://generativelanguage.googleapis.com/v1/models/{MODEL}:generateContent?key={GEMINI_API_KEY}"
 
 SYSTEM_PROMPT = """You are an MCST (condo management) assistant for Singapore.
 Answer questions about condo by-laws, AGMs, disputes, renovations, managing agents, and common property.
@@ -37,28 +37,33 @@ USER QUESTION: {question}
 
 Answer using the knowledge above. Be concise."""
 
+    payload = {
+        "system_instruction": {
+            "parts": [{"text": SYSTEM_PROMPT}]
+        },
+        "contents": [
+            {"parts": [{"text": prompt}]}
+        ],
+        "generationConfig": {
+            "temperature": 0.2,
+            "maxOutputTokens": 512
+        }
+    }
+
     logger.info(f"Sending to Gemini: {question[:60]}")
 
-    loop = asyncio.get_event_loop()
+    async with httpx.AsyncClient(timeout=30) as client:
+        response = await client.post(URL, json=payload)
+        response.raise_for_status()
+        data = response.json()
+
     try:
-        response = await loop.run_in_executor(
-            None,
-            lambda: client.models.generate_content(
-                model=MODEL,
-                contents=prompt,
-                config=types.GenerateContentConfig(
-                    system_instruction=SYSTEM_PROMPT,
-                    temperature=0.2,
-                    max_output_tokens=512,
-                )
-            )
-        )
-        text = response.text.strip()
+        text = data["candidates"][0]["content"]["parts"][0]["text"].strip()
         logger.info("Gemini response OK")
         return _safe_markdown(text)
-    except Exception as e:
-        logger.error(f"Gemini API error: {e}", exc_info=True)
-        raise
+    except (KeyError, IndexError) as e:
+        logger.error(f"Unexpected Gemini response structure: {data}")
+        raise RuntimeError("Failed to parse Gemini response") from e
 
 
 def _safe_markdown(text: str) -> str:
