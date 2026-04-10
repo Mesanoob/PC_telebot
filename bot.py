@@ -4,7 +4,6 @@ SG Condo MCST Telegram Bot
 
 import os
 import sys
-import asyncio
 import logging
 import threading
 import time
@@ -120,24 +119,14 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 
 # ── Main ──────────────────────────────────────────────────────────
-async def run_bot():
+if __name__ == "__main__":
+    threading.Thread(target=run_web_server, daemon=True).start()
+    threading.Thread(target=run_ping_loop, daemon=True).start()
+
+    logger.info("Starting bot...")
     app = ApplicationBuilder().token(TELEGRAM_TOKEN).build()
     app.add_handler(CommandHandler("start", start))
     app.add_handler(CommandHandler("help", help_cmd))
     app.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, handle_message))
-    logger.info("Bot polling started.")
-    await app.run_polling(allowed_updates=Update.ALL_TYPES)
-
-
-if __name__ == "__main__":
-    # Start keep-alive web server in background thread
-    threading.Thread(target=run_web_server, daemon=True).start()
-    threading.Thread(target=run_ping_loop, daemon=True).start()
-
-    # Python 3.14 requires explicitly creating the event loop
-    logger.info("Starting event loop...")
-    try:
-        asyncio.run(run_bot())
-    except Exception as e:
-        logger.error(f"FATAL: {e}", exc_info=True)
-        sys.exit(1)
+    logger.info("Polling started.")
+    app.run_polling(allowed_updates=Update.ALL_TYPES)
