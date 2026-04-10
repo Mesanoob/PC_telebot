@@ -30,6 +30,13 @@ Rules:
 
 async def ask_gemini(question: str, knowledge: str) -> str:
     """Keep function name for compatibility with bot.py"""
+
+    api_key = os.environ.get("GROQ_API_KEY")
+
+    if not api_key:
+        logger.error("GROQ_API_KEY is missing from environment variables")
+        return "⚠️ Configuration error: API Key not found."
+    
     user_content = f"""KNOWLEDGE BASE:
 {knowledge}
 
@@ -49,10 +56,9 @@ Answer using the knowledge above. Be concise."""
 
     headers = {
         "Content-Type": "application/json",
-        "Authorization": f"Bearer {GROQ_API_KEY}"
+        "Authorization": f"Bearer {api_key}"
     }
 
-    GROQ_API_KEY = os.environ["GROQ_API_KEY"]
     logger.info(f"Sending to Groq: {question[:60]}")
 
     async with httpx.AsyncClient(timeout=30) as client:
