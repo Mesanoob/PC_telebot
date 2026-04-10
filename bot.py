@@ -99,10 +99,10 @@ HELP = (
 )
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    await update.message.reply_text(WELCOME, parse_mode="Markdown")
+    await update.message.reply_text(WELCOME, parse_mode="HTML")
 
 async def help_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    await update.message.reply_text(HELP, parse_mode="Markdown")
+    await update.message.reply_text(HELP, parse_mode="HTML")
 
 async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
     user_msg = update.message.text.strip()
@@ -112,7 +112,7 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
     try:
         knowledge = get_relevant_knowledge(user_msg)
         answer = await ask_gemini(user_msg, knowledge)
-        await update.message.reply_text(answer, parse_mode="Markdown")
+        await update.message.reply_text(answer, parse_mode="HTML")
     except Exception as e:
         logger.error(f"handle_message error: {e}", exc_info=True)
         await update.message.reply_text(
