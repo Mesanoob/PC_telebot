@@ -1,6 +1,6 @@
 """
 gemini.py — OpenRouter API integration
-Model: meta-llama/llama-3.3-70b-instruct:free (free tier)
+Model: google/gemma-4-31b-it:free (free tier)
 Note: file kept as gemini.py for import compatibility with bot.py
 """
 
@@ -14,7 +14,7 @@ load_dotenv()
 logger = logging.getLogger(__name__)
 
 URL = "https://openrouter.ai/api/v1/chat/completions"
-MODEL = "meta-llama/llama-3.3-70b-instruct:free"
+MODEL = "google/gemma-4-31b-it:free"
 
 SYSTEM_PROMPT = """You are a helpful, conversational condo management assistant for Parc Canberra condominium in Singapore, managed by Knight Frank (Managing Agent).
 
