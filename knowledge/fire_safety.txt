@@ -1,0 +1,1404 @@
+============================================================
+
+SINGAPORE FIRE CODE 2023 — CONDO & RESIDENTIAL ESTATE GUIDE
+
+Source: SCDF Code of Practice for Fire Precautions in Buildings 2023
+
+============================================================
+
+
+--- SECTION 1: RESIDENTIAL BUILDINGS (PURPOSE GROUP I & II) ---
+
+Purpose Group I = HDB flats / low-rise residential.
+
+Purpose Group II = Apartments, condominiums, maisonettes.
+
+CLAUSE 9.1 PURPOSE GROUP I OCCUPANCY
+This chapter specifies the additional requirements peculiar to buildings of respective purpose groups. These additional requirements shall be read in conjunction with other requirements relevant to the respective purpose
+groups stipulated in Chapter 1 to 8 of this Code. Where there are conflicting requirements between this chapter and the preceding chapters, the requirements stipulated in this chapter shall take precedence.
+9.1.1 General
+a. Means of escape
+(1) Single household dwelling
+Buildings under PG I can consist of more than three floors if they are occupied as a single household dwelling.
+(2) Basement levels
+(3) Access staircases
+Means of escape for a building or a separate part of a building of single occupancy of PG I can be provided via access staircase(s).
+b. Structural fire precautions
+(1) Attic floor
+An attic in buildings under PG I can be constructed of timber boarding on timber joists, provided it is protected to achieve the fire resistance rating required of the elements of structure of the building or
+compartment.
+(2) Floor over a basement
+For PG I building which has four or more levels (including the basement storeys and attics), the floor immediately over the basement storeys shall be compartmented by compartment walls/ floors. Where there is an
+internal connection between the basement storeys and upper levels, it shall be compartmented by a fire-rated door at the 1st storey landing or basement landing.
+c. Extent of unprotected openings
+(1) The extent of unprotected openings in an external wall of a building under PG I, in relation to its distance from the relevant boundary, can be based on the internal room/space in the building that has the largest
+extent of unprotected openings to comply with Table 1 of Annex 3B.
+(2) Internal walls enclosing the room/space in the building except glazing, are not required to be fire-rated, but shall be constructed of non-combustible materials.
+d. PV installation
+For PV installations the requirements shall be as follows:
+(1) For access to the PV installations on the roof, a portable sturdy or cat/ ship ladder to the roof access shall be provided.
+(2) All access hatches, if provided, shall be readily accessible from the roof. The access hatch opening shall have a minimum clear width of 1m in diameter.
+(3) A clearance of 1m around the access/ hatch opening shall be provided.
+(4) For fire resistance of PV modules, it shall be in accordance with Cl.10.2.1c..
+(5) For emergency disconnection of the PV modules, it shall be in accordance with Cl.10.2.1e..
+
+CLAUSE 9.2 PURPOSE GROUP II OCCUPANCY
+9.2.1 General
+a. Means of escape
+(1) Means of escape for a building or a separated part of a building of PG II shall comply with the provision of Cl.2.3.
+(2) Number of exit staircases or exits per storey
+In a block of residential apartments or maisonettes, at least two independent exit staircases or other exits from every storey shall be provided, in compliance with the requirements of Cl.2.2.11, unless otherwise
+permitted.
+(3) Provision for buildings not exceeding 24m in habitable height
+In a block of residential apartments or maisonettes not exceeding 24m in habitable height, one exit staircase can be allowed provided the one-way travel distance is complied with.
+(4) Provision for buildings exceeding 24m in habitable height
+In a block of residential apartments or maisonettes exceeding 24m in habitable height, one exit staircase can be provided, subject to all of the following conditions:
+(a) The building’s habitable height shall not exceed 60m, unless otherwise permitted by the SCDF.
+(b) The single exit staircase shall serve not more than four apartments or maisonettes at each storey.
+(c) Provision of exits for each residential apartment or maisonette shall comply with the requirements under Cl.9.2.1a.(5).
+(d) Travel distance from the most remote exit door to the exit staircase from each apartment or maisonette shall not exceed 15m.
+(e) The approach to the exit staircase shall be through cross ventilated corridor/ lobby in accordance with Cl.1.4.29, except that the ventilation openings shall have a minimum width of 2m and a minimum height
+of 1.2m, as well as the following requirements:
+(i) the openings shall be unobstructed from the parapet wall or balustrade level upwards and be positioned on opposite sides of the corridor/ lobby such that they provide cross ventilation throughout the
+entire space of the corridor/ lobby; and
+(ii) the entire cross ventilated corridor/ lobby shall be unobstructed and maintained at minimum 2m width throughout.
+(f) Where multiple ventilation openings are provided on opposite sides of the corridor/ lobby, the minimum width and height of each opening shall not be less than 1m and 1.2m, respectively, provided the
+aggregate width of the openings at each opposite side is not less than 2m. See Diagram 9.2.1a.(4)(f).
+(5) Exits from residential unit
+(a) In each residential apartment or maisonette unit, the exit access door or doors shall be provided such that the travel distance measured from any point within the unit to the entrance door(s) of the unit shall
+not exceed 20m. See Diagram 9.2.1a.(5)(a).
+(b) In the case of a maisonette unit comprising not more than two storeys, where a single entrance door is provided:
+(i) the door shall not be located on the upper storey of the unit; and
+(ii) the floor area of the upper storey shall not exceed 60m², unless a separate exit is provided on this upper storey.
+(c) The escape route within the unit to the unit entrance/ rear door(s) shall be kept readily accessible and unobstructed at all times, any room denied of access shall not serve as part of the escape route
+(d) All exits from residential, or maisonette units shall have direct access to an exit staircase, exit passageway or external space.
+(6) Measurement of travel distance
+Travel distance of a residential unit shall be measured from its entrance door(s) to the exit staircase. Where a residential unit requires two entrance doors at the same storey level, and if only one exit staircase is
+required, the travel distance shall be measured from the most remote door. If two or more exit staircases are required, the travel distance shall be measured from the entrance door of each unit.
+(7) Smoke-free approach to exit staircase
+In a block of residential apartments or maisonettes, a smoke-free approach to an exit staircase can be provided by means of an external corridor, complying with Cl.2.3.10.
+(8) Travel distance
+(a) One-way travel distance
+In a block of residential apartments or maisonettes where the means of escape is through an external corridor, the one-way travel distance measured from the door of the apartment or maisonette to the exit
+staircase shall not exceed 20m, or 24m if the aggregate one-way travel distance within the unit and along the external corridor does not exceed 40m. The above one-way travel distances along the external
+corridor shall not apply to residential apartments or maisonettes in a building exceeding 24m permitted under Cl.9.2.1a.(3).
+(b) Two-way travel distance
+In a block of residential apartments or maisonettes, the two-way travel distance can be extended to 45m if the means of escape is through an external corridor as in Cl.2.3.10.
+In the case of buildings which are required to be provided with rising mains, the number and distribution of rising mains specified in Chapter 6 shall be complied with.
+(c) Travel distance for open-to-sky roof garden
+For habitable roof garden that is fully open-to-sky and provided with at least 2 exits, the travel distance can be based on the requirement for sprinkler-protected buildings as specified in Table 2.2A.
+(9) Protection of staircases
+The requirements for unprotected openings stipulated under Cl.2.3.3a.(2) and Cl.2.3.3b.(2) for internal and external exit staircases, respectively need not be complied with for PG II buildings provided:
+(a) the exit staircases are cross ventilated and maintained under smoke-free conditions at all times; and
+(b) unprotected openings of the apartment or maisonette units are not facing or ventilating into the exit staircase enclosures, as shown in Diagram 9.2.1a.(9).
+(10) Ventilation
+(a) Exit staircase
+All exit staircases shall be naturally ventilated. Where an exit staircase is used as storey shelter, mechanical ventilation is permitted provided there are more than one exit staircase, with the remaining exit
+staircase(s) being naturally ventilated.
+(b) Common internal corridor
+(i) The internal corridor not forming part of smoke-free approach to exit staircase shall have ventilation openings of not less than 15% of the floor area and located not more than 9m from any part of the
+common internal corridor.
+(ii) Where the common internal corridor is cross ventilated, it shall be in accordance with Cl.2.2.13b.(7)(c).
+b. Structural fire precaution
+(1) Wall separating residential apartment or maisonette
+(a) Each residential dwelling unit shall be compartmented from adjoining units and other parts of the same building by construction having at least 1-hr fire resistance rating and unit’s exit access door of ½-hr
+fire resistance rating, unless otherwise permitted under Cl.2.3.10d..
+(b) Any compartment wall separating a residential apartment or maisonette from any other part of the same building, shall separately comply with fire resistance requirements:
+(i) the wall forms part of a protected shaft and the minimum period of fire resistance required by the provisions of this Code for the protecting structure is more than one hour, or
+(ii) the part of the building from which the wall separates the residential apartment or maisonette is of a different purpose group and the minimum period of fire resistance required by the provisions of this
+Code for any element of structure in that part is more than one hour.
+(2) Attic floor
+
+An attic in buildings under PG II can be constructed of timber boarding on timber joists, provided it is protected to achieve the fire resistance rating required of the elements of structure of the building or
+compartment.
+(3) Separation of residential floor facade
+For residential buildings exceeding 24m in habitable height, the facade of every unit shall be separated from each other by:
+(a) a minimum 1-hr fire-rated spandrel of at least 1.5m in height, or
+(b) a minimum 1-hr fire-rated horizontal projection that extends at least 600mm from the building.
+Note: Balcony and air-con ledge can be used as part of this horizontal projection if they protrude at least 600mm from the building facade and have at least 1-hr fire-rated construction.
+c. Single household dwelling house classified as cluster housing within PG II development
+In a PG II mixed occupancy development, the single household dwelling house classified as cluster housing can adopt the requirements stipulated in Cl.9.1.1.
+9.2.2 Super high-rise residential building
+a. Refuge floor
+Super high-rise residential buildings, with or without mixed occupancies, shall be provided with at least one refuge floor at an interval of not more than 20 storeys, i.e., each refuge floor shall not serve more than the 20
+storeys immediately above it. The refuge floor shall comply with all of the following requirements:
+(1) It shall be of masonry construction having at least 2-hr fire resistance rating.
+(2) At least 50% of the accessible floor area of the refuge floor shall be designated as an evacuee holding area. There shall be no residential unit or part of the unit on the refuge floor.
+(3) There shall be no commercial activities in the evacuee holding area, however, it can be used as space for physical exercises or a children’s playground. All equipment placed within the evacuee holding area shall
+be made/constructed of non-combustible materials.
+(4) The size of the evacuee holding area shall be adequate to accommodate at least the total occupant load of all storeys above the refuge floor, up till the next higher refuge floor, or the remaining floors, based on
+0.3m² per person.
+(5) The evacuee holding area shall be separated from other areas of the refuge floor by compartment walls having at least 2-hr fire resistance rating. Linking of the evacuee holding area with other occupied
+rooms/areas shall be via an external corridor, or a smoke-free lobby complying with Cl.2.2.13a..
+(6) The evacuee holding area shall be naturally ventilated with permanent openings on at least two sides of the external walls, with total area of at least 25% of the floor area of the evacuee holding area.
+(7) The minimum height (measured from the sill to the top) of each opening shall be at least 1.2m.
+(8) All parts of the evacuee holding area shall be within 9m of a ventilation opening.
+(9) Ventilation openings shall be located at least 1.5m horizontally from and 3m vertically above unprotected openings, except for ventilation openings which total area as specified in Cl.9.2.2a.(6) above is at least
+50% of the evacuee holding area, the vertical distance from the unprotected openings can be reduced to 1.5m.
+(10) A sprinkler system shall be provided for the refuge floor if there is any non-residential room located on the same floor.
+(11) Escape routes leading to the evacuee holding area shall be through a smoke-free/ fire lift lobby or external corridor.
+(12) Emergency lighting shall be provided to cover all areas of the evacuee holding area. Such lighting shall be connected to a secondary power supply, i.e., generator, battery, etc., and shall be able to provide
+horizontal luminance at floor level of not less than 5 lux. The delay between the failure of the electrical supply for normal lighting and the energization of the emergency lighting for occupied areas shall not exceed
+15 secs.
+(13) A sign depicting “EVACUEE HOLDING AREA” shall be displayed inside the exit staircase and on wall immediately outside the exit staircase at the refuge floor. The sign of lettering size of at least 50mm
+shall be displayed at a height of 1.5m above the landing/ finished floor level.
+(b) Provision of fire lift
+(1) The fire lift car shall have a clear area/ space of not less than 1.7m (depth) x 1.5m (width).
+(2) Two-way emergency voice communication system shall be provided between the fire lift lobby at the refuge floor and the following locations in order of priority:
+(a) FCC, or
+(b) Main alarm panel, or
+(c) Respective fire lift lobby at grade level nearest the fire engine access road.
+(3) At least two fire lifts shall be provided for a super high-rise residential building.
+Diagram 9.2.1a.(4)(f): Provision of exit staircase for residential building not exceeding 60m in habitable height
+Diagram 9.2.1a.(4)(f): Provision of exit staircase for residential building not exceeding 60m in habitable height
+In a block of residential apartments or maisonettes not exceeding 60m in habitable height, one exit staircase only can be provided to every storey.
+Diagram 9.2.1a.(5)(a): Provision of exit for apartment unit
+Diagram 9.2.1a.(5)(a): Provision of exit for apartment unit
+Diagram 9.2.1a.(9): Cross-ventilated exit staircase to residential apartment/ maisonette
+
+Diagram 9.2.1a.(9): Cross-ventilated exit staircase to residential apartment/ maisonette
+Exit staircase is cross-ventilated and maintained under smoke-free condition at all times. Unprotected openings of the apartment/ maisonette units are not facing or ventilating into the exit staircase enclosure.
+
+
+--- SECTION 2: FIREFIGHTING SYSTEMS ---
+
+(Fire extinguishers, hose reels, fire alarms, sprinklers)
+
+CLAUSE 6.1 PORTABLE EXTINGUISHERS
+6.1.1 General
+a. Portable fire extinguishers, where required, shall be constructed in accordance with SS EN 3.
+b. All portable fire extinguishers, where required to be provided, shall be charged, tested, maintained and properly tagged in accordance with SS 578.
+6.1.2 Provision
+a. Fire extinguishers shall be provided in all buildings except the following:
+(1) PG I buildings;
+(2) residential floors of PG II buildings;
+(3) car parking areas in standalone car parks or mixed-use residential buildings;
+(4) roof level of single storey buildings with roof height not more than 12m or inaccessible pitched roof up to 24m from grade level used solely for roof-mounted PV installations in accordance with Cl.10.2.1b.(1);
+and
+(5) roof level of an external/ open-sided overhead bridge/ shed/ linkway/ walkway with clear width less than 6m, roof height not more than 12m and used solely for roof-mounted PV installations in accordance
+with Cl.10.2.1b.(1).
+(6) Green roofs which are accessible for maintenance purposes only and which comply with Cl.10.2.1b.(1)(a).
+b. Where the roof level is a non-habitable floor, fire extinguishers shall be provided to cover the M&E plants/ equipment.
+6.1.3 Type, size and siting
+The classification of portable fire extinguishers provided shall be selected in accordance with SS 578 such that the nature of processes and contents within the building concerned can be effectively protected. The size,
+quantity and siting of these portable fire extinguishers shall comply with the requirements in SS 578 under the respective class of occupancy hazard.
+6.1.4 Installation and marking
+Portable fire extinguishers provided shall be installed and conspicuously marked in accordance with requirements by SS 578.
+
+CLAUSE 6.2 RISING MAIN AND HOSE REEL SYSTEMS
+6.2.1 Type of rising mains
+a. The type of rising main system provided shall be appropriate to the building as follows:
+(1) dry rising mains shall be installed in PG II to VIII buildings of habitable height more than 10m, but not more than 60m;
+(2) wet rising mains shall be installed in buildings with habitable height exceeding 60m; and
+(3) separate dry and wet rising main systems in a building are permitted.
+b. Notwithstanding the requirements in Cl.6.2.1a., dry rising mains conforming to SS 575 shall be provided to supply any part of a single or multiple level basement.
+c. Where the building has access from more than one ground level or road level, the height measurements for the purpose of this Code shall be taken from the level of the fire engine accessway. Where there is no fire
+engine accessway, the height measurements shall be based on fire engine access road.
+6.2.2 Number, location and size of rising mains
+a. Standard
+The number, distribution, size and installation of rising mains shall comply with the requirements stipulated in SS 575.
+b. Locations of landing valves
+Rising mains and the associated landing valves shall be kept free of physical and visual obstruction, and be located:
+(1) within a fire lift lobby, smoke-free lobby or external corridor immediately outside the door of the exit staircase, or
+(2) in the case where there is no fire lift lobby, smoke-free lobby and external corridor, it shall be located inside an exit staircase, or in the common area and within a protected shaft, immediately outside the door of
+the exit staircase.
+Note: Where there are provisions of fire lift lobby and smoke-free lobby within the building, the position of rising mains and landing valves shall first be located inside fire lift lobby.
+c. Provision for landing valves and standby fire hoses
+(1) The location and provision for landing valves shall comply with SS 575. Where any part of the 1st storey of a building, except for PG II buildings, is more than 38m (30m hose line length and a jet throw of 8m) from
+the breeching inlet, a landing valve at the 1st storey shall be provided.
+(2) Where all the exit staircases in a building under PG III to VIII are installed with rising mains and standby fire hoses, and yet part of a floor space is beyond the 38m (30m hose line length and a jet throw of 8m)
+coverage of any landing valve, an additional standby fire hose shall be provided at the landing valve nearest to this floor space.
+6.2.3 Breeching inlets and fire engine accessways/ fire engine access roads
+a. All buildings fitted with rising mains shall have a fire engine accessway/ fire engine access road for firefighting appliances within 18m of the breeching inlet. The breeching inlets shall be visible from the fire engine
+accessway/ fire engine access road.
+b. The requirements and provisions for breeching inlets for the rising main system shall be in accordance with the SS 575. Connecting pipes between the inlets and the vertical run of the rising mains, where applicable,
+shall be kept as short as possible.
+6.2.4 Wet rising mains
+a. Water supply
+The capacity of the water supply from the public mains and the storage capacity for a wet rising main system shall comply with the requirements in SS 575.
+b. Flow
+The flow requirements for wet rising main system shall comply with those stipulated in SS 575.
+c. Running pressure
+Running pressure at each discharging landing valve on the wet rising main system shall be maintained between the minimum and maximum values as stipulated in SS 575.
+d. Static pressure
+Static pressure in any line of hose connected to a landing valve in a wet rising main system shall not exceed the specified value in SS 575.
+e. Storage tanks
+The location of storage tank and capacity of break tank where required shall comply with the requirements in SS 575.
+f. Fire pumps
+Installation of fire pumps for wet rising main system shall comply with the requirements of SS 575. Wet riser pumps shall be installed within a fire compartmented fire pump room, whose fire rating shall be in accordance
+with Table 6.4A. The fire pump room floor level shall not be lower than the main floor level.
+g. Water supply system
+(1) The water supply requirements for wet riser system shall be as follows:
+TABLE 6.2.4g: WATER RISER SYSTEM
+Water flow rate (L/s)
+No: of stacks
+Non-residential buildings Residential buildings
+1 38 27
+2 57 40.5
+3 76 54
+4 & above 95 67.5
+(2) The minimum water storage capacity shall be capable of supplying water at the above flow rate for the period as specified in SS 575.
+6.2.5 Standby fire hose for rising mains
+Standby fire hoses shall be provided for every rising main except for those in buildings under PG II. The following requirements shall be complied with:
+a. Type and folding method
+(1) The standby fire hose shall be of 63.5mm nominal internal diameter in order to ensure that the hose coupling will fit the existing coupling tail pieces. The hose shall be rugged and capable of carrying water under
+substantive pressure in accordance with BS 6391. The fire hose shall be of Type 3 as stipulated in BS 6391.
+(2) The fire hose couplings shall be manufactured to BS specifications or equivalent and of be light alloy or gunmetal. The coupling shall be of 63.5mm diameter and be of the instantaneous type with standard
+(double-pull) release mechanism. The couplings shall be secured to the hoses with galvanised mild steel wire and applied over a hose guard of synthetic fibre. It shall be able to withstand a minimum working
+pressure of 15 bars.
+
+(1) Siting and details of installation for hose reels shall comply with the requirements in SS 575.
+(2) Hose reels shall be sited in prominent and accessible locations within a distance of 5m from the exit door but not inside exit staircases. If there are parts of the floor space that are beyond the 36m coverage (30m
+hose path and 6m throw) of the hose reel, additional hose reels shall be provided at the common area or at a distance of not more than 5m from the exit access door of a room.
+(3) Hose reels located within a room shall not be used for covering the areas outside the room.
+e. Piping
+The use of copper or stainless steel piping is permissible for the connection of the hose reels to the PUB mains. Where only 1 number of hose reel is required, water supply pipe with nominal diameter of at least 25mm is
+permitted if the hose reel meets the required flow rate and pressure as stipulated in SS 575.
+6.2.9 Graphical symbols
+Graphical symbols to depict fire safety equipment are allowed for use in buildings provided the signs comply with SS 508. The Table 6.2.9 shows the different sizes of the graphical symbol with respect to the viewing
+distance.
+TABLE 6.2.9 SIZES OF GRAPHICAL SYMBOLS
+Viewing Distance 0 to 6m > 6 to 9m > 9 to 12m 12m or more
+Minimum height of symbol (Z=100) 60mm 90mm 120mm 150mm
+Note:
+The luminous factor (Z=100) from SS 563 is used to determine the size of the sign. It essentially dictates the size of the sign that varies with distance. The graphical symbol for firefighting equipment shall be sized such
+that the height and width are same. The size of symbol is not inclusive of borders.
+
+CLAUSE 6.3 ELECTRICAL FIRE ALARM SYSTEM
+6.3.1 General
+a. PG III to VIII occupancies
+(1) Every building or part of a building, except that of PG I or II (residential floors), having a total floor area of more than that specified in column (3) of Table 6.3A having regard to the purpose group of the building
+or part of the building, shall be installed with a fire alarm system, either of the automatic or manual type as indicated in column (4), which shall be an electrically supervised system complying with the requirements
+of the SS 645. The fire alarm system shall be connected to the SCDF’s Operations Centre through an approved alarm monitoring company if required under Cl.6.3.8.
+(2) Notwithstanding Cl.6.3.1a.(1) above, if the total floor area per storey of a 2 to 4 storey building of any of the PG III to VIII exceeds the sizes as stipulated in column (2) of Table 3.2A, the building shall be
+provided with an automatic fire alarm system.
+b. PG II mixed occupancy
+For PG II mixed occupancy buildings where an automatic sprinkler system and/ or electrical fire alarm system is provided to the non-residential part of the building:
+(1) Alarm sounders shall be able to produce a minimum sound level of 65dBA, or 5dBA above the ambient noise level, whichever is greater but not more than 120dBA, at all parts of the following areas:
+(a) the non-residential units;
+(b) the common areas of the non-residential floors; and
+(c) the common areas of the immediate two residential floors above the non-residential floor.
+(2) Connection of the fire alarm system to an approved alarm monitoring company stipulated under Cl.6.3.8 is not required if the number of non-residential floors is not more than one storey.
+c. Dormitories
+For dormitories, including workers' dormitories, an electrical fire alarm system shall be provided as follows:
+(1) For single storey dormitory buildings, manual fire alarm system is to be provided to comply with SS 645.
+(2) For dormitories exceeding one storey, both automatic and manual fire alarm systems shall be provided to comply with SS 645.
+d. The following are not required to be provided with electrical fire alarm system:
+(1) Roof level of single storey buildings with roof height not more than 12m or inaccessible pitched roof up to 24m from grade level used solely for roof-mounted PV installations in accordance with Cl.10.2.1b.(1).
+(2) Roof level of an external/ open-sided overhead bridge/ shed/ linkway/ walkway with clear width less than 6m, roof height not more than 12m and used solely for roof-mounted PV installations in accordance
+with Cl.10.2.1b.(1).
+6.3.2 Fire alarm panel
+a. An electrical fire alarm system of the automatic or manual type shall be provided with a fire alarm panel to indicate the location of the alarm which has been actuated or operated. Such an alarm panel shall be accurate
+to the maximum allowed alarm group area limitations specified in SS 645.
+b. The associated control and supervisory equipment, indicating equipment, wiring and arrangement of power supplies for the fire alarm panel shall comply with the requirements in SS 645.
+c. All automatic systems which are activated via the general building alarm shall be connected directly to the fire alarm panel.
+d. The fire alarm panel shall be located near the main entrance of the building, in the Fire Command Centre (FCC), in the guardhouse or in the fire lift lobby.
+e. Sub fire alarm panel, where provided, shall comply with the requirements in SS 645 be located at the fire lift lobby, smoke-free lobby, or protected staircase, in that order of priority, or at the main point of entry into the
+area covered by the alarm zone.
+6.3.3 Manual alarm call points
+a. In a manual alarm system, except as otherwise exempted in Cl.6.3.1, the manual call points shall be provided on every storey of the building or part of the building and shall be so located that no person need travel
+more than 30m from any position within the building to activate the alarm.
+b. Manual call points shall be located on exit routes preferably next to hose reels and in particular on the floor landings of exit staircases and at exits to the street. In the case where an automatic fire alarm system is
+provided, grouping for indication of location of the manual call points shall comply with the requirements in SS 645.
+c. Manual call points shall be located between 800mm and 1.2m above the finished floor level and shall be located at easily accessible and conspicuous positions free from obstructions. The installation of the sounding
+device shall be in accordance with SS 645.
+d. Exemption
+Manual call points can be omitted for the following:
+(1) car parks, regardless whether the parking facility is standalone type or forms part of a building;
+(2) open-to-sky roof gardens/terraces, provided an alarm sounder is extended to this level and positioned near the exit staircase except for developments where fire alarm system is not required; and
+(3) mezzanine floor of factory unit, subject to compliance with Cl.9.6.1a.(2) and provided no person on the mezzanine floor need to travel more than 30m to activate the nearest manual call point located on the main
+floor.
+e. Manual call point shall be provided for buildings protected with an automatic fire sprinkler system or automatic fire alarm system.
+6.3.4 Automatic fire alarm
+Where an automatic fire alarm system is required by this Code, the type, location, spacing and installation of the detectors shall comply with the requirements in SS 645.
+6.3.5 Alarm device
+a. General
+(1) The alarm device, which should normally issue an audible or visible signal, unless specifically allowed or required otherwise by the SCDF, shall be actuated if the electrical fire alarm system is activated or
+operated. The type, number and location of the alarm device shall comply with the requirements in SS 645.
+(2) All sounders and visual alarm signals in the building shall be actuated simultaneously in the event of an activation. However, in cases permitted or required by the SCDF where the operation of alarm sounders are
+grouped or activated in stages, the arrangement shall comply with the requirements in SS 645.
+b. Audio alarm
+The fire alarm sounder shall have a sound that is readily distinguishable from any other alarm systems. In places of entertainment or areas where sound and/or special effects lighting systems are installed, including KTV
+kiosks/booths placed within building premises, the sound systems shall be electronically interlocked with the fire alarm system to enable these systems to be automatically cut-off when the fire alarm system is activated
+c. Visual alarms
+(1) Visual alarms shall be provided in addition to the audible alarms for buildings protected by fire alarm systems and separate visual alarm(s) shall be provided in the following:
+(a) Where persons with hearing impairment can be isolated, especially when they are not in their identified locations, visual alarm(s) shall also be provided:
+(i) in toilets and inside full-height partitioned cubicles;
+(ii) car park floors;
+(iii) lift lobbies; and
+(iv) in places of entertainment, e.g., dance halls, gaming outlets, internet games cafes, arcades where users use headgear that affect hearing or areas where sound and/ or special effects lighting systems are
+installed.
+(2) Visual alarms shall not be used in place of audible alarms.
+(3) Siting of visual alarms
+Visual alarms shall be located together with fire alarm sounder. Where they are not readily visible from areas accessible to persons with hearing impairment who may be in isolation, additional visual alarms shall be
+provided. The height of the visual alarms shall be between 2m to 3m above finished floor level.
+
+b. Areas which are covered with trellises, louvres or perforated panels having 50% or more evenly distributed effective free openings. An alarm sounder and visual alarm shall be provided near the exit staircase in
+accordance with SS 645.
+c. Open-to-sky roof gardens/ terraces located within PG II buildings or mixed-use residential buildings, provided there are no covered commercial activities/ spaces at the open-to-sky roof gardens/ terraces. When there
+is other non-residential occupancy other than the open-to-sky roof gardens/ terraces located within the same PG II building, the alarm sounder and visual alarm shall be extended to the open-to-sky roof gardens/ terraces
+and positioned near the exit staircase in accordance with SS 645.
+6.3.11 Video Image Fire Detection System (VIFDS)
+a. VIFDS shall be installed in addition to the electrical fire alarm system for buildings which meet all of the following conditions:
+(1) It is an unmanned buildings belonging to PG III to VIII.
+(2) It has an internal open space of more than 2000m2 or a ceiling height of more than 12m.
+(3) It requires the provision of automatic fire alarm system in accordance with Table 6.3A .
+b. VIFDS shall comply with SS 645 and can be used to complement smoke, heat and flame detectors in an electrical fire alarm system.
+c. It shall be connected to the SCDF Operations Centre through an approved alarm monitoring company. Alarm signals and live video images of fire and/or smoke captured shall be transmitted to the approved alarm
+monitoring company upon activation of the building fire alarm system.
+
+CLAUSE 6.4 FIRE SPRINKLER INSTALLATION
+6.4.1 Provision
+Every storey/ room of a building, unless otherwise exempted by this Code, shall be protected by an automatic sprinkler system under the following situations:
+a. Compartment size
+Whenever compartmentation requirements under Table 3.2A of Chapter 3 of this Code cannot be complied with.
+b. Buildings other than PG I and II
+Every storey of buildings of more than 24m in habitable height, except for PG I and II, regardless of whether the compartmentation requirements are complied with.
+c. PG II mixed occupancy
+(1) For PG II mixed occupancy buildings exceeding 24m in habitable height, the non-residential parts shall be protected by an automatic sprinkler system if they:
+(a) comprise more than one storey, or
+(b) are located above the first storey.
+(2) For PG II mixed occupancy buildings regardless of habitable height, the non-residential parts shall be protected by an automatic sprinkler system if they are not compartmented from the basement storeys.
+(3) Exemption
+(a) Intermediate sky terraces used as communal areas without commercial activities, or storage, provided the ventilation openings for the sky terraces are evenly distributed around the external walls, excluding
+perimeter walls to air wells, with ventilation openings not less than 50% of all external walls.
+(b) Open-sided pavilion/ shed used as communal areas in accordance with Cl.6.2.8a.(3)(c)(iv).
+(4) For non-residential parts where sprinkler protection is not required under sub-clauses (1), (2) & (3) above, an automatic fire alarm system shall be provided for the non-residential parts in accordance
+with Cl.6.3.1b..
+d. Basement
+(1) All basement storeys irrespective of compartment size, except for those used as PG I or II, shall be provided with an automatic sprinkler system. Where the upper storeys of the building are fully compartmented
+from the basement storeys, the requirement for provision of an automatic sprinkler system for floors above the basement shall be considered separately and in accordance with Cl.6.4.1a., b. and c.
+(2) Exemption
+(a) Where the basement storey is effectively cross ventilated to prevent smoke logging, the basement storey can be exempted from providing an automatic sprinkler system.
+(b) In the case of residential developments located over basement car parks, relaxation on the provision of these sprinkler system and smoke purging systems to the basement car park can be granted if all of the
+following conditions are met:
+(i) The basement car parking shall consist of one level only.
+(ii) External openings shall be provided to achieve effective cross ventilation by means of evenly distributed vertical openings along the perimeter walls and evenly distributed voids over the basement in
+such manner that:
+• no point within the basement is more than 12m from any vertical opening or void for spaces that are in between two openings or voids;
+• no point shall be more than 6m from any opening or void for spaces that are ventilated by such opening or void on only one side; and
+• such vertical openings shall be at least 600mm in height.
+(iii) The total aggregate area of these voids and vertical openings shall be not less than 20% of the total basement floor area.
+(iv) An automatic fire alarm system shall be provided for the basement car parks with extension of alarm bells to the common/lobby areas of the upper storeys in accordance with Cl.6.3.1a. and b.
+e. Atrium space
+A fire sprinkler system shall be provided for an atrium space not exceeding 18m in height. For an atrium with ceiling height exceeding 18m (in whole or in part), water monitor, deluge and/ or extended-throw sprinkler
+systems shall be provided to cover the entire atrium space.
+f. Exemption of sprinkler protection
+(1) All of the following areas are exempted from sprinkler protection in a sprinkler-protected building:
+(a) Covered areas
+Areas which are covered with trellises, louvres or perforated panels, which have 50% or more evenly distributed effective free openings. An alarm sounder and visual alarm shall be provided near the exit
+staircase in accordance with SS 645.
+(b) Areas under roof-mounted PV installations on non-habitable roof
+Each sub-array of PV installation shall not exceed 5m in width, with maintenance aisle of minimum 400mm width in between the sub-arrays. Each sub-array shall be open-sided without any commercial
+activities or storage within these areas. The maximum dimensions of PV arrays shall be in accordance with Cl.10.2.1d..
+(c) Staircase storey shelter
+A sprinkler head shall be provided outside the door of the staircase storey shelter on sprinkler-protected floors. The sprinkler head shall be within a horizontal distance of 1m from the centre of this door.
+(2) All of the following areas not located within PG VI or VIII buildings are exempted from sprinkler protection in a sprinkler-protected building:
+(a) Canopies/ car porches
+(i) Such areas are to be used solely for the purpose of passengers pick-up and drop-off.
+(ii) There shall be no commercial activities or storage within these areas.
+(iii) Cut-off sprinklers and fire-rated walls are not required to be provided to separate the sprinkler-protected and non-sprinkler-protected areas.
+(b) External corridor
+External corridors shall not exceed 4m in width, and there shall be no commercial activities or storage within these areas.
+(c) External/ open-sided linkways
+External/ open-sided linkways shall not exceed 5m in width, and there shall be no commercial activities or storage within these areas.
+(d) Open-to-sky roof gardens/ terraces
+Open-to-sky roof gardens/ terraces provided there are no covered commercial activities/ spaces at the open-to-sky roof gardens/ terraces. An alarm sounder and visual alarm shall be extended to the open-to-sky
+roof gardens/terraces and positioned near the exit staircase in accordance with SS 645.
+6.4.2 Standard
+Installation of the sprinkler system and its associated water supply, and control and testing requirements shall comply with the SS CP 52.
+6.4.3 System design
+a. Connection to the SCDF Operations Centre
+The sprinkler system shall be electrically monitored so that on the operation of any sprinkler head, the fire signal is automatically transmitted to a fire station through an approved alarm monitoring company.
+b. Fire pumps
+Installation of fire pumps for sprinkler systems shall comply with requirements of SS CP 52. Sprinkler pumps shall be installed within a fire compartmented fire pump room, whose fire rating shall be in accordance
+
+
+--- SECTION 3: MEANS OF ESCAPE ---
+
+(Exit staircases, evacuation routes, fire escape plans)
+
+CLAUSE 2.1 GENERAL
+The provisions of this chapter shall serve to express the intentions for determining the design, construction, protection, location, arrangement and maintenance of exit facilities to provide safe means of escape for occupants
+from all buildings hereafter erected, altered or changed in occupancy. Areas which are designated as means of escape, such as exit staircase, fire lift lobby, smoke-free lobby, exit passageway, escape corridor shall not be
+turned into other usage.
+
+CLAUSE 2.3 MEANS OF ESCAPE REQUIREMENTS
+2.3.1 General
+a. Means of escape shall be provided for all buildings by one or more of the facilities listed herein. Access and exit facilities not specifically covered in this Code shall not be used without the approval of the SCDF.
+Required exits shall be kept readily accessible, and doors shall be openable and unobstructed at all times during the occupancy of the building. Any future grille gate/door swing from units/service shaft into the common
+areas shall be indicated with dotted lines on building plans to show the egress requirements are met, despite the door swing.
+b. Exit staircase signage
+(1) Exit staircases serving all buildings (except PG I) shall be provided with a signage not smaller than 300 x 300mm and be within the stairwell at each storey landing.
+(2) The signage shall contain the following information:
+(a) the storey number, at least 125mm in height; and
+(b) an identification of the staircase in alphabetical and/or numeric form, at least 25mm in height.
+(3) The letters and numbers on the sign can be of any colour that provides contrast with the background colour.
+(4) The signage shall be located such that it is visible when the door is in the open position and also visible to any person moving up or down the staircase.
+c. Fire escape plan
+(1) A fire escape plan shall be provided for all buildings except PG I and displayed in common lobbies or lift lobbies such that they are easily viewable by the building occupants and the general public passing through
+these common areas. The fire escape plan shall have legible lettering and the fire escape routes made clear to the viewer. It shall clearly show the layout of the floor in the correct orientation and highlight the escape
+routes (in relation to viewer’s location), escape corridors and exit staircases using appropriate colours, directional signs and words. The information required on the plan are only for firefighting and evacuation purposes
+and shall include the locations of the following:
+(a) Fire lifts;
+(b) Evacuation lifts;
+(c) PWD holding points;
+(d) Hose reels;
+(e) Fire extinguishers;
+(f) Manual alarm call points; and
+(g) Rising mains.
+(2) For ensuring legibility of the fire escape plan for buildings with large floor areas, partial plan showing minimally 2 escape routes is acceptable. The plan shall show the egress paths to at least 2 remotely located
+exits/exit staircases, including the PWD holding points.
+2.3.2 Exit passageways
+a. Fire resistance
+Exit passageways that serve as a means of escape or required exits from any building or storey of a building shall have the requisite fire resistance as specified under Cl.3.3.
+b. Internal exit passageway
+An internal exit passageway which serves as required exit of a building shall comply with the following requirements:
+(1) it shall be enclosed with construction complying with the provisions of Cl.3.3;
+(2) the enclosure walls shall have not more than two exit doors, excluding the final discharge door and exit staircase door, opening into the exit passageway;
+(3) exit doors opening into an exit passageway shall have fire resistance rating as required for exit doors opening into exit staircases, be fitted with automatic self-closing device and comply with the requirements
+of Cl.3.9.2 for fire resisting doors;
+(4) the minimum width and capacity of exit passageway shall comply with the requirements as provided in Table 2.2A;
+(5) changes in level along an exit passageway requiring less than two risers shall be via a ramp complying with the provisions under Cl.2.3.8; and
+(6) if the exit staircase which connects to the internal exit passageway is pressurised, the internal exit passageway shall also be pressurised to comply with the requirements in Chapter 7.
+c. External exit passageway
+An external exit passageway can be used as a required exit in lieu of an internal exit passageway. It shall comply with the following requirements:
+(1) any ventilation openings on the external wall between the exit passageway and the rest of the floor space shall be of non-combustible construction, fixed at a level of at least 1.8m, measured from the finished
+floor level of the passageway to the sill level of the openings and such ventilation openings shall be located not less than 3m from any opening of an exit staircase;
+(2) it is exempted from the limitations of a maximum of two exit doors opening into the exit passageway;
+(3) it can be roofed over provided the depth of the roofed over portion does not exceed 3m to avoid smoke logging;
+(4) it can be enclosed on the open side by only a parapet wall of not less than 1m and not more than 1.1m in height and the vertical height of the unobstructed and uninterrupted ventilation opening measured from the
+parapet wall up to the top edge of the opening or eaves of overhang shall be not less than 1.2m; and
+(5) exit doors opening into an external exit passageway shall have fire resistance rating of at least ½-hr and shall be fitted with an automatic self- closing device.
+d. Ventilation
+(1) All internal exit passageways shall be naturally ventilated by fixed ventilation openings in an external wall, such ventilation openings being not less than 15% of the floor area of the exit passageway.
+(2) Internal exit passageways that cannot be naturally ventilated shall be mechanically ventilated to comply with the requirements in Chapter 7.
+2.3.3 Exit staircase
+a. Internal exit staircase
+(1) Staircase enclosure
+An internal exit staircase which serves as the required exit of the building shall be enclosed with construction complying with the provisions of Cl.3.8. The enclosure walls of an internal exit staircase, excluding the
+final discharge, shall not have more than two exit doors opening into the exit staircase shaft at each storey.
+(2) Approached via external exit passageway or external corridor
+Where an internal exit staircase is directly approached from an external exit passageway or external corridor, such enclosure between the staircase and the external exit passageway or external corridor is not required.
+(3) Unprotected openings
+There shall be no unprotected openings of occupancy area or combustible material/construction within 1.5m horizontally or within 3m vertically below any opening including final discharge openings located in the
+external walls of the internal exit staircase.
+(4) Exception
+(a) Single storey basement car park
+Exit staircases serving a single storey basement of PG II to VII buildings are not required to be protected with fire-rated enclosures, provided the travel distances in the car park measured to the exit doors at
+ground level comply with Table 2.2A.
+(b) Standalone car park
+Doors to exit staircases of standalone car park buildings that are without any commercial activities or non-ancillary usage can be omitted, provided that all of the following conditions are complied with:
+
+grilles.
+(b) Where the width of the exit staircase exceeds 2m, handrails shall be provided in accordance with the requirements of Cl.2.2.8.
+(7) Ventilation
+All exit staircases shall be ventilated by fixed openings in the external walls, such openings being of area not less than 10% of the floor area per floor of the staircase, or mechanically ventilated to comply with the
+requirements in Chapter 7. Ventilation openings fronting an air well, external recessed space or external shall be in accordance with Table 1.4.2. Mechanical ventilation is not allowed for PG II buildings, except for a
+staircase storey shelter.
+(8) Pressurisation
+In any building, except PG II for which the habitable height exceeds 24m, any internal exit staircases without provision for natural ventilation shall be pressurised to comply with the requirements in Chapter 7. In a
+building comprising more than four basement storeys, the exit staircase connecting to the fire lift lobby shall be pressurised.
+(9) Different modes of ventilation within a single staircase shaft
+For buildings exceeding 24m in habitable height, the internal exit staircase can be naturally ventilated at its upper part and mechanically ventilated at its lower part provided this lower part does not exceed 24m in
+habitable height and there shall not be any intermediate staircase landing door separating the two modes of ventilation. If the lower part exceeds 24m in habitable height, this lower part shall be pressurised instead.
+For pressurisation of exit staircase, an intermediate staircase landing door is permitted.
+2.3.4 Scissor exit staircase
+Scissor exit staircase shall comply with the following:
+a. where two separate internal exit staircases are contained within the same enclosure, each exit staircase shall be separated from the other by non- combustible construction having fire resistance for a minimum period
+equal to that required for the enclosure;
+b. such scissor exit staircases shall comply with all applicable provisions for exit staircase;
+c. for exit door openings of scissor exit staircases, the separation distance between the two closer edges of staircase doors shall be at least 7m;
+d. where there is only one pair of scissor exit staircases, the door opening into scissor exit staircases shall be spaced at least 1/3 the diagonal dimension of the area to be served in a sprinkler-protected building and ½ the
+diagonal dimension in a non-sprinkler-protected building in accordance with Cl.2.3.12; and
+e. the ventilation openings of each staircase shall be located on alternate storeys if such openings or windows are serving both staircases on the same wall.
+2.3.5 Basement exit staircase
+a. Any exit staircase which serves a basement storey of a building, unless otherwise stated in Cl.2.3.3a.(4)(a), shall comply with all the applicable provisions for exit staircase.
+b. Such exit staircase shall not be made continuous with any other exit staircase which serves a non-basement storey of the building.
+c. Separate protected shaft
+Basement exit staircases which are vertically aligned with the exit staircases of non-basement storeys shall be separated from such other exit staircases by construction having fire resistance for a minimum period equal to
+that required for the enclosure.
+d. Upper storey staircase that continues into basement
+Where upper storey staircase is allowed by the SCDF to be continuous with that serving a basement which is naturally ventilated, all of the following shall be complied with:
+(1) Entry at basement
+The entry into the basement staircase shall be through a protected lobby, or directly from the basement occupancy area provided the door to the basement staircase is at least 1-hr fire-rated.
+(2) Barrier
+To prevent occupants exiting continuously from upper storeys into the basement storey during an emergency, a physical barrier in the form of a door or gate (self-closing type) shall be provided across the staircase
+(3) Smoke-free lobby
+A smoke-free lobby shall be provided for entry into the staircase at all storeys, including basement storeys if the staircase serves more than four storeys, including basement storeys.
+(4) Signage
+Appropriate signage shall be provided inside the staircase enclosure to direct occupants out of the building at ground level.
+2.3.6 Hardwood staircase
+a. A hardwood staircase can be used as an internal access staircase in building.
+b. Where timber staircases are used in units in PG I and II buildings, which are not under conservation, the structural elements such as the stringer supporting the treads and risers shall be constructed of non-combustible
+materials.
+2.3.7 Spiral staircase
+a. Spiral staircases shall not serve as required exits, unless they comply with all of the following conditions. They shall:
+1. be external and unenclosed;
+2. serve only mezzanine floors, balconies, or any storey of occupant load not exceeding 25 persons;
+3. be constructed of non-combustible materials;
+4. have a tread length of at least 750mm; and
+5. be not more than 10m high.
+b. Spiral staircase shall not be designed as the sole means of escape for buildings under PG I and for PG II maisonettes and penthouses.
+2.3.8 Exit ramp
+Internal and external exit ramps can be used as exits in lieu of internal and external exit staircases subject to compliance with Cl.2.3.3 and all of the following:
+a. Slope
+The slope of such exit ramps shall not be steeper than 1 in 10.
+b. Changes in direction
+Exit ramps shall be straight with changes in direction being made at level platforms or landings only, except that exit ramps having a slope not greater than 1 in 12 at any place can be curved.
+c. Platform
+(1) Level platforms or landings shall be provided at the bottom, at intermediate levels where required and at the top of all exit ramps.
+(2) Level platforms shall be provided at each door opening into or from an exit ramp.
+(3) The minimum width and length of a platform or landing shall be not less than the width of the ramp, except that on a straight run ramp, the length of the level platform or landing need not be more than 1m.
+d. Guards and handrails
+Exit ramps shall have walls, guards or handrails and shall comply with the applicable requirements of Cl.2.3.3d. for exit staircases.
+e. Surface
+All exit ramps shall be provided with non-slip surface finishes.
+
+f. Ventilation
+Exit ramps shall be ventilated to comply with the requirements for ventilation of exit staircases.
+g. Enclosure exemption
+Exit ramps serving a single storey basement of PG II to VII buildings are not required to be protected with fire-rated enclosures, provided the travel distances measured to the exit doors at ground level comply with Table
+2.2A.
+2.3.9 Exit doors and exit access doors
+Exit doors and exit access doors shall comply with all of the following:
+a. Door operation
+Exit/ exit access doors shall be capable of being opened manually, without the use of a key, tool, or special knowledge or effort for operation from the inside of the building. (Not applicable within residential units under
+PG I and II)
+b. Fire resistance
+Exit/ exit access doors which are required to have fire resistance rating shall comply with the relevant provisions for fire resisting doors under Cl.3.9.2
+c. Door swing
+Exit doors and exit access doors shall open in the direction of exit travel in the following situations:
+(1) when leading to an area of refuge, exit and exit passageway, or
+(2) when used in an exit enclosure, including smoke-free and fire lift lobbies in a building, but excluding doors of individual residential units that open directly into an exit enclosure, or
+(3) when serving a high hazard area, or
+(4) when serving a room or space with more than 50 persons.
+d. Exit/ exit access door openings
+(1) Opening into exit staircase
+Exit doors opening into exit staircases and exit passageways shall not impede the egress of occupants when such doors are swung open.
+(2) Opening into corridor
+All doors which open into the corridor shall not hinder the movement of occupants. When such a door(s) is swung open, the corridor’s clear width shall be at least half of the required clear width as stipulated
+under Table 2.2A.
+(3) Opening force
+The maximum exit doors and exit access doors opening force shall be 30N at 0° and 20N at 30° opening.
+e. Vision panel
+The fire door to an exit staircase and/ or smoke-free/ fire lift lobby shall be constructed to incorporate a vision panel. The vision panel shall have a clear view size of 100mm (width) by 600mm (height). The vision panel
+shall have the requisite fire resistance rating and shall not turn opaque when subject to heat. The bottom edge of the vision panel shall be located at 900mm above the finished floor level. The provision of vision panel
+shall not apply to fire doors of residential apartment or maisonette units and public accommodation units (see Table 1.4A).
+f. Revolving doors
+Revolving doors shall not be used as exit/ exit access doors for required exits.
+g. Exit/ exit access door of residential unit
+Exit/ exit access door of each residential unit shall be located at not more than 500mm from the strata-title line to prevent the creation of a large entrance alcove/ corridor. However, in situations where the entrance
+alcove/ corridor leads into an open- sided common corridor which meets the requirements for smoke-free approach under Cl.9.2.1a.(4)(e) & (f), the separation distance between the entrance alcove/corridor and the
+nearest exit staircase shall not be less than 3m.
+h. Door located in a path of travel
+(1) Any door located in a path of travel shall be of the side-hinged or pivoted swing type. The door shall be designed and installed so that when swung open, it does not prevent full use of the opening. The minimum
+clear width of the door opening shall not be less than the required door clear width.
+Exception
+(a) Requirement on door swing shall not apply to buildings under PG I and residential units under PG II.
+(b) Locking device
+With prior consent from the SCDF, locking of exit/ exit access doors are permissible at certain rooms or spaces of healthcare occupancies and detention and correctional occupancies.
+(c) Sliding doors & roller shutters
+Sliding door and roller shutter as listed in Cl.2.3.9h.(2)(a) to (e) below are permitted to be installed across the exit access leading to exits, including the exterior door openings, except in areas stipulated
+under Cl.2.3.9c.(1) and (3). These doors shall not form part of the fire compartment integrity.
+(2) Manually operable sliding doors/roller shutters
+(a) Manually operable sliding doors or roller shutters shall be capable of being opened and closed manually from either side of the door. The maximum opening force for sliding doors/roller shutters shall not be
+more than 30N.
+(b) A manually operable sliding door or roller shutter that can remain in closed position during the period of occupation is permitted for rooms or spaces with occupant load not exceeding 50 persons. When
+opened, it shall not reduce the effective width/height of the doorway leading to the escape route. The sliding door or roller shutter is allowed for room or space that serves more than 50 persons provided it shall
+remain in the full open position during the period of occupation. A readily discernible sign with the lettering “THIS DOOR TO REMAIN OPEN WHEN THE BUILDING IS OCCUPIED” shall be permanently
+pasted on both sides of such a sliding door or roller shutter at a height of 1.4m from the finished floor level. The lettering shall be 25mm in height and painted in white on a red background with reflective
+surface.
+(c) Wicket door
+A wicket door can be incorporated within a roller shutter or sliding door. The wicket door shall be of the swing type having a minimum head height of 2m and a clear width of not less than the required door
+clear width. The wicket door shall comply with all the requirements of an exit access door, and be clearly marked and readily visible so that the occupants can readily see where the door is. It shall be fitted only
+with simple fastenings that can be manually operated for ease of escape.
+(d) Sliding door with swing-out feature
+A sliding door which can be swung open shall swing in the direction of escape travel when a certain horizontal force is applied to the door. When the sliding door is converted to a swing door, it shall comply
+with all the requirements of an exit access door. The maximum door opening force shall be 30N at 0° and 20N at 30° opening. A readily visible sign with the letterings “IN EMERGENCY, PUSH TO OPEN”
+shall be affixed onto the door.
+(e) Power operated sliding doors/roller shutters
+Power operated automatic sliding doors/roller shutters, shall be linked to the building fire alarm system. The sliding door/ roller shutter shall automatically open to the required width/ height (of door opening)
+upon the activation of the fire alarm. The automatic sliding door/ roller shutter shall also comply with all of the following:
+(i) Fail-safe type
+The automatic sliding doors/roller shutters shall be of the fail safe type. Should there be any fault in the electrical or sensor device, or any power failure (either mains or battery powered), these doors shall
+automatically open and remain in an open position until power is restored.
+(ii) Manual override
+A manual override mechanism (a device to trigger the immediate opening of sliding doors/roller shutters) shall be provided. The doors shall open and remain open upon activation of this device. This device
+shall be housed in a break glass box located beside the sliding doors or roller shutters and fixed at a height of 1.2m above the finished floor level. It shall be easily accessible, conspicuous and be free from
+obstructions. A readily discernible sign with the lettering “EMERGENCY DOOR RELEASE” shall be permanently displayed beside the switch. The letterings shall be of at least 15mm in height.
+
+Exception: Powered sliding doors, roller shutters and swing doors that belong to the unit owners or tenants are not required to be linked to the building fire alarm system, provided they are designed as fail-
+safe type, installed with manual override, and do not form part of the building’s fire protection system, e.g. smoke control system.
+i. Exit/ exit access door serving spaces of mass occupation
+Any exit door or exit access door serving spaces of assembly/ mass occupation, namely, auditorium, concert hall, theatre, assembly hall, exhibition hall, conference hall, cinema, stadium, function hall, casino, or any
+other spaces with an occupant load factor of not greater than 1m2/person and occupant load greater than 50, which has to be kept shut and fastened while the building or part of the building is occupied shall be fitted with
+‘panic exit device’. The panic exit device shall operate to open the door when a pressure is applied on the bar in the direction of travel and be appropriately marked ‘Push Bar To Open’ in letters not less than 50mm high.
+j. Locking of doors to exit staircase, smoke-free lobby and fire lift lobby
+One-way locking device e.g. panic bolt or thumb turn locking device is not permitted under the following situations:
+(1) for the exit door between exit staircase and fire lift lobby;
+(2) for the exit door between exit staircase and smoke-free lobby/ fire lift lobby/ occupancy area on re-entry floor; and
+(3) for the exit access door between smoke-free lobby/ fire lift lobby and occupancy area on re-entry floor.
+k. Access control using electromagnetic/electromechanical locking device
+(1) Where access control using electromagnetic/ electromechanical locking device is installed on any exit access door and/or exit door, excluding revolving doors and doors to residential units, such doors shall
+comply with the requirements stipulated in Table 2.3.9k.(1) - 1 & Table 2.3.9k.(1) - 2. The access control locking devices installed on exit access door and/ or exit door in the escape path shall be connected directly
+to the building automatic fire alarm system to de-activate the locking devices. Linking of the locking devices or its control panels through other systems such as access control, building management system, etc.,
+that will cause delay to the de-energising of locking devices is not permitted.
+(2) Access control belonging to tenanted spaces
+Where the escape route is permitted to go through another occupied space in accordance with Cl.2.2.12b., the exit access door within the tenant unit for escape purpose shall release when the alarm on that floor
+activates.
+(3) Where doors opening into a passenger lift lobby are provided with access control and are locked after normal operation hours, the lobby shall be designed to have direct access to at least one exit staircase to
+prevent any occupant from being trapped in the lobby when the lifts are recalled to the 1st storey, or other designated floor during fire emergency or building power failure.
+l. Staircase re-entry
+(1) Every exit staircase enclosure serving more than 7 storeys of a non- residential building, excluding buildings of detention and correctional occupancies, shall allow re-entry from the staircase enclosure to the
+interior of the building. There shall be at least one level where it is possible to re-enter into the interior of the building from the exit staircase enclosure.
+(2) The re-entry points shall be located not more than 6 storeys apart. There shall not be more than three storeys above the highest re-entry door in the building.
+(3) Where re-entry is provided from the staircase enclosure, it shall open into a common corridor that is connected directly to at least one other exit staircase.
+(4) Exit doors permitting re-entry into the building, shall be identified with a signage “Re-entry door” of at least 50mm lettering height on the staircase side of the exit door.
+(5) Where locking is required for doors of smoke-free lobby, fire lift lobby or exit staircase on the re-entry floor, they shall be fitted with an electromagnetic/ electromechanical locking device complying
+with Cl.2.3.9k.(1). For re-entry floor, manual override device shall be provided on both sides of the door.
+(6) All non-re-entry floors shall be identified with a sign to show the designated re-entry floors on the staircase side of the exit door.
+m. Warning signage for exit doors with one-way lock
+Where one-way locking devices or electromagnetic/ electromechanical locking devices are installed at the doors of exit staircases, a signage shall be provided to warn occupants that they would not be able to re-enter the
+floor should they exit from it. A readily visible sign with the lettering “EXIT ONLY, NO RE-ENTRY TO BUILDING” shall be positioned at the entrance into the exit staircase. This signage shall be applicable for all
+buildings except PG I & II.
+n. Access control using digital locksets
+Where a digital lockset is installed on an exit door or exit access door, these digital locksets shall come with mechanical fail-safe features on the non-secure side (i.e., shall not rely on electrical energy) to ensure occupant
+escape.
+2.3.10 External corridor
+External corridor shall comply with the following requirements:
+a. the vertical height of the unobstructed and uninterrupted ventilation opening measured from the parapet wall/ balustrade/ grille/ railing up to the top edge of the opening or eaves of overhang shall not be less than 1.2m;
+b. where the external corridor is roofed over, the depth of the covered area/ portion shall not exceed 3m;
+c. where any room or space with sleeping risk is located along the corridor, a 1-hr fire resistance rating wall of height not less than 1.1m, measured from the finished floor level of the external corridor to the sill level of
+the opening, shall be provided along the corridor leading to the exits. Any ventilation openings above the fire-rated wall shall be of non-combustible construction;
+d. the door opening into the external corridor need not be fire-rated;
+e. the provision of parapet wall, or balustrade for an external corridor shall be at least 1m in height and at most 1.5m in height along the outer side of the corridor; and
+f. the length of unobstructed and uninterrupted openings above the parapet wall of the external wall shall not be less than 6m and shall abut an external space.
+2.3.11 Air well
+a. The minimum size of an air well shall comply with Table 1.4.2 for ventilation of:
+(1) exit staircases; and
+(2) exit passageways (as an extension to an exit staircase).
+b. An air well shall have a minimum clear area of 93m2 and minimum width of 6m and without obstruction vertically throughout the airspace for ventilation of:
+(1) smoke-free lobby;
+(2) external corridor;
+(3) external exit passageway;
+(4) cross-ventilated corridor/lobby;
+(5) common internal corridor stipulated under Cl.9.2.1a.(10)(b); and
+(6) internal corridor of hotel, hostel, service apartment, healthcare occupancy, workers’ dormitories and the like.
+2.3.12 Remoteness of exits
+a. Where more than one exit is required from a building or portion thereof, such exits shall be remotely located from each other and shall be arranged and constructed to minimise the possibility that more than one can be
+rendered unusable by any one fire or other emergency condition.
+b. If two exits or exit access doors are required, they shall be placed at a distance from one another equal to or not less than half the length of the maximum overall diagonal dimension of the building or area to be served,
+measured in a straight line between the furthest edges of the exit doors or exit access doors (see Diagram 2.3.12b. - 1 to 5), subject to the following:
+(1) if the distance between the 2 exits or exit access doors is less than half the length of the maximum overall diagonal dimension of the building or area to be served, it shall be considered as a one-way escape
+arrangement;
+(2) the separation distance measured in a straight line between the furthest edges of the doors of the two exits (exit staircases, exit passageways or exit ramps) shall not be less than 7m.; and
+(3) for PG II buildings, the separation distance of the exits on the residential floor shall not be less than half the length of the maximum overall diagonal dimension of the protected lobby/corridor or external
+corridor.
+c. Reduction in exit separation
+In buildings protected throughout by an approved automatic sprinkler system which complies with the requirements of Chapter 6, the minimum separation distance between two exits or exit access doors measured in
+accordance with Cl.2.3.12a.& b. shall be not less than one third the length of the maximum overall diagonal dimension of the building or area to be served. The separation distance measured in a straight line between the
+
+
+--- SECTION 4: STRUCTURAL FIRE PRECAUTIONS ---
+
+(Separating walls between units, compartment floors, exit staircases)
+
+CLAUSE 3.6 SEPARATING WALLS
+3.6.1 Requirements of separating walls
+a. Every separating wall shall:
+(1) form a complete barrier in the same continuous vertical plane through the full height between the buildings it separates, including roofs, basements, air-con ledges and balconies, and shall be without openings
+except where permitted Cl.3.6.2;
+(2) have the appropriate fire resistance to comply with the requirements of Cl.3.3;
+(3) be constructed of non-combustible materials, together with any beam and column which form part of the wall and any structure which it carries; and
+(4) not include glass fire-resisting walls.
+b. Exception
+(1) Cl.3.6.1a.(1) shall not apply to wall between car porches of PG I buildings or wall between canopies over private enclosed spaces located on the grade level of PG II buildings. This exception shall not apply if the
+unprotected opening of the car porches/ canopies fails to comply with the setback distance requirements from the other lot boundary.
+(2) Cl.3.6.1a.(1) shall not apply to any sun screen or ledge that protrude from edge of the floor level.
+3.6.2 Openings in separating walls
+A separating wall shall have no openings except for:
+a. a door required to provide a means of escape in the event of a fire, having the same fire resistance as that required for the wall and complying with Cl.3.9.2, or
+b. a door provided for the purpose of public circulation and permitted by the SCDF, having the same fire resistance as that required for the wall and complying with Cl.3.9.2, or
+c. an opening for the passage of a pipe complying with the relevant provisions of Cl.3.9.3.
+3.6.3 Roof junction
+A separating wall shall be either extended up to form a close joint with the underside of a pitched roof of non-combustible covering or extended up above the level of such roof covering. The junction between such separating
+wall and roof shall be properly fire-stopped so as not to render ineffective the resistance of such separating wall to prevent the spread of fire.
+3.6.4 External wall junction
+If any external wall is extended across the end of a separating wall, such external wall and separating wall shall be bonded together or the junction of such walls shall be fire-stopped to comply with the requirements
+of Cl.3.12.
+3.6.5 Prohibition of combustible materials in separating walls
+No combustible material shall be built into, extended through, across the ends of, or over the top of separating walls in such a way as to render ineffective the resistance of such separating walls to prevent the spread of fire.
+
+CLAUSE 3.7 COMPARTMENT WALLS AND COMPARTMENT FLOORS
+3.7.1 Requirements of compartment walls or compartment floors
+Every compartment wall or compartment floor shall be required to:
+a. form a complete barrier to fire between the compartments it separates;
+b. have the appropriate fire resistance to comply with the requirements of Cl.3.3, except for compartment which is abutting a common circulation space and not more than 3m from the eaves of the building;
+c. be constructed of non-combustible materials (together with any beam or column which forms part of the wall or floor, and any structure which it carries); and
+d. shall not have fire-resisting glass components, unless permitted under Cl.3.15.14.
+3.7.2 Openings in compartment wall or compartment floor
+A compartment wall or compartment floor shall have no openings in it, except for
+a. a door which has the same fire resistance rating as the compartment wall and complies with the relevant requirements of Cl.3.4, unless permitted by other provisions of the Code, or
+b. a protected shaft which complies with the requirements of Cl.3.8, or
+c. the passage of a pipe or ventilation duct.
+Such openings in the compartment wall or compartment floor shall be protected to comply with the relevant provisions of Cl.3.9.
+3.7.3 Openings
+a. Junction with other structures
+Where a compartment wall or compartment floor forms a junction with any structure comprising any other compartment wall, or any external wall, separating wall or structure enclosing a protected shaft, such structures shall
+be bonded together at the junctions or the junctions shall be fire-stopped to comply with the requirements of Cl.3.12.
+b. Opening in curtain walling
+The opening occurring at the junction between the edge of a structural floor and the curtain walling shall be sealed to prevent the spread of smoke and flame from the lower floor to the upper floor via the opening. Materials to
+be used for sealing the opening shall have the requisite fire resistance rating as the elements of structure.
+3.7.4 Compartment wall - roof junctions
+Where a compartment wall forms a junction with a roof, such compartment wall shall be extended up to form a close joint with the underside of the roof and shall be properly fire-stopped or shall be extended up above the
+level of the roof covering and the junction between such compartment wall and roof shall be properly fire-stopped so as not to render ineffective the resistance of such compartment wall to the effects of the spread of fire.
+3.7.5 Prohibition of combustible materials
+No combustible material shall be built into, extended through or extended across the ends of any compartment wall or compartment floor or extended over the top of any compartment wall in such a manner as to render
+ineffective the resistance of such wall or floor to the effects of the spread of fire.
+3.7.6 Non-combustibility of compartment walls or floors
+Every compartment wall or compartment floor shall be constructed of non-combustible materials, unless permitted by the SCDF.
+3.7.7 Use of fire shutter
+a. General
+A fire shutter is permitted to be used as compartment wall, except for the fire compartmentation to comply with the requirements of Cl.3.2.4b., Fire Command Centre (FCC) and means of escape, which include exit
+staircases, smoke-free lobbies/ fire lift lobbies, internal exit passageways, etc.
+b. Fire resistance
+The fire shutters, which are used to protect openings in compartment wall/ floor, shall have the necessary fire resistance including thermal insulation, not less than that of the compartment wall/ floor. However, fire
+shutters, which are installed at the edge of atria, voids such as escalator void areas and between floors, and door way, need not have thermal insulation.
+c. Operation
+The commonly used shutters such as vertical, horizontal and lateral fire shutters shall comply with SS 489 and the following:
+(1) Vertical fire shutter operated by gravity during a fire
+Upon activation by a fire alarm system or fusible link, the operating mechanism of curtains/leaves of the vertical fire shutter shall be released. The curtain/ leaves shall descend under gravity at a controlled rate.
+(2) Electrically-operated vertical, lateral and horizontal fire shutter (fusible link is not required)
+Upon activation by fire alarm system, the electrical motor shall drive the curtains/ leaves to descend and shall be backed up by emergency power supply. The power and signal cables shall be fire-rated.
+(3) Activation time and closing speed
+(a) For vertical fire shutter with height not exceeding 6m, the maximum time for full closure of the fire shutter shall not exceed 30 secs from time of activation, with a descending speed not exceeding 0.2m/sec.
+(b) For vertical fire shutter with height exceeding 6m and not more than 12m, the maximum time of full closure of the fire shutter shall not exceed 60 secs from time of activation, with a descending speed not
+exceeding 0.2m/sec.
+d. Mode of activation
+The mode of activation for fire shutters at different locations shall be as follows:
+(1) Fire shutters as separating wall between two buildings (if allowed in accordance with Cl.3.6.2)
+(a) Two buildings separated by a common fire shutter:
+Both gravity-operated and electrically-operated fire shutters shall be linked to the fire alarm systems of both buildings and shall be activated by the fire alarm system of either building. Activation solely by
+fusible link is not permitted.
+(b) Two buildings separated by two separate fire shutters:
+Both gravity-operated and electrically-operated fire shutters shall be activated by the fire alarm system of its own building. Activation solely by fusible link is not permitted.
+(2) Fire shutters as compartment wall/ floor for limiting compartment area and cubical extent
+Fire shutters as compartment wall/ floor for limiting compartment areas and cubical extent, as compartment between different purpose groups, as compartment of special rooms such as kitchen, electrical room, store
+room, etc., and as compartment of basement passenger/ goods lift lobby:
+(a) For gravity-operated vertical fire shutters, activation by fusible link is acceptable.
+(b) For electrically-operated fire shutters, activation shall be by local smoke detectors.
+(3) Fire shutters as compartmentation at atrium/ voids or between floors (being part of the engineered smoke control design)
+Only electrically-operated fire shutters are permitted. The signal to operate the respective fire shutter shall be from a dedicated smoke detector installed at the respective smoke zone.
+3.7.8 Fire safety signage for fire shutter and smoke curtain
+a. Exit directional signage marked with an arrow and the word “EXIT” shall be prominently painted/ pasted on fire shutters/ smoke curtains to redirect building occupants to the nearest exits if the activated shutters
+visually obscure the building exit and/ or directional signs. The sign shall be reflective and the letters at least 100mm in height.
+b. Signage for alerting persons not to impede the operation of fire shutters/ smoke curtains shall be permanently displayed at prominent locations and suitable intervals close to the descending paths of the fire shutters/
+smoke curtains. The lettering of the sign shall be at least 25mm high in a colour contrasting with the background and states the following where applicable:
+
+CLAUSE 3.10 EXIT STAIRCASES
+3.10.1 Non-combustibility of structure
+Every exit staircase, including the treads/ risers and landing, shall be constructed of non-combustible materials. The exception is for buildings under PG I, where only the stringer or structures supporting the treads/ risers and
+landing shall be constructed of non-combustible materials.
+3.10.2 Compartmentation
+The exit staircase shall be separated from other parts of the building by a masonry structure or drywall complying with Cl.3.8.7b. which shall have fire resistance for not less than the period required by Cl.3.3 for elements of
+structure. The flight, landing and supporting structures of the exit staircase shall comply with Cl.3.10.1 and fire resistance rating is not required.
+3.10.3 Exit doors
+Doors opening into the exit staircase shall have at least ½-hr fire resistance rating and fitted with an automatic self-closing device.
+3.10.4 Finishes
+Finishes to the ceilings/ walls and floors of exit staircase shall be of non-combustible materials.
+
+
+--- SECTION 5: FIRE HYDRANT & EXTERNAL FIREFIGHTING ACCESS ---
+
+CLAUSE 4.3 ACCESS TO BUILDINGS WITH RISING MAINS
+Buildings fitted with rising mains and automatic sprinkler system shall have fire engine accessway/ fire engine access road for firefighting appliances within 18m of breeching inlets. The breeching inlets shall be visible from
+the fire engine accessways or fire engine access road.
+
+CLAUSE 4.4 PRIVATE FIRE HYDRANT
+4.4.1 Provision of private fire hydrant
+a. General
+Every part of a fire engine accessway and/ or fire engine access road shall be within an unobstructed distance of 50m from a fire hydrant. Where a public fire hydrant conforming to this requirement is not available,
+private fire hydrant(s) shall be provided. See Diagram 4.4.1a..
+b. Use of public fire hydrant
+Existing public fire hydrants along one side of a public road shall not be designated to serve developments sited on the other side of the public road, except for a road having at most two lanes, regardless of traffic
+direction.
+c. Locations of fire hydrants
+In situations where more than one private fire hydrants is required, the fire hydrants shall be located along the fire engine accessway/ fire engine access road such that every part of the fire engine accessway/ fire engine
+access road is within an unobstructed distance of 50m from any fire hydrant. See Diagram 4.4.1c..
+d. Siting and types of fire hydrants
+Siting and types of fire hydrants shall comply with the requirements stated in SS 575.
+e. Ringed fire hydrant pipes
+For a building that is required to have an island site fire engine accessway the fire hydrant pipe shall be a ring system. Isolation valves shall be provided on the fire hydrant ring such that on any section of ring, not more
+than one fire hydrant can be isolated when required for maintenance without affecting the water supply (both designed pressure and flow) to the other fire hydrants on the ring.
+f. Valve locking device
+A locking device shall be provided to lock the valves in open position during normal operation. Underground valves shall be kept in an open position at all times.
+4.4.2 Water supply for private fire hydrant
+The provision of water supply for a private fire hydrant system, where required by this Code, shall comply with the following requirements
+a. Private fire hydrant at or below reduced level 125m
+(1) Private fire hydrants installed at reduced level 125m and below can receive direct supply from public water mains provided the flow and pressure from the public water mains meet the fire hydrant requirements
+as shown in Table 4.4A, or the following requirements are complied with:
+(a) the AFA of the largest compartment shall not exceed 1000m2 for PG III, IV, V & VII and not exceed 500m2 for PG VI & VIII buildings. No AFA limit for covered car park in PG II, III, IV, V & VII
+buildings;
+(b) the nominal bore of the fire hydrant pipe and the bulk water meter shall not be less than 150mm in diameter; and
+(c) the running pressure/flow at the hydraulically most unfavourable fire hydrant of the private fire hydrant system shall comply with the following:
+(i) running pressure >= 0.9 x (running pressure of the nearest public fire hydrant – pressure drop across the bulk water metre); and
+(ii) flow rate >= 0.9 x water flow of the nearest public fire hydrant or >= total flow demand (as required in Table 4.4A) of the private fire hydrant system, provided the running pressure at the most remote
+private fire hydrant is greater than 2 bars.
+Note:
+In calculating the frictional loss for the private fire hydrant system, the design flow rates shown in Table 4.4A shall be used. The pressure drop across bulk water metre shall not be more than 1 bar.
+(2) If the requirements stipulated in Cl.4.4.2a.(1) cannot be met, a storage tank of sufficient capacity meeting the flow rate and duration as specified in Table 4.4A with the requisite pumping facilities shall be
+provided.
+b. Private fire hydrant above reduced level 125m
+(1) Where more than one private fire hydrant is located above reduced level 125m within the same plot, storage and pumping arrangements of water supply to these specified fire hydrants shall comply with the
+requirements stipulated in Cl.4.4.2c..
+(2) The private fire hydrant can be in the form of a dry fire hydrant, if it is not the sole fire hydrant within 50m from any breeching inlet(s) feeding firefighting systems for the building(s) within the plot of land,
+which include:
+(a) automatic fire sprinkler systems, or
+(b) dry riser systems, or
+(c) wet riser systems.
+(3) A dry fire hydrant shall comply with all of the following requirements:
+(a) A dry private fire hydrant shall be connected to a 150mm diameter dry pipe, which shall be connected at the other end to a four-way breeching inlet.
+(b) This breeching inlet shall be within 18m from any fire engine accessway/fire engine access road having minimum 4m width and within 50m from any wet fire hydrant, private or public.
+(c) The private dry pillar shall be painted in “yellow” and labelled “dry” on the fire hydrant pillar.
+(d) A signage indicating the location of breeching inlet shall be positioned next to the dry private fire hydrant.
+c. Water supply and storage requirement
+Where more than one private fire hydrant is located above reduced level 125m within the same plot, storage and pumping arrangements of water supply to these specified fire hydrants shall comply with those for wet
+rising mains stipulated in SS 575 and Table 4.4A Water Supply & Storage Requirements for Private Fire Hydrant.
+4.4.3 Protection of fire hydrant mains in buildings
+All fire hydrant mains which pass through a building shall have its full length within the building protected with fire resistance construction complying with Cl.3.8.7b. of at least the same fire resistance as the element of
+structure, provided all of the following requirements are complied with:
+a. The fire hydrant mains shall be located in common circulation areas, such as car parking spaces (except spaces used for mechanical car parking) and driveways, i.e. they shall not pass through private or confined
+spaces.
+b. No services other than sprinkler pipe(s) shall be located above or crossing over the fire hydrant mains. Where services need to cross-over the hydrant mains, the following conditions shall be complied with:
+(1) the services shall only cross over the fire hydrants mains perpendicularly;
+(2) the tensile stress of the supports for the services shall not exceed 10N/mm2; and
+(3) the services shall be adequately protected by the building’s sprinkler system.
+c. The fire hydrant mains shall be located away from explosion risk areas.
+d. The protective enclosure to the fire hydrant mains shall be labelled with the words “FIRE HYDRANT MAIN” of minimum 50mm height at suitable intervals.
+Cul-de-sac turning facility
+
+
+--- SECTION 6: EMERGENCY LIGHTING & EXIT SIGNS ---
+
+CLAUSE 8.1 EXIT LIGHTING AND EXIT SIGN
+8.1.1 Exit lighting
+a. Exits of all buildings, except for PG I, shall be provided with artificial lighting facilities to the satisfaction of the requirements under this Code.
+b. The minimum illuminance to be provided for all exits and the spacing for luminaires shall be in accordance with the requirements in SS 563.
+c. The delay between the failure of the electrical supply to normal lighting and the energisation of the exit lighting shall not exceed 1 sec.
+8.1.2 Emergency lighting for corridors and lobbies
+a. Emergency lighting shall be provided in all corridors and lobbies of all buildings except PG I.
+b. The minimum level of illuminance, the spacing of luminaires and the maximum delay for emergency lighting required in this clause shall be the same as that for the exit lighting.
+8.1.3 Emergency lighting for occupied areas
+a. For all buildings except PG I or II, emergency lighting shall be provided in the occupied areas following the requirements below:
+(1) along paths leading to corridors, lobbies and exits in all occupied areas where the direct distance from the entry point of the corridor, lobby or exit to the furthest point in the area concerned exceeds 13m; or
+(2) over the whole of such area if there are no explicit paths leading to corridors, lobbies and exits.
+b. The provision of emergency lighting is exempted for:
+(1) open-to-sky roof terrace/ garden; and
+(2) open-sided single storey building, with floor area not exceeding 200m2 and openings that constitute at least 80% of the perimeter wall area (measured along the roof eaves).
+c. Notwithstanding the requirements in Cl.8.1.3a. above, emergency lighting shall be provided in the following locations:
+(1) Lift cars as stipulated in this Code;
+(2) Fire Command Centres;
+(3) Generator rooms;
+(4) Basement and aboveground multi-storey car parks;
+(5) Fire pump rooms; and
+(6) Areas of refuge within the same building.
+d. The minimum level of illuminance shall comply with the requirements in SS 563.
+e. The delay between the failure of the electrical supply to normal lighting and the energisation of the emergency lighting for occupied areas shall not exceed 15 secs.
+8.1.4 Emergency lighting for firefighting facilities
+a. Fire alarm panels, fire alarm call points and firefighting equipment shall be adequately illuminated at all times so that they can be readily located.
+b. The minimum level of illuminance shall comply with the requirements in SS 563.
+c. The delay between the failure of the electrical supply to normal lighting and the energisation of the emergency lighting for firefighting facilities shall not exceed 15 secs.
+8.1.5 Secondary source of power supply
+a. The delay for energisation of the exit and emergency lighting systems between normal supply and the secondary source shall be as stipulated in the relevant clauses.
+b. Duration of the secondary source of power supply shall comply with the requirements in SS 563.
+c. Location, arrangement and control, installation of electrical wiring of the secondary source of supply, be it in the form of battery, standby generator, inverter or other accepted equipment, shall comply with the
+requirements in SS 563.
+8.1.6 Luminaire
+All exit and emergency luminaires required by this Code shall be of approved type as specified in SS 563.
+8.1.7 Exit and exit directional signs
+a. Exit sign
+(1) The entrance to every exit on every floor shall be clearly indicated by an exit sign placed over the exit door. Such signs shall be placed so as to be clearly visible at all times.
+(2) Exit sign shall be provided over all the exit access doors for rooms with more than one door. (See Diagram 8.1.7a.(2))
+(3) Exit sign shall be provided over final discharge door within exit enclosure such as exit staircase and internal exit passageway having other exit/ exit access door opening into the exit enclosure at the discharge
+floor (see Diagram 8.1.7a.(3)).
+(4) Exemption
+Exit sign is not required under the following situations:
+(a) PG I and II buildings
+(b) Room provided with emergency lighting
+When a room is provided with only one door (see Diagram 8.1.7a.(4)(b).)
+(c) Room without emergency lighting
+(i) When a room is provided with only one door and the direct distance from the furthest distance in the room to the exit access door is 7m or less (see Diagram 8.1.7a.(4)(c)(i) – 1 & 2); or
+(ii) When the furthest point in the room to the exit access door is 13m or less and wall of the room comprises not less than 50% clear glazing facing (see Diagram 8.1.7a.(4)(c)(ii)):
+• an internal corridor covered by emergency lighting,
+• an external corridor, or
+• the external of the building.
+(d) Open-sided single storey building, with floor area not exceeding 200m2 and openings that constitute at least 80% of the perimeter wall area (measured along the roof eaves).
+(e) When a room or internal space is fully open towards an external corridor or the external of a building.
+(f) Exit enclosure such as exit staircase and internal exit passageway not provided with final discharge door (see Diagram 8.1.7a.(4)(f)).
+b. Directional signs
+(1) In long corridors, in open floor areas, and in all situations where the location of the exits may not be readily visible, directional signs shall be provided to serve as guides from all portions of the corridors or floors.
+(See Diagram 8.1.7b.(1))
+(2) In rooms where the line of sight to the exit access door is obstructed, directional sign shall be provided.
+(3) Exemption
+Directional sign is not required under the following situations:
+(a) PG I and II buildings.
+
+
+--- SECTION 7: LPG CYLINDER INSTALLATIONS (BBQ / GAS COOKING) ---
+
+CLAUSE 10.1 LIQUEFIED PETROLEUM GAS (LPG) CYLINDER INSTALLATIONS
+The requirements in this chapter shall be read in conjunction with other requirements relevant to the installations stipulated in Chapter 1 to 9 of this Code. Where there are conflicting requirements between this chapter and the
+preceding chapters, the requirements stipulated in this chapter shall take precedence.
+10.1.1 General
+a. This section stipulates the fire safety requirements for the commercial, industrial and residential premises with eating outlets, eating places, canteens, restaurants and other eateries which use LPG for cooking purposes.
+Usage of LPG systems that is not specifically covered in this Code (for e.g., non-manifold LPG systems in places of public resort for the purpose of social cooking events such as barbeques) is not allowed. It is also
+intended for commercial and industrial applications such as hot works, mass food production etc.
+b. All LPG cylinder installations shall be located outdoors and on the ground levels for all commercial and industrial buildings. Locating LPG cylinders indoors shall comply to the requirements of Cl.10.1.4.
+c. A maximum of 30kg (2 x 15kg cylinders) is permitted to be installed or stored within private dwelling unit for domestic use.
+d. NFPA 54 and NFPA 58 shall be referred to for requirements not effected or covered under this chapter.
+e. LPG plans shall include the following items:
+(1) LPG’s storage and manifold system.
+(2) Location and site plans.
+(3) Schematic diagrams of the LPG supply system showing change-over valve, vaporiser, regulator, emergency shut-off valve, remote cut-off device, knock-out pot, pipe entry and all other required safety features.
+(4) Plan and elevation views showing the following details:
+(a) Location, quantity and capacity (in kg) of LPG cylinders.
+(b) Locations of ancillary fixtures and fittings, e.g. vaporisers, regulators, emergency shut-off valves, change-over valves, remote cut-off devices, knock-out pots, pipe entries, droppers, etc.
+(c) Housing for the LPG cylinders, e.g. cabinets, fencing, compartment wall, etc.
+(d) All openings (doors, air intakes, windows, drains, manholes, etc.) and exits adjacent to the LPG installation.
+(e) Locations of hydrant, access way, access road, car parking area, building and boundary lines, source of ignition, etc.
+(f) Fire safety provisions, e.g., fire hose reel, fire extinguisher, sprinkler protection (if any), gas leak detector (if any), etc.
+(5) The following factors shall be taken into consideration when deciding on the practicality and reasonableness to use LPG:
+(a) adequacy of ventilation;
+(b) extent of usage of individual rooms;
+(c) existing fire hazard;
+(d) suitable means of escape; and
+(e) firefighting equipment and provisions.
+10.1.2 Design requirements
+a. Codes of practice and standards
+All cylinders and their ancillary fittings shall be designed, fabricated and tested in accordance with the accepted Code or Standard as stated in Annex 10.1A.
+b. Fire stopping
+All pipes penetrating fire wall or floor slab shall be fire-stopped appropriately.
+c. Pressure
+No liquid LPG or LPG vapour at pressure exceeding 20psi (approximately 138kPa) shall be piped into any building.
+d. Fire extinguisher
+The LPG installation shall be provided with at least one approved portable B:C rating dry chemical fire extinguisher having a minimum capacity of 9kg.
+e. Warning sign/notice
+Warning signs/notices as shown in Diagram 10.1.2e. shall be provided.
+10.1.3 Outdoor LPG cylinder installation
+a. Siting of LPG cylinders
+LPG cylinders shall be located in accordance with the following requirements:
+(1) LPG cylinders shall be placed on a firm, clean, dry and level base. They shall be sited at ground level and a well-ventilated area where any gas leakage can safely and rapidly disperse. They shall not be placed
+close to any passageways or exits and shall not cause any obstruction or danger to the occupants during gas leakage or fire.
+(2) LPG cylinders shall not be located within 3m of any fire exit route of a building having only one exit. If the 3m distance cannot be complied with, a 2-hr fire-rated masonry wall of at least 1.8m high shall be
+provided between the fire exit and the LPG installation so as to achieve the equivalent 3m horizontal distance.
+(3) LPG cylinders shall be located at least 1.5m horizontally away from any openings (windows, doors, air vents, balanced-flue outlets, etc.) of the building having more than one exit. If the 1.5m distance cannot be
+complied, a 2-hr fire-rated masonry wall of at least 1.8m high shall be provided between the openings and the installation so as to maintain a 1.5m horizontal distance.
+(4) A minimum distance of 3m shall be maintained between the edge of a vehicle parking lot.
+(5) LPG cylinders shall be located at least 5m horizontally from any mechanical air intake which is below any part of the manifold system and 1.5m from any mechanical intake which is above any part of the
+manifold system.
+(6) LPG cylinders can be installed below windows or openings provided that there is a minimum distance of 150mm between the top of any cylinder or the manifold system and the bottom of the windows or
+openings.
+(7) LPG cylinders of total capacity up to 600kg shall be located at least 1.5m from any uncovered opening that is below the level of the cylinders, such as drains, pits, openings to basements, etc.. For LPG cylinders
+having total capacity above 600kg, the distance from any uncovered opening shall be at least 3m.
+(8) LPG cylinders shall be located at least 3m away from any boundary and any fire engine accessway.
+(9) LPG cylinders shall be located at least 10m away from any fire hydrant.
+b. Protection for LPG cylinder installation
+LPG cylinder installations shall be protected in accordance with the following requirements:
+(1) LPG cylinders located in places accessible to the public shall be protected and locked against tampering and accidental damage by fencing of height not less than 1.8m, a suitable housing or a cabinet made of
+non-combustible material; and
+(2) there shall not be any corrosive, toxic or oxidizing materials located within 6 meters from the cylinder installation.
+c. Safety provisions
+The following safety provisions shall be adhered to for LPG cylinder installations:
+(1) For kitchen provided with fixed fire suppression system, activation of the system shall automatically shut off the supply of LPG to the kitchen.
+(2) Remote emergency shut-off valve shall be located at least 3m away from the edge of the installation. It shall be clearly marked and placed at a suitable height for easy access during emergencies. (see Diagram
+10.1.3d.(1) and 10.1.3d.(2)).
+
+(3) There shall be no ignition source within 3m from the cylinder installation.
+(4) All fixed electrical equipment within 1.5m of the installation shall be spark-proof and intrinsically safe in accordance with the relevant clause in SS 254.
+(5) Vaporisers shall not be installed inside the steel cabinet or within the same housing of the LPG cylinders. Wall-mounted vaporisers shall be located at least 1.8m above the ground and 600mm away from any
+LPG cylinder.
+(6) The distance between two separate manifold systems shall be at least 3m. If a 2-hr fire-rated wall is constructed, the distance between the two nearest cylinders can be halved.
+d. Allowable quantities
+(1) Eating outlets
+LPG cylinder installation (for eating outlets) with capacity up to a maximum of 600kg by weight attached to a single manifold system installed adjacent to a building is allowed provided that the following
+requirements are fully complied with. See Diagram 10.1.3d.(1) and Table 10.1A:
+(a) a maximum of two steel cabinets is allowed for each installation, and each cabinet is allowed to house a maximum of 6 x 50kg LPG cylinders;
+(b) the separation distance between the two cabinets shall be at least 600mm;
+(c) the building is of non-combustible construction and the wall has a rating of at least 2-hr fire resistance; and
+(d) the maximum number of LPG manifold systems shall not exceed two per building.
+(2) Industry buildings
+LPG cylinder installation of capacity exceeding 600kg to a maximum of 1000kg by weight attached to a single manifold system can be used for industrial applications only, provided that the following requirements
+are fully complied with. See Diagram 10.1.3d.(2) and Table 10.1A:
+(a) a maximum of two steel cabinets is allowed for each installation and each cabinet is allowed to house a maximum of 10 x 50kg LPG cylinders; and
+(b) a wall of at least 2-hr fire resistance rating or a spacing of 3m shall be provided to separate the LPG cylinders into two groups of maximum 10 x 50kg per group.
+10.1.4 Indoor LPG cylinder installation
+a. Location
+(1) LPG cylinder installation shall be properly located so as not to cause any obstruction to the fire escape and any danger to the public. Suitable access to the cylinder for emergency services shall be provided.
+(2) The edge of the installation shall be at least 3m from any boundary or any fire engine accessway.
+b. Safety provisions
+(1) The location of the gas leak detector shall not be more than 300mm above the ground level and not more than 4m away from the edge of the installation and the point of consumption.
+(2) Remote emergency shut-off valve shall not be installed inside the compartment and shall be at least 1.5m away from the edge of the installation. It shall be clearly marked and at a suitable height to access during
+emergencies.
+(3) Fixed fire suppression system, if installed, shall be linked to the LPG cylinder installation in such a way that activation of the system shall automatically shut off the supply of LPG to the kitchen.
+(4) Vaporisers (where applicable) shall not be installed inside the compartment or within the same housing of the LPG cylinders.
+(5) The compartment shall only be used for LPG cylinder installation. No other usage is allowed.
+(6) The floor of the compartment shall be a smooth concrete base containing no opening or drain where vapour can accumulate and shall be level or slope down towards the ventilated external wall.
+(7) A ramp or sill of 250mm high shall be provided across the doorway (where applicable) into the compartment where LPG cylinders are installed to contain any heavy LPG vapour within the compartment.
+(8) All electrical connections and appliances shall be installed in accordance with the relevant clauses in SS 254.
+c. LPG cylinder installation in separate compartment
+LPG cylinders are allowed to be installed in a separate compartment on the ground floor, provided that the following requirements are complied with. See Diagram 10.1.4c. and Table 10.1B:
+(1) Allowable quantity
+(a) A maximum of 400kg of LPG is allowed to be installed using a single manifold system inside a compartment. The quantity of cylinder is restricted to 8, regardless of the capacity of each cylinder (e.g. 2
+groups of 4 x 50kg cylinders or 2 groups of 4 x 15kg cylinders).
+(b) The area or compartment in which the LPG cylinders are installed shall be sprinkler-protected. If the compartment is not sprinkler-protected, the quantity of LPG shall be halved (i.e., 200kg).
+(c) For commercial premises, the maximum number of LPG manifold system shall not exceed two per building.
+(2) Compartment
+(a) The compartment shall have at least one external wall and there shall be no access from the compartment into the building.
+(b) Walls common to the compartment and the internal spaces of the building shall be 2-hr fire-rated and shall be of masonry construction.
+(c) Each compartment shall contain only one LPG manifold system.
+(3) Ventilation
+(a) Doors shall have high and low level louvers and shall be opened outwards.
+(b) Natural ventilation is allowed if the total length of the compartment external wall is not less than 6m and the distance between the external wall and its opposite wall is not more than 3m. Otherwise,
+mechanical ventilation shall be provided.
+(c) High and low vents shall be provided on the external wall at just below ceiling level and above floor level. The total free area of the vents provided shall be at least 300cm²/m² of floor area.
+(d) The vent openings shall be kept free from obstruction and shall not discharge directly onto a public place, e.g. a pavement or path. It shall not be less than 5m from any air intake openings and shall be at least
+1.5m horizontally away from any building opening which is below the vent opening level.
+(e) Where mechanical ventilation is used, air circulation shall be at least 0.3m3/min.m2 of floor area. Discharge outlets shall be at least 1.5m horizontally away from any building opening which is located below
+the discharge level.
+d. LPG cylinder installation in recessed area
+Building recess used for housing LPG cylinder installation shall comply with the following requirements. See Diagram 10.1.4d. and Table 10.1B:
+(1) Design
+(a) The maximum depth of the recess shall be not more than 1m deep.
+(b) The floor, ceiling and the dividing walls between the recess and the internal spaces of the building shall be brick, concrete or other non-combustible materials shall have a fire resistance rating of not less than
+2 hours.
+(c) Access to the recess shall only be from the external of the building.
+(2) Location
+(a) The recess shall be at ground floor and shall be for the exclusive use of housing LPG cylinders.
+(b) The recess shall not be located within 3m of any fire exit route from a building that has only one designated means of exit. If the 3m distance cannot be complied with, a 2-hr fire-rated masonry wall shall be
+provided between the fire exit and the installation so as to achieve the 3m horizontal distance.
+(c) The recess shall be located at least 1.5m from any horizontal openings (windows, doors, air vents, balanced-flue outlets, etc.) of the building having more than one designated means of escape, measured
+horizontally from the nearest LPG cylinder. If the 1.5m distance cannot be complied with, a 2-hr fire-rated masonry wall shall be provided between the openings and the installation so as to achieve the 1.5m
+horizontal distance.
+(d) The recess shall be located at least 3m from ignition source.
+
+
+
+--- SECTION 8: BATTERY, ENERGY STORAGE & EV CHARGING INSTALLATIONS ---
+(Requirements for ESS, lithium-ion batteries, EV chargers in residential/condo developments)
+
+CLAUSE 10.3 ENERGY STORAGE SYSTEMS
+Energy Storage System (ESS) refers to one or more devices, assembled together, capable of storing energy in order to supply electrical energy.
+10.3.1 Aboveground ESS installation
+a. This set of fire safety requirements applies to ESS which supply electrical energy at a future time to the local power loads, to the utility grid, or for grid support. It shall apply to ESS installations where the total stored
+energy exceeds the Threshold Stored Energy listed in Table 10.3.1 below.
+b. All Energy Storage System installations shall be located at the same storey as the fire engine accessway/ fire engine access road.
+c. The allowable Maximum Stored Energy for the various battery technologies in each compartment shall be as listed in Table 10.3.1.
+TABLE 10.3.1: STORED ENERGY CAPACITY OF ENERGY STORAGE SYSTEM
+Threshold Stored Energy a Maximum Stored Energy a
+Type
+(kWh) (kWh)
+Lead-acid batteries, all types 70 600
+Nickel batteries b 70 600
+Lithium-ion batteries, all types 20 600
+Sodium nickel chloride batteries 20 600
+Flow batteries c 20 600
+Other batteries technologies 10 200
+Note:
+a It shall refer to an aggregated stored energy capacity per compartment. For battery rating in Amp-Hours, kWh is equal to maximum rated voltage multiplied by amp-hr rating divided by 1000.
+b Nickel battery technologies include nickel cadmium (Ni-Cad), nickel metal hydride (Ni-MH), and nickel zinc (Ni-Zn).
+c Includes vanadium, zinc-bromine, polysulfide-bromide, and other flowing electrolyte-type technologies.
+10.3.2 Temporary Energy Storage System installation on construction sites
+ESS installation on construction sites shall be located outdoors and comply with all the following requirements:
+(a) Cl.10.3.1c. on compartmentation shall be applicable;
+(b) All ESS installations shall be located at the ground level and sited close to the boundary line adjacent to any public road or any internal driveway that is accessible by firefighting appliances. If the ESS is sited more
+than 100m away from the public road, a private hydrant shall be provided;
+(c) ESS installation shall be protected and locked against tampering and accidental damage by non-combustible fencing of height not less than 1.8m;
+(d) Setback distance of 3m measured between the ESS installation and the fencing shall be provided. No combustible items shall be located within this 3m separation space;
+(e) Approved types of fire extinguishers of at least 2 numbers of 55A shall be provided;
+(f) An approved fire extinguishing system effective against ESS fire, shall be provided; and
+(g) Ventilation requirement for ESS installation shall be in accordance with Cl.7.1.15.
+10.3.3 Basement ESS installation
+Basement ESS installation shall be subdivided into two categories as follows:
+a. Category 1: Small underground ESS installation having the following requirements:
+(1) Cl.10.3.1a. on maximum stored energy capacity shall be in accordance with Cl.10.3.3.a.(5) & Cl.10.3.3.b.(4), respectively.
+(2) Cl.10.3.1b. on location shall not be applicable. ESS units is permitted to be located in basement not exceeding a depth of 9m below the fire engine accessway/ fire engine access road level.
+(3) The requirements of compartmentation shall be applicable as specified in Cl.10.3.1c.
+(4) Each compartmented ESS room shall not exceed 25m2.
+(5) Maximum Stored Energy in Table 10.3.1 shall not be applicable. Instead, the following shall apply:
+(a) Batteries forming an ESS unit of up to 50kWh is permitted.
+(b) Aggregate maximum stored energy of 250kWh comprising multiple ESS units within a single compartment room is permitted provided each ESS unit is spaced a minimum of 1m apart from each other, 1m
+from walls within the compartmented room and other fire hazards. Where the stored energy capacity or separation distance of the unit exceed the limit, it shall be subjected to the fire and explosion testing
+specified under UL 9540A and together with the NFPA 855 Hazard Mitigation Analysis report to be submitted to SCDF for approval.
+(c) Aggregate maximum stored energy of 500kWh comprising multiple compartment rooms is permitted.
+(6) Fire protection system
+(a) Each compartmented ESS room shall be protected by a sprinkler system classified under high hazard occupancy with a minimum discharge density of 12.2mm/min and areas of operation of 230m2 in
+accordance with the SS CP 52.
+(b) All ESS units shall be housed in open rack under direct and full coverage of sprinklers.
+(c) Each compartmented ESS room shall be provided with smoke detectors in accordance with SS 645 and smoke purging system shall be activated upon detections.
+(7) A dedicated flammable gas detection system shall be provided for each compartmented ESS room to continuously monitor the flammable gases concentration and upon activation of the ventilation system, to
+limit the maximum concentration of the flammable gases to below 25% lower explosion limit (LEL) within the compartmented ESS room. Smoke purging system shall be activated upon detection.
+(8) A display panel showing the location, temperature and flammable gases reading status of the affected ESS unit shall be located at the main entrance of each compartmented ESS room. It shall be connected to
+the SCDF Operations Centre through an approved alarm monitoring company. Thermocouple reading for each compartmented ESS room shall be provided as a means for firefighters to identify if the fire has been
+effectively extinguished. No point in the compartmented ESS room shall exceed 10m from a thermocouple.
+(9) CCTV cameras with thermal imaging capabilities and full coverage of the entire compartmented ESS room shall be installed to facilitate situational awareness for the authorised personnel overseeing the
+situation. It shall be connected to the SCDF Operations Centre through an approved alarm monitoring company. Alarm signals and live video images of fire and/ or smoke captured shall be transmitted to the
+approved alarm monitoring company upon activation of the building fire alarm system.
+(10) Pressure relief provision
+Each compartmented ESS room shall be designed with pressure relief vent to avoid any excessive built-up of pressure due to the spontaneous ignition of combustible gases. Either one of the following shall be
+provided:
+(a) Explosion prevention systems designed, installed, operated, maintained, and tested in accordance with NFPA 69.
+
+(b) Deflagration venting installed and maintained in accordance with NFPA 68.
+(11) Smoke purging system
+The smoke purging system to be provided for the compartmented ESS room shall be in accordance with Cl.7.4.3.
+(12) Battery management system
+Battery management system (BMS) shall be provided for monitoring operating conditions and maintaining voltages, currents, and temperatures within the manufacturer's specifications. The BMS shall remotely
+isolate the ESS or affected components of the ESS or place the system in a safe condition if potentially hazardous conditions are detected. BMS shall be evaluated for functional safety performance according to
+relevant internationally recognized standards such as UL 1973 or equivalent standards approved by the SCDF.
+(13) Emergency main isolation switch
+(a) A clearly identified and easily accessible switch or circuit breaker (main isolation shut-off switch) shall be provided to cut-off the power supply of individual ESS unit.
+(b) An emergency main isolation shut-off switch shall be provided outside the entrance of the compartmented ESS room, to cut-off power supply of all the ESS units of the affected compartmented ESS room.
+(14) Firefighting access
+To facilitate the deployment of unmanned firefighting equipment, exit staircase with at least 1.2m clear width and located within 10m measured from the nearest edge of the compartmented ESS room exit access
+door to the exit staircase door shall be provided. For any change of direction along the access path from the exit staircase to the compartmented ESS room, directional signages shall be provided with a letter height of
+at least 50mm.
+b. Category 2: Large underground ESS installation shall be in accordance with Cl.10.3.3a. unless otherwise stated below:
+(1) Premises with public accommodation purpose shall not be sited above ESS premises. Premises with ESS installation shall be segregated from other usage. For any routes linking to the ESS installation shall be
+through:
+(a) an external corridor complying with Cl.2.3.10, or
+(b) a protected lobby separated from the adjoining areas of the building by a wall and door of at least 1-hr fire resistance rating. The protected lobby shall have a minimum size of 4m (length) x 2m (width) and
+ventilated in accordance with Cl.2.2.13b.(7)(a) or (b).
+(2) For ESS unit with stored energy capacity exceeding 50kWh, it shall be housed within a 2-hr fire-rated containerised compartment except the deflagration opening(s) located at least 2m above finished floor level.
+(3) Containerised ESS units shall be housed within a compartmented ESS room with a minimum 2-hr fire resistance rating and area not exceeding 100m2.
+(4) Aggregate maximum stored energy of 600kWh comprising multiple containerised ESS units within a single compartment room is permitted provided each containerised ESS unit is spaced a minimum of 3m
+apart from each other, 1m from walls within the compartmented room and other fire hazards.
+(5) There shall not be more than 2 compartmented ESS rooms, unless otherwise permitted under Cl.10.3.3b.(11).
+(6) Each containerised ESS unit shall be subjected to the fire and explosion testing specified under UL 9540A and together with the NFPA 855 Hazard Mitigation Analysis report to be submitted to SCDF for
+approval.
+(7) Fire protection system
+(a) Each compartmented ESS room shall be protected by a zoned wet deluge system with a minimum discharge density of 7.5mm/min and areas of operation of 230m2 in accordance with the SS CP 52.
+(b) Each containerised ESS unit shall be served by an independent wet deluge system with a minimum discharge density of 12.2mm/min and provided with a breeching inlet to allow direct charging of water supply
+to the main control valve.
+(8) Ventilation and detection system
+(a) A dedicated flammable gas detection system shall be provided for each containerised ESS unit to monitor the flammable gases concentration and upon activation of the ventilation system, to limit the maximum
+concentration of the flammable gases to below 25% lower explosion limit (LEL) within the ESS installation.
+(b) Upon activation of flammable gas detection system, a dedicated mechanical ventilation system with air circulation of at least 9 air changes per hour or higher shall be provided for each containerised ESS unit
+based on the worst-case scenario specified under UL 9540A test and subjected to SCDF’s approval.
+(c) The smoke purging system to be provided for the compartmented ESS room shall be in accordance with Cl.7.4.3.
+(d) Each compartmented ESS room shall be provided with smoke detectors in accordance with SS 645 and smoke purging system shall be activated upon detection.
+(9) A display panel showing the location, temperature and flammable gases reading status of the affected containerised ESS unit shall be located at the main entrance of each compartmented ESS room. It shall be
+connected to the SCDF Operations Centre through an approved alarm monitoring company. Thermocouple reading for each compartmented ESS room shall be provided as a means for firefighters to identify if the
+fire has been effectively extinguished. No point in the compartmented ESS room shall exceed 10m from a thermocouple.
+(10) Firefighting access
+(a) For compartmented ESS room, the following shall be provided:
+(i) The fire lift shall be contained within a protected shaft, constructed to comply with the relevant requirements under Cl.3.8.
+(ii) The fire lift car specifications:
+• Minimum clear platform size of 3m (depth) x 3m (width).
+• Minimum loading capacity of 3 tonnes.
+(iii) Each fire lift shall be served by a fire lift lobby with a minimum size of at least 4m (length) x 5m (width).
+(iv) Corridors and door openings serving the fire lift lobby, firefighter staging lobby and compartmented ESS rooms shall be at least 3m in clear width.
+(v) An access path of minimum width of 3m to every ESS unit shall be provided and the maximum distance measured from the door to the most remote ESS unit shall not exceed 8m.
+(vi) Firefighter staging lobby shall not serve more than 2 compartmented ESS rooms.
+(vii) Any entrance to the compartmented ESS room shall be served by a firefighter staging lobby and shall comply with the following requirements:
+• at least 12m² working space and with minimum clear width of 4m.
+• fire lift lobbies in accordance with Cl.2.2.13b.(1) to (3), (5) to (6) and (7)(b).
+• installed with designated rising mains.
+• provided with two nos. of standby fire hoses.
+• provided with portable 50kg AB (foam or chemical powder) type fire extinguishers having minimum 6m throw and discharge hose length of minimum 6m shall be provided.
+(11) Prior approval from the SCDF is required in situations where the number of compartmented ESS room exceeds 2, in addition to the following:
+(a) Comply with the requirements in accordance with Cl.10.3.3b.(6).
+(b) Provision of on-site Unmanned Firefighting Machine (UFM) within the fire lift lobby. The UFM shall comply with the following general specifications and subjected to the SCDF’s approval:
+• Minimum dimensions: 2m x 1.1m x 2m
+• Minimum weight: 1.75 tonnes
+• Design flow rate for monitor: 1800L/min
+• Monitor throw distance: up to 60m in length
+• Wireless transmission: range of up to 300m
+• Ventilation capacity: 90000m3/h
+(c) A holding area of 2m x 3m for UFM shall be provided in addition to the fire lift lobby of area 20m2.
+10.3.4 Battery Swap Station
+a. General
+
+Battery Swap Station (BSS) is a facility where swappable detachable batteries of motor vehicles are available for motorists to exchange their depleted batteries. Battery charge and swap stations are EV chargers that are used
+for charging and exchanging depleted swappable detachable batteries, while battery store and swap stations only contain stored detachable batteries.
+b. Aboveground installations
+(1) BSS installations shall be located at the same storey as the fire engine accessway/ fire engine access road.
+(2) BSS shall be located at vehicle parking areas that are naturally ventilated in accordance with Cl.3.2.8, or provided with mechanical ventilation in accordance with Cl.6.4.5.
+Exception:
+(a) BSS that abuts an external wall of building and is installed away from any unprotected openings, exits or combustible material/ construction within 1.5m horizontally or within 3m vertically, or adjacent to or
+facing it.
+c. Underground installations
+(1) BSS is allowed to be located within basement carparks protected by mechanical ventilation in accordance with Cl.6.4.5 and automatic sprinkler system in accordance with Cl.6.4.1d..
+(2) The maximum allowable depth shall not exceed 9m below the average grade level, and not more than one level below grade level.
+d. Aggregate stored energy capacity
+(1) Aboveground installations
+Aggregate stored energy capacity of each BSS unit shall not exceed 20kWh. Where more than 1 BSS unit is installed, a minimum separation distance of 3m between BSS units shall be provided and the total aggregate
+stored energy capacity of all BSS units shall not exceed 100kWh.
+(2) Underground installations
+Aggregate stored energy capacity of BSS within basement carparks shall not exceed 10kWh.
+e. Fire safety requirements
+(1) BSS units shall be located at least 6m away from the nearest edge of exit staircase/ fire lift lobby/ smoke-free lobby.
+(2) BSS units shall be located at least 1m away from:
+(a) Non-essential equipment rooms; and
+(b) Parking lots (excluding the lots used for swapping of batteries).
+(3) Approved types of fire extinguishers of at least 2 numbers of 55A shall be provided.
+(4) Emergency isolation shut-off switch shall be provided at each BSS unit.
+(5) BSS installation at petrol service stations shall comply with specifications stipulated under Cl.9.6.2v.(3).
+
+CLAUSE 10.4 ELECTRIC VEHICLE (EV) CHARGING INSTALLATION
+Note: Cl.10.4 is omitted as these requirements are specified in the First Schedule of the “Electric Vehicles Charging (Electric Vehicle Chargers) Regulations 2023” https://sso.agc.gov.sg//SL/EVCA2022-S786-2023
+10.4.1 General
+The requirements in Cl.10.4.2 are exempted for PG I buildings.
+10.4.2 Emergency main isolation shut-off switches
+a. Each EV charging station shall be provided with at least one emergency main isolation shut-off switch(es) located such that no person need to travel more than 15m from the EV charging station and its parking lot(s) to
+reach a main isolation shut-off switch.
+b. If more than one EV charging station is provided, the main isolation shut-off switch(es) shall be provided such that no person need to travel more than 15m from any EV charging station and its associated parking
+lot(s) to reach a main isolation shut-off switch.
+c. Main isolation switch(es) shall be located on the same storey as the EV charging station(s) they serve. The purpose of such main isolation shut-off switch(es) is to provide a safe means of isolating the main electrical
+power supply to the entire EV charging system on the same storey.
+d. Every EV charging stations and EV parking lots shall be located at least 3m away from the nearest edge of any main isolation shut-off switches.
+Exception
+Main isolation shut-off switches can be allowed to be less than 3m from an EV charging station and its parking lot(s), as long as there is at least one other main isolation shut-off switch located at least 3m away but still
+within 15m of this EV charging station and its parking lot(s).
+e. Main isolation shut-off switches shall be located between 800mm and 1.2m above the finished floor level and shall be located in a clearly visible and easily accessible location.
+f. All main isolation shut-off switches shall be clearly labelled. Clear instructions shall be indicated on how to operate the main isolation shut-off switch. Signages shall be provided with a letter height of at least 50mm.
+g. Where main isolation shut-off switch(es) cannot be seen clearly or not within line of sight from the EV charging station and its parking lot(s), additional signages shall be provided to direct persons to the main isolation
+shut-off switch(es).
+
+ANNEX 10.1A
+A1.0 STANDARDS
+The following standards for LPG cylinders and ancillary fittings shall be complied with:
+TABLE 1 : STANDARDS FOR LPG CYLINDERS & FITTINGS
+S/N ITEM STANDARDS
+1 Cylinder SS 99
+Cylinder Fittings
+SS 233
+a) Flexible Hose
+2
+b) Regulator SS 281, BS 3016, UL144
+c) Cylinder valve SS 294
+3 Gas Leak Detector BS EN 60079-29-1 and BS EN 600179-14
+A2.0 SPECIFICATIONS
+A2.1 LPG Cylinder Fittings
+a. Flexible hoses
+(1) Hoses or flexible connectors used to supply LPG to utilization equipment or appliances shall be installed in accordance with the relevant clauses of NFPA 54 and NFPA 58. The hose shall be securely connected
+to the appliance. The use of rubber slip ends without hose clips shall not be permitted for domestic cylinders.
+(2) Hoses shall be tested and passed the performance criteria in accordance with SS 233.
+b. Regulators
+Regulators shall comply with the standards as specified in the table above.
+c. Over pressure protection device
+(1) An over pressure protection device is a device to protect the downstream installation and shut off the gas flow if the outlet pressure exceeds the set limit.
+(2) In general, a regulator with over pressure protection device shall be designed to achieve the following:
+(a) ensuring reliable and continuous supply of LPG;
+(b) protecting downstream system against over pressure; and
+(c) protecting against failure of any regulating device.
+(3) Setting of over pressure protection device shall not be more than 30% of maximum operating pressure.
+d. Valves
+(1) Cylinder valves
+Cylinder valves shall comply with the standards as specified in the table above.
+(2) Safety valves
+(a) Hydrostatic relief valves designed to relieve the hydrostatic pressure that might develop in sections of liquid piping between two isolating valves shall be installed in each section. Hydrostatic valves shall
+comply with UL 132, Standard for Pressure Relief Valves for LPG.
+(b) Emergency shut-off valve shall be provided after the knockout pot. The emergency shut-off valve shall be linked to a release mechanism so that the valve can be closed from a safe distance of at least 3m
+from the LPG cylinders. The emergency shut-off valve may incorporate fusible element which melts at not more than 250° when exposed to fire, allowing the emergency shut- off valve to close by itself.
+(c) An accessible gas shutoff valve shall be provided at the upstream of each gas pressure regulator. Where two gas pressure regulators are installed in series in a single gas line, a manual valve shall not be
+required at the second regulator.
+(d) Main gas shut-off valves controlling several gas piping systems shall be prominent and readily accessible for operation and properly installed so as to protect it from physical damage. They shall be marked
+with a metal tag or other permanent means attached by the installing agency so that the gas piping systems supplied through them can be readily identified.
+(e) An exterior shut-off valve to permit turning off the gas supply to each building in an emergency shall be provided and plainly marked.
+e. Piping
+(1) Pipe design and specifications shall be in accordance with the relevant clauses in NFPA 54 and NFPA 58. No polyethylene material is allowed to be used for the piping system except for necessary industrial
+applications.
+(2) Pipe material shall be tested and certified according to recognised ASTM or British Standard. The pipe supplier shall produce Mill certificates.
+(3) The manifold and main LPG supply pipeline shall be welded together as far as practicable. Welders for the piping work must be qualified and certified by a recognised body.
+(4) Pipelines pressure test shall be witnessed and certified by a Professional Engineer (Mechanical).
+(5) The liquid LPG pipelines shall be painted in “Blue” and the vapour LPG pipelines in “Yellow” with the marking of the word “LP-Gas” at intervals of not more than 3m.
+(6) When connecting additional gas utilisation equipment to a gas piping system, the existing piping shall be checked to determine if it has adequate capacity. If inadequate, the existing system shall be enlarged as
+required, or separate gas equipment of adequate capacity shall be provided.
+f. Pigtail
+(1) Pigtail shall include a 6mm flexible hose or tube, a 6mm tee-check valve or excess flow valve and a 6mm ball valve.
+(2) Flexible hose shall be fabricated of materials resistant to LPG reaction both in liquid and vapour state. It shall be designed for a minimum bursting pressure of 1750 psi (121 bar) and working pressure of 350 psi
+(24 bar). The hose shall be marked “LPG” at intervals of not more than 3m.
+(3) The tee-check valve shall be Underwriters Laboratories Inc. (UL) listed or it shall comply with other recognised/ approved standard.
+(4) The ball valve shall be rated to at least 600 psi (41 bar).
+g. Pressure gauge
+(1) Each bank of LPG cylinder manifold shall have a pressure gauge.
+(2) For high-pressure section, the gauge shall have a range of 0 to 300 psi (0 to 20.1 bar)
+(3) For low-pressure section, the gauge shall have a range of 0 to 50 psi (0 to 3.45 bar)
+h. Vaporiser
+
+(1) Vaporisers, where applicable, shall be constructed in accordance with the applicable provision of NFPA 58, ASME Code or other recognised pressure vessel Codes and Standards for a design pressure of 250 psi
+(17.24 bar) and shall be permanently and legibly marked with:
+(a) markings required by the Code;
+(b) the allowable working pressure and temperature for which it is designed; and
+(c) the name or symbol of the manufacturer.
+(2) Vaporisers shall be provided with a suitable automatic means to prevent the passage of liquid through the vaporiser to the vapour discharge piping. This feature shall be permitted to be integrated with the
+vaporiser or otherwise provided in the external piping.
+(3) Vaporisers shall have a manual shut-off valve and an automated valve (e.g., thermostatic, magnetic or float) which closes in the event of power failure or overload.
+(4) Vaporisers shall have relevant temperature control and the necessary safety features.
+(5) Vaporisers shall have a pressure relief valve set at 250 psi (17.24 bar) with the release point directed upward.
+i. Knock-out pot
+The knockout pot shall have at least two drain valves. The drain shall end at ground level and plugged at the end.
+j. Gas meters
+(1) Installation and application of gas meters shall be in accordance with the relevant clauses in NFPA 54 and shall be able to take a pressure of 20 psi (1 psi = 6.895 kPa).
+(2) Gas meters shall be selected for the maximum expected pressure and permissible pressure drop.
+(3) Vapour meters of the tin or brass case type of soldered construction shall not be used at pressure in excess of 1 psi (7 kPa).
+(4) Vapour meters of the die cast or iron case type shall be permitted to be used at any pressure equal to or less than the working pressure for which they are designed and marked.
+(5) Gas meters shall be located in ventilated spaces readily accessible for examination, reading, replacement or necessary maintenance.
+(6) Gas meters shall not be placed where they will be subjected to damage, such as adjacent to a driveway, under a fire escape, in public passages, halls or where they will be subjected to excessive corrosion or
+vibration.
+(7) Gas meters shall be located at least 1m from sources of ignition.
+(8) Gas meters shall not be located where they will be subjected to extreme temperatures or sudden extreme changes in temperature. Meters shall not be located in areas where they are subjected to temperatures
+beyond those recommended by the manufacturer.
+(9) Gas meters shall be supported or connected to rigid piping so as not to exert a strain on the meters.
+(10) Gas meters shall be protected against over pressure, back pressure, and vacuum, where such conditions are anticipated.
+k. Strainers
+Strainers shall be designed to minimise the possibility of particulate materials clogging lines and damaging meters or regulators. The strainer element shall be accessible for cleaning.
+A2.2 Electrical bonding and grounding
+a. Electrical circuits shall not utilise gas piping or components as conductors.
+b. All electrical connections between wiring and electrically operated control devices in a piping system shall conform to the requirements of SS 254.
+c. Any essential safety control (in the vaporiser) depending on electrical current as the operating medium shall be of a type that will shut off (fail safe) the flow of gas in the event of current failure.
+A2.3 Gas leak detection
+a. Gas leak detectors shall be connected to a localised alert alarm, emergency shut- off valve as well as the kitchen exhaust systems. The gas supply safety shut-off valve system shall also be interlocking with the kitchen
+automatic fire suppression system. See diagram below.
+b. LPG pipe installation shall not be permitted in the following areas:
+(1) in the ground under concrete flooring within building;
+(2) under building under building foundations;
+(3) within lift shafts and cavity walls;
+(4) in compartments or ducts dedicated for electrical switchgears, transformers or air-conditioning ducts;
+(5) in refrigeration chambers, coldrooms, air handling rooms and ventilation or other hazardous materials;
+(6) adjacent to pipes and vessels containing flammable, oxidizing, corrosive and other hazardous materials; and
+(7) in fire lift lobby, FCC, smoke-free lobbies, fire pump rooms, firefighting water tank rooms, sprinkler control valve rooms, riser ducts, areas of refuge, protected corridors, exit staircases, bedrooms and other
+occupied area, etc.
+c. Proper metal pipe sleeve shall be installed for the gas pipes running in enclosed non-ventilated areas or basement floor, and at least one end exposed directly to the exterior open safe space (it can be used to facilitate
+the gas leak detection system).
+d. Gas pipe running vertically shall be enclosed within a protected riser shaft and be fully fire separated from other M&E risers. Ventilation opening shall be provided for such gas riser
+
+ANNEX 10.1B
+B1.0 DEFINITION
+a. Eating outlet
+“Eating outlet” refers to shop unit/ units operated as food outlet, food court, eating place, restaurant, hawker centre or coffee shop.
+b. Food stall
+“Food stall” refers to stall operated by independent operator within an eating outlet.
+B2.0 GENERAL REQUIREMENTS
+All eating outlets shall not use or store LPG cylinders within building unless all of the following conditions are fulfilled:
+a. The eating outlet is located on or above ground level.
+b. The eating outlet is naturally ventilated.
+B3.0 ALLOWABLE QUANTITY
+a. The maximum allowable quantity of LPG shall be limited to 2 x 15kg cylinders (including standby cylinder) per food stall.
+b. The total capacity for each eating outlet shall not be more than 200kg.
+B4.0 FIRE SAFETY REQUIREMENTS
+B4.1 Compartmentation
+a. The eating outlet shall be separated by fire-resistant walls (1-hr fire resisting rating for sprinkler-protected building and 2-hr for non-sprinkler-protected building) from other areas.
+b. Stalls within food court or coffee shop shall be separated from each other with 1-hr fire-resisting side-walls.
+B4.2 Connection of LPG cylinders
+Each cylinder shall be connected to cooking hob/stove with flexible hose. The LPG cylinders shall not be connected together with manifold system.
+B4.3 LPG cabinet
+a. LPG cylinders shall be housed in a 2.5mm thick steel cabinet. There shall be not more than 2 x 15kg cylinders in each cabinet.
+b. The cabinet shall be placed directly on a firm floor.
+c. The cabinet shall be adequately ventilated with openings at the bottom of the cabinet.
+d. The cabinet shall always be kept free of any combustible materials.
+B4.4 Gas leak detection system
+a. Gas-leak detection system (see Cl.A2.3 of Annex 10.1A) shall be provided (be supplied directly from the building electrical power supply). The system shall be linked to shut off the LPG supply automatically and
+activate local alert alarm. The gas-leak detector shall be located at low level and near to the possible leak areas such as the connecting hoses, LPG cylinder cabinets, etc.
+b. If kitchen automatic fire suppression system is provided, it shall also be linked to shut off the LPG supply automatically.
