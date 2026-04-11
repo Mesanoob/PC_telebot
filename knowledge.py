@@ -93,6 +93,32 @@ SECTION_MAP = [
     ),
 ]
 
+CONTACT_KEYWORDS = [
+    # Generic contact queries
+    "contact", "number", "phone", "call", "hotline", "who to call", "how to reach",
+    "email", "office hour", "directory",
+    # Security / guardhouse
+    "guardhouse", "guard house", "guard", "security", "security desk",
+    # Managing agent (on-site team)
+    "managing agent", "ma number", "ma contact", "ma phone", "ma email",
+    "management office", "management contact", "management agent",
+    "building management", "report issue", "submit request",
+    # Knight Frank (parent company — residents may refer to it by name)
+    "knight frank", "knightfrank",
+    # Staff names
+    "aaron", "aaron tai", "christine", "phng pin", "jesye", "azree",
+    "team manager", "condo manager", "property officer", "resident relations",
+    "technician",
+    # Facilities / booking
+    "booking", "facilities booking", "clubhouse", "function room", "swimming pool",
+    # Maintenance
+    "maintenance number", "repair", "fix", "broken", "fault",
+    # Emergency
+    "emergency", "police", "ambulance", "fire", "scdf",
+    # Council
+    "council contact", "chairperson", "mcst contact",
+]
+
 # Always include a compact summary of the BMSMA key sections
 BMSMA_SUMMARY = """
 KEY BMSMA PROVISIONS (summary):
@@ -112,8 +138,23 @@ def _score(query: str, keywords: list) -> int:
     return sum(1 for kw in keywords if kw in q)
 
 
+def _load_file(fname: str) -> str:
+    path = os.path.join(BASE, fname)
+    if os.path.exists(path):
+        with open(path, encoding="utf-8") as f:
+            return f.read()
+    return ""
+
+
 def get_relevant_knowledge(query: str, max_sections: int = 2) -> str:
     """Return the most relevant knowledge sections for a query."""
+
+    # Check for contact/directory queries first — always return contacts file if matched
+    if _score(query, CONTACT_KEYWORDS) > 0:
+        contacts = _load_file("contacts.txt")
+        if contacts:
+            return f"CONDO CONTACT DIRECTORY:\n\n{contacts}"
+
     scored = []
     for keywords, fname in SECTION_MAP:
         score = _score(query, keywords)
@@ -134,9 +175,8 @@ def get_relevant_knowledge(query: str, max_sections: int = 2) -> str:
         if fname in loaded:
             continue
         loaded.add(fname)
-        path = os.path.join(BASE, fname)
-        if os.path.exists(path):
-            with open(path, encoding="utf-8") as f:
-                sections.append(f.read())
+        content = _load_file(fname)
+        if content:
+            sections.append(content)
 
     return "\n\n---\n\n".join(sections)

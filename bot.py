@@ -7,11 +7,30 @@ import sys
 import logging
 import threading
 import time
+from collections import defaultdict
 from http.server import HTTPServer, BaseHTTPRequestHandler
 from urllib.request import urlopen
 
 from dotenv import load_dotenv
 load_dotenv()
+
+# ── Rate limiting ─────────────────────────────────────────────────
+# Max messages per user within the time window
+RATE_LIMIT = 5          # max requests
+RATE_WINDOW = 60        # per N seconds
+MAX_MSG_LENGTH = 500    # max characters per user message
+
+_user_timestamps: dict[int, list[float]] = defaultdict(list)
+
+def is_rate_limited(user_id: int) -> bool:
+    now = time.time()
+    timestamps = _user_timestamps[user_id]
+    # Drop timestamps outside the window
+    _user_timestamps[user_id] = [t for t in timestamps if now - t < RATE_WINDOW]
+    if len(_user_timestamps[user_id]) >= RATE_LIMIT:
+        return True
+    _user_timestamps[user_id].append(now)
+    return False
 
 logging.basicConfig(
     format="%(asctime)s - %(name)s - %(levelname)s - %(message)s",
@@ -108,6 +127,23 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
     user_msg = update.message.text.strip()
     if not user_msg:
         return
+
+    user_id = update.message.from_user.id
+
+    # Rate limit check
+    if is_rate_limited(user_id):
+        await update.message.reply_text(
+            f"⏳ You're sending messages too quickly. Please wait a moment before trying again."
+        )
+        return
+
+    # Message length cap
+    if len(user_msg) > MAX_MSG_LENGTH:
+        await update.message.reply_text(
+            f"⚠️ Your message is too long (max {MAX_MSG_LENGTH} characters). Please shorten your question."
+        )
+        return
+
     await update.message.chat.send_action("typing")
     try:
         knowledge = get_relevant_knowledge(user_msg)
