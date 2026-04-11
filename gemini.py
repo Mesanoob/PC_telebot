@@ -13,7 +13,7 @@ load_dotenv()
 
 logger = logging.getLogger(__name__)
 
-# Switch to the auto-router to avoid specific model congestion
+# Auto-router picks the most available free model to avoid congestion
 URL = "https://openrouter.ai/api/v1/chat/completions"
 MODEL = "openrouter/free"
 
@@ -23,15 +23,13 @@ You assist residents with condo rules, MCST matters, BCA regulations, renovation
 
 RULES:
 
-1. CONTACT / DIRECTORY QUESTIONS (who to call, phone number, email, office hours, staff names, who is in charge):
+1. CONTACT / DIRECTORY QUESTIONS:
    - Read the CONDO CONTACT DIRECTORY in the knowledge provided.
-   - Give the exact names, roles, phone numbers, and emails directly. List all relevant staff.
-   - The Managing Agent (MA) is Knight Frank. The on-site team handles all day-to-day matters.
-   - Do NOT give generic BCA-style advice. Just provide the contact details clearly.
+   - Give the exact names, roles, phone numbers, and emails directly.
+   - The Managing Agent (MA) is Knight Frank.
 
 2. CONDO / MCST / BCA QUESTIONS:
-   - Use the knowledge provided first. If the knowledge covers it, base your answer on that.
-   - If the knowledge does not cover it, use your general knowledge about Singapore condo law, BMSMA, BCA regulations.
+   - Use the knowledge provided first. 
    - Be direct, clear, and conversational. Keep replies under 250 words.
    - Use bullet points (•) for lists. Use <b>bold</b> for key terms.
 
@@ -49,7 +47,7 @@ RULES:
 
 
 async def _call_llm(api_key: str, knowledge: str, question: str) -> str:
-    """Make a single API call to OpenRouter."""
+    """Make a single API call to OpenRouter with structural safety checks."""
     user_content = f"KNOWLEDGE BASE:\n{knowledge}\n\nUSER QUESTION: {question}\n\nAnswer using the knowledge above. Be concise."
 
     payload = {
@@ -71,16 +69,36 @@ async def _call_llm(api_key: str, knowledge: str, question: str) -> str:
 
     async with httpx.AsyncClient(timeout=45) as client:
         response = await client.post(URL, json=payload, headers=headers)
+        
         if response.status_code != 200:
             logger.error(f"OpenRouter API {response.status_code}: {response.text}")
             response.raise_for_status()
+        
         data = response.json()
 
-    return data["choices"][0]["message"]["content"].strip()
+    # ── SAFETY CHECK ────────────────────────────────────────────────
+    # Prevents 'NoneType' object has no attribute 'strip'
+    try:
+        choices = data.get("choices")
+        if not choices or len(choices) == 0:
+            logger.error(f"OpenRouter returned no choices: {data}")
+            return "⚠️ The AI service is currently unresponsive. Please try again in a few seconds."
+            
+        content = choices[0].get("message", {}).get("content")
+        
+        if content is None:
+            logger.error(f"OpenRouter returned empty content: {data}")
+            return "⚠️ The AI provider returned an empty response. Please try rephrasing your question."
+        
+        return content.strip()
+        
+    except (KeyError, IndexError) as e:
+        logger.error(f"Malformed response structure: {e} | Data: {data}")
+        return "⚠️ I'm having trouble reading the AI's response. Please try again."
 
 
 async def ask_gemini(question: str, knowledge: str) -> str:
-    """Retries with logic for payload size (413) and rate limits (429)."""
+    """Handles retries for payload size (413) and rate limits (429)."""
 
     api_key = os.environ.get("OPENROUTER_API_KEY")
     if not api_key:
@@ -98,15 +116,15 @@ async def ask_gemini(question: str, knowledge: str) -> str:
 
         except httpx.HTTPStatusError as e:
             if e.response.status_code == 413:
-                # Payload too large — halve the knowledge and retry
+                # Payload too large — reduce context size and retry
                 current_knowledge = current_knowledge[: len(current_knowledge) // 2]
-                logger.warning(f"413 Too Large. Retrying with less knowledge.")
+                logger.warning(f"413 Too Large. Retrying with reduced knowledge.")
                 continue
 
             elif e.response.status_code == 429:
-                # Rate limited — wait and retry
+                # Rate limited — wait and try again
                 wait_time = 3 + (attempt * 3)
-                logger.warning(f"Rate limited (429). Waiting {wait_time}s...")
+                logger.warning(f"Rate limited (429). Waiting {wait_time}s before retry {attempt + 1}...")
                 await asyncio.sleep(wait_time)
                 continue
             
@@ -119,5 +137,6 @@ async def ask_gemini(question: str, knowledge: str) -> str:
 
 def _safe_markdown(text: str) -> str:
     """Basic cleanup for Telegram compatibility."""
+    # Convert bold markers if necessary and ensure basic consistency
     text = text.replace("**", "*")
     return text
