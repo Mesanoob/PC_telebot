@@ -96,19 +96,21 @@ SECTION_MAP = [
 CONTACT_KEYWORDS = [
     # Generic contact queries
     "contact", "number", "phone", "call", "hotline", "who to call", "how to reach",
-    "email", "office hour", "directory",
+    "email", "office hour", "directory", "reach", "get in touch", "speak to",
+    "talk to", "call who", "who do i",
     # Security / guardhouse
     "guardhouse", "guard house", "guard", "security", "security desk",
+    "security office", "guard number", "guard contact",
     # Managing agent (on-site team)
     "managing agent", "ma number", "ma contact", "ma phone", "ma email",
-    "management office", "management contact", "management agent",
-    "building management", "report issue", "submit request",
+    "ma office", "management office", "management contact", "management agent",
+    "building management", "report issue", "submit request", "office contact",
     # Knight Frank (parent company — residents may refer to it by name)
     "knight frank", "knightfrank",
     # Staff names
     "aaron", "aaron tai", "christine", "phng pin", "jesye", "azree",
     "team manager", "condo manager", "property officer", "resident relations",
-    "technician",
+    "technician", "in charge", "who is",
     # Facilities / booking
     "booking", "facilities booking", "clubhouse", "function room", "swimming pool",
     # Maintenance
@@ -172,7 +174,10 @@ def get_relevant_knowledge(query: str, max_sections: int = 2) -> str:
     if _score(query, CONTACT_KEYWORDS) > 0:
         contacts = _load_file("contacts.txt")
         if contacts:
-            result = f"CONDO CONTACT DIRECTORY:\n\n{contacts}"
+            result = (
+                "CONDO CONTACT DIRECTORY — use the numbers and names below to answer directly:\n\n"
+                + contacts
+            )
             return _truncate(result, MAX_KNOWLEDGE_CHARS)
 
     scored = []
