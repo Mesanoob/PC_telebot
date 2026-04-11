@@ -133,6 +133,13 @@ KEY BMSMA PROVISIONS (summary):
 """
 
 
+# Hard cap on total knowledge characters sent to Groq.
+# Groq free tier limit: 6,000 tokens per request.
+# Budget: ~2,000 tokens for knowledge (~8,000 chars) leaving room for
+# system prompt (~200 tokens), user message (~100 tokens), and response (512 tokens).
+MAX_KNOWLEDGE_CHARS = 8_000
+
+
 def _score(query: str, keywords: list) -> int:
     q = query.lower()
     return sum(1 for kw in keywords if kw in q)
@@ -146,14 +153,27 @@ def _load_file(fname: str) -> str:
     return ""
 
 
+def _truncate(text: str, max_chars: int) -> str:
+    """Truncate text to max_chars, cutting at the last complete sentence."""
+    if len(text) <= max_chars:
+        return text
+    truncated = text[:max_chars]
+    # Try to cut at last newline to avoid mid-sentence cuts
+    last_newline = truncated.rfind("\n")
+    if last_newline > max_chars * 0.8:
+        truncated = truncated[:last_newline]
+    return truncated + "\n\n[Content truncated to fit token limit]"
+
+
 def get_relevant_knowledge(query: str, max_sections: int = 2) -> str:
     """Return the most relevant knowledge sections for a query."""
 
-    # Check for contact/directory queries first — always return contacts file if matched
+    # Check for contact/directory queries first — return contacts file only (small & exact)
     if _score(query, CONTACT_KEYWORDS) > 0:
         contacts = _load_file("contacts.txt")
         if contacts:
-            return f"CONDO CONTACT DIRECTORY:\n\n{contacts}"
+            result = f"CONDO CONTACT DIRECTORY:\n\n{contacts}"
+            return _truncate(result, MAX_KNOWLEDGE_CHARS)
 
     scored = []
     for keywords, fname in SECTION_MAP:
@@ -171,12 +191,20 @@ def get_relevant_knowledge(query: str, max_sections: int = 2) -> str:
 
     sections = [BMSMA_SUMMARY]
     loaded = set()
+    char_budget = MAX_KNOWLEDGE_CHARS - len(BMSMA_SUMMARY)
+
     for _, fname in top:
         if fname in loaded:
             continue
         loaded.add(fname)
         content = _load_file(fname)
-        if content:
-            sections.append(content)
+        if not content:
+            continue
+        # Only take as much of this section as the remaining budget allows
+        allowed = min(len(content), char_budget)
+        if allowed <= 0:
+            break
+        sections.append(_truncate(content, allowed))
+        char_budget -= allowed
 
     return "\n\n---\n\n".join(sections)

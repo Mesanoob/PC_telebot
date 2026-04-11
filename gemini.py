@@ -28,15 +28,8 @@ Rules:
 - End with: "⚠️ Consult a lawyer or the relevant authority for binding advice." only if the question involves legal action or fines."""
 
 
-async def ask_gemini(question: str, knowledge: str) -> str:
-    """Keep function name for compatibility with bot.py"""
-
-    api_key = os.environ.get("GROQ_API_KEY")
-
-    if not api_key:
-        logger.error("GROQ_API_KEY is missing from environment variables")
-        return "⚠️ Configuration error: API Key not found."
-    
+async def _call_groq(api_key: str, knowledge: str, question: str) -> str:
+    """Make a single Groq API call. Returns response text."""
     user_content = f"""KNOWLEDGE BASE:
 {knowledge}
 
@@ -51,15 +44,13 @@ Answer using the knowledge above. Be concise."""
             {"role": "user", "content": user_content}
         ],
         "temperature": 0.2,
-        "max_tokens": 512
+        "max_tokens": 512,
     }
 
     headers = {
         "Content-Type": "application/json",
-        "Authorization": f"Bearer {api_key}"
+        "Authorization": f"Bearer {api_key}",
     }
-
-    logger.info(f"Sending to Groq: {question[:60]}")
 
     async with httpx.AsyncClient(timeout=30) as client:
         response = await client.post(URL, json=payload, headers=headers)
@@ -68,13 +59,41 @@ Answer using the knowledge above. Be concise."""
             response.raise_for_status()
         data = response.json()
 
-    try:
-        text = data["choices"][0]["message"]["content"].strip()
-        logger.info("Groq response OK")
-        return _safe_markdown(text)
-    except (KeyError, IndexError) as e:
-        logger.error(f"Unexpected Groq response: {data}")
-        raise RuntimeError("Failed to parse Groq response") from e
+    return data["choices"][0]["message"]["content"].strip()
+
+
+async def ask_gemini(question: str, knowledge: str) -> str:
+    """Keep function name for compatibility with bot.py.
+    Retries with halved knowledge if Groq returns 413 (payload too large)."""
+
+    api_key = os.environ.get("GROQ_API_KEY")
+    if not api_key:
+        logger.error("GROQ_API_KEY is missing from environment variables")
+        return "⚠️ Configuration error: API Key not found."
+
+    logger.info(f"Sending to Groq: {question[:60]}")
+
+    current_knowledge = knowledge
+    for attempt in range(3):  # up to 3 attempts, halving content each time
+        try:
+            text = await _call_groq(api_key, current_knowledge, question)
+            logger.info(f"Groq response OK (attempt {attempt + 1})")
+            return _safe_markdown(text)
+
+        except httpx.HTTPStatusError as e:
+            if e.response.status_code == 413:
+                # Payload too large — halve the knowledge and retry
+                current_knowledge = current_knowledge[: len(current_knowledge) // 2]
+                logger.warning(
+                    f"413 Too Large on attempt {attempt + 1}. "
+                    f"Retrying with {len(current_knowledge)} chars of knowledge."
+                )
+            else:
+                raise
+
+    # All retries exhausted
+    logger.error("All Groq retries failed due to payload size.")
+    return "⚠️ I couldn't process your request — the knowledge content is too large. Please try a more specific question."
 
 
 def _safe_markdown(text: str) -> str:
