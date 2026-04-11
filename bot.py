@@ -56,7 +56,7 @@ logger.info("ENV vars OK")
 # ── Group chat behaviour ───────────────────────────────────────────
 # Set to True  → bot answers ALL messages in group (requires Group Privacy OFF in BotFather)
 # Set to False → bot only answers when @mentioned or when someone replies to the bot
-GROUP_RESPOND_TO_ALL = True
+GROUP_RESPOND_TO_ALL = False
 
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ContextTypes
