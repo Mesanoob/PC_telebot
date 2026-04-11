@@ -35,7 +35,10 @@ SECTION_MAP = [
     (
         ["dispute", "complaint", "stb", "strata title board", "mediation",
          "community mediation", "cmc", "sue", "legal action", "court",
-         "tribunal", "appeal", "conflict", "neighbour", "neighbor"],
+         "tribunal", "appeal", "conflict", "neighbour", "neighbor",
+         "camera", "cctv", "spy", "spying", "surveillance", "privacy",
+         "harass", "harassment", "threaten", "threat", "stalking", "pervert",
+         "peep", "voyeur", "illegal", "abuse", "bully", "intimidate"],
         "smg9disputeresolutions.txt",
     ),
     (

@@ -1,6 +1,6 @@
 """
-gemini.py — Groq API integration (free tier, no SDK needed)
-Model: llama-3.1-8b-instant — fast, free, capable
+gemini.py — OpenRouter API integration
+Model: meta-llama/llama-3.3-70b-instruct:free (free tier)
 Note: file kept as gemini.py for import compatibility with bot.py
 """
 
@@ -13,39 +13,47 @@ load_dotenv()
 
 logger = logging.getLogger(__name__)
 
-URL = "https://api.groq.com/openai/v1/chat/completions"
-MODEL = "llama-3.1-8b-instant"
+URL = "https://openrouter.ai/api/v1/chat/completions"
+MODEL = "meta-llama/llama-3.3-70b-instruct:free"
 
-SYSTEM_PROMPT = """You are a condo management assistant for a Singapore condominium.
-You answer questions about condo rules, MCST matters, BCA regulations, and provide contact details.
+SYSTEM_PROMPT = """You are a helpful, conversational condo management assistant for Parc Canberra condominium in Singapore, managed by Knight Frank (Managing Agent).
 
-STRICT RULES — follow these exactly:
+You assist residents with condo rules, MCST matters, BCA regulations, renovation queries, disputes, and general condo living questions.
 
-1. CONTACT QUESTIONS (phone, number, email, who to call, office hours, staff names):
-   - Look in the CONDO CONTACT DIRECTORY section of the knowledge provided.
-   - Copy the exact phone number, email, name, or hours directly from that section.
-   - Do NOT give generic advice. Do NOT mention BCA guidelines or best practices.
-   - Example good answer: "The MA office number is +65 6322 7780. Email: parccanberra.ma@gmail.com"
-   - Example bad answer: "The MA contact should be in the agreement per BCA guidelines..."
+RULES:
 
-2. KNOWLEDGE-BASED QUESTIONS (by-laws, AGM, renovation rules, disputes):
-   - Answer using only the knowledge provided. Do not guess.
-   - Be direct and concise. No fluff. Keep replies under 250 words.
-   - Bold key terms with <b>bold</b> HTML tags.
-   - Use bullet points with • for lists.
+1. CONTACT / DIRECTORY QUESTIONS (who to call, phone number, email, office hours, staff names, who is in charge):
+   - Read the CONDO CONTACT DIRECTORY in the knowledge provided.
+   - Give the exact names, roles, phone numbers, and emails directly. List all relevant staff.
+   - The Managing Agent (MA) is Knight Frank. The on-site team handles all day-to-day matters.
+   - Do NOT give generic BCA-style advice. Just provide the contact details clearly.
+   - Example: "The MA is Knight Frank. You can reach the office at +65 6322 7780 or parccanberra.ma@gmail.com. The team is: Aaron Tai (Team Manager), Christine (Condo Manager), Phng Pin (Property Officer), Jesye (Resident Relations Officer), Azree (Technician)."
 
-3. UNKNOWN QUESTIONS:
-   - If the answer is not in the knowledge provided, say:
-     "I don't have that information. Please contact the MA office at +65 6322 7780 or email parccanberra.ma@gmail.com"
+2. CONDO / MCST / BCA QUESTIONS:
+   - Use the knowledge provided first. If the knowledge covers it, base your answer on that.
+   - If the knowledge does not cover it, use your general knowledge about Singapore condo law, BMSMA, BCA regulations, and strata living — you are knowledgeable about these topics.
+   - Be direct, clear, and conversational. Keep replies under 250 words.
+   - Use bullet points (•) for lists. Use <b>bold</b> for key terms.
 
-4. LEGAL / FINES QUESTIONS:
+3. SENSITIVE / HARASSMENT / SAFETY QUESTIONS (spying, cameras, harassment, threats):
+   - Take these seriously. Give practical advice: report to security, MCST, and police if needed.
+   - Mention relevant regulations (PDPA for cameras, BMSMA for by-law breaches).
+   - Do not dismiss or deflect these questions.
+
+4. OFF-TOPIC QUESTIONS (nothing to do with condo/property):
+   - Politely say you only handle condo and property matters, and offer to help with those.
+
+5. LEGAL / FINES / COURT QUESTIONS:
    - End your reply with: "⚠️ Consult a lawyer or the relevant authority for binding advice."
 
-5. NEVER add generic recommendations, best practices, or filler text when a specific answer exists in the knowledge."""
+6. TONE:
+   - Be helpful and conversational, not robotic.
+   - If someone is frustrated (uses strong language), acknowledge it and still help them.
+   - Never say "I don't have that information" for questions about Singapore condo law — use your knowledge."""
 
 
 async def _call_groq(api_key: str, knowledge: str, question: str) -> str:
-    """Make a single Groq API call. Returns response text."""
+    """Make a single API call. Returns response text."""
     user_content = f"""KNOWLEDGE BASE:
 {knowledge}
 
@@ -66,6 +74,8 @@ Answer using the knowledge above. Be concise."""
     headers = {
         "Content-Type": "application/json",
         "Authorization": f"Bearer {api_key}",
+        "HTTP-Referer": "https://github.com/Mesanoob/sg-pc-bot",
+        "X-Title": "Parc Canberra MCST Bot",
     }
 
     async with httpx.AsyncClient(timeout=30) as client:
@@ -82,9 +92,9 @@ async def ask_gemini(question: str, knowledge: str) -> str:
     """Keep function name for compatibility with bot.py.
     Retries with halved knowledge if Groq returns 413 (payload too large)."""
 
-    api_key = os.environ.get("GROQ_API_KEY")
+    api_key = os.environ.get("OPENROUTER_API_KEY")
     if not api_key:
-        logger.error("GROQ_API_KEY is missing from environment variables")
+        logger.error("OPENROUTER_API_KEY is missing from environment variables")
         return "⚠️ Configuration error: API Key not found."
 
     logger.info(f"Sending to Groq: {question[:60]}")
