@@ -53,6 +53,11 @@ if not GROQ_API_KEY:
 
 logger.info("ENV vars OK")
 
+# ── Group chat behaviour ───────────────────────────────────────────
+# Set to True  → bot answers ALL messages in group (requires Group Privacy OFF in BotFather)
+# Set to False → bot only answers when @mentioned or when someone replies to the bot
+GROUP_RESPOND_TO_ALL = True
+
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ContextTypes
 from knowledge import get_relevant_knowledge
@@ -124,7 +129,32 @@ async def help_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text(HELP, parse_mode="HTML")
 
 async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    if not update.message or not update.message.text:
+        return
+
+    chat_type = update.message.chat.type
     user_msg = update.message.text.strip()
+    bot_username = context.bot.username
+
+    # ── Group chat filtering ───────────────────────────────────────
+    if chat_type in ("group", "supergroup"):
+        if GROUP_RESPOND_TO_ALL:
+            # Respond to everything — requires Group Privacy OFF in BotFather
+            pass
+        else:
+            # Only respond when @mentioned or someone replies to the bot
+            mentioned = bot_username and f"@{bot_username}" in user_msg
+            replied_to_bot = (
+                update.message.reply_to_message is not None
+                and update.message.reply_to_message.from_user is not None
+                and update.message.reply_to_message.from_user.username == bot_username
+            )
+            if not mentioned and not replied_to_bot:
+                return
+            # Strip the @mention from the message before processing
+            if mentioned:
+                user_msg = user_msg.replace(f"@{bot_username}", "").strip()
+
     if not user_msg:
         return
 
@@ -133,7 +163,7 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
     # Rate limit check
     if is_rate_limited(user_id):
         await update.message.reply_text(
-            f"⏳ You're sending messages too quickly. Please wait a moment before trying again."
+            "⏳ You're sending messages too quickly. Please wait a moment before trying again."
         )
         return
 
